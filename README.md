@@ -2,7 +2,7 @@
 
 I’m working on The Living Civilization, a book exploring the pillars of a peaceful global future. Our evolution has taken us from the simple to the complex, and has opened the door to the abstractions that make civilization possible. Those abstractions are the pillars of the Metaverse, a universal framework of systems that underpins all civilization, which I explore in my back cover text:
 
-On the canvas of <a href="space">Space</a> and Time, Civilization builds upon the pillars of the Universe: 
+On the canvas of <a href="space">Space</a> and <a href="time">Time</a>, Civilization builds upon the pillars of the Universe: 
 
 - Matter as substance
 - Energy as flow
