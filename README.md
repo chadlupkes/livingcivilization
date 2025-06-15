@@ -1,5 +1,4 @@
-# livingcivilization.github.io
-Building a Living Civilization
+# The Living Civilization
 
 I’m working on The Living Civilization, a book exploring the pillars of a peaceful global future. Our evolution has taken us from the simple to the complex, and has opened the door to the abstractions that make civilization possible. Those abstractions are the pillars of the Metaverse, a universal framework of systems that underpins all civilization, which I explore in my back cover text:
 
