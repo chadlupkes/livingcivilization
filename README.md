@@ -4,7 +4,7 @@ I’m working on The Living Civilization, a book exploring the pillars of a peac
 
 On the canvas of <a href="space">Space</a> and <a href="time">Time</a>, Civilization builds upon the pillars of the Universe: 
 
-- Matter as substance
+- <a href="matter">Matter</a> as substance
 - Energy as flow
 - Physics as the rules
 - Chemistry as the gateway to complexity
