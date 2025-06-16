@@ -5,8 +5,8 @@ I’m working on The Living Civilization, a book exploring the pillars of a peac
 On the canvas of <a href="space">Space</a> and <a href="time">Time</a>, Civilization builds upon the pillars of the Universe: 
 
 - <a href="matter">Matter</a> as substance
-- Energy as flow
-- Physics as the rules
+- <a href="energy">Energy</a> as flow
+- <a href="physics">Physics</a> as the rules
 - Chemistry as the gateway to complexity
 
 From simple to complex, then complex to abstract, civilization creates four systems that form the Metaverse: 
