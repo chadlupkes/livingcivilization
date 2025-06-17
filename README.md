@@ -9,7 +9,7 @@ On the canvas of <a href="space">Space</a> and <a href="time">Time</a>, Civiliza
 - <a href="physics">Physics</a> as the rules
 - <a href="chemistry">Chemistry</a> as the gateway to complexity
 
-Our Evolution has taken us from the simple to the complex, and has opened the door to the Abstractions that make civilization possible. Those abstractions are the pillars of the Metaverse, a universal framework of systems that underpins civilization:
+Our <a href="evolution">Evolution</a> has taken us from the simple to the complex, and has opened the door to the Abstractions that make civilization possible. Those abstractions are the pillars of the Metaverse, a universal framework of systems that underpins civilization:
 
 - Capital, systems of measurement, value and allocation
 - Information, systems of gathering, verifying and sharing knowledge
