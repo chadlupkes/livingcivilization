@@ -73,4 +73,4 @@ Even in English, “energy” stretches further—vigor in a crowd, the buzz of 
 
 ### The Flow Ahead
 
-In this chapter, we’ve traced Energy’s journey—from the primal forces of creation to the harnessed currents of today. It is gravity’s pull, electromagnetism’s flash, nuclear might, and more—the lifeblood of Civilization. As we step deeper into the concepts of Living Civilization, it remains our companion, driving change and sustaining complexity. Next, we turn to <a href="physics">Physics</a>, the rules that govern this flow.
+In this chapter, we’ve traced Energy’s journey—from the primal forces of creation to the harnessed currents of today. It is gravity’s pull, electromagnetism’s flash, nuclear might, and more—the lifeblood of Civilization. As we step deeper into the concepts of Living Civilization, it remains our companion, driving change and sustaining complexity. Next, we turn to [Physics](/physics.md), the rules that govern this flow.
