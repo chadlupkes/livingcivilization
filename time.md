@@ -1,5 +1,5 @@
 # Time
-Time awoke with <a href="space.md">Space</a> in the fiery crucible of the Big Bang, its metronome setting the rhythm of existence’s unfolding tale (Hawking, 1988). Tick Tock, the clock never falters, its sands cascading through the hourglass for 13.8 billion years, as the chorus of science now sings in harmony (Hawking, 1988). From this primal dawn to visions of eternity’s end, scientists and poets of the cosmos have woven myriad tapestries, each tracing time’s arc through the universe’s grand narrative (Barbour, 1999).
+Time awoke with [Space](/space.md) in the fiery crucible of the Big Bang, its metronome setting the rhythm of existence’s unfolding tale (Hawking, 1988). Tick Tock, the clock never falters, its sands cascading through the hourglass for 13.8 billion years, as the chorus of science now sings in harmony (Hawking, 1988). From this primal dawn to visions of eternity’s end, scientists and poets of the cosmos have woven myriad tapestries, each tracing time’s arc through the universe’s grand narrative (Barbour, 1999).
 
 Carl Sagan, a weaver of cosmic tales, crafted the Cosmic Calendar, a luminous map that compresses the universe’s vast chronicle from the Big Bang’s midnight on January 1st to the fleeting present at December’s end (Sagan, 1980). Through The Dragons of Eden and Cosmos, and with the radiant voice of his television series, he cast this vision across the world, inviting all to marvel at time’s grandeur (Sagan, 1980; Davidson, 1999). Yet, his calendar pauses at the now, its gaze fixed on the past and present, leaving the unwritten future (Adams & Laughlin, 1999).
 
@@ -134,4 +134,4 @@ The exponential lens compresses this, but linear time unveils opportunity (Adams
 
 Our canvas lies before us. We know the spatial scales we can see, touch, and manifest our dreams within, and our place in the Cosmological Century, with time before the stars fade (Dick, 2018). We must seize this time, to the fullest, driven by purpose and vision (Zimbardo & Boyd, 2008).
 
-Our next step in this journey is a review of the Pillars of the Universe.  Matter, Energy, Physics and Chemistry.  Let us continue, and step forward.
+Our next step in this journey is a review of the Pillars of the Universe.  [Matter](/matter.md), Energy, Physics and Chemistry.  Let us continue, and step forward.
