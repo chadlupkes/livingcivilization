@@ -2,14 +2,14 @@
 
 I’m working on The Living Civilization, a book exploring the pillars of a peaceful global future.
 
-On the canvas of [Space](/space.md) and <a href="time">Time</a>, Civilization builds upon the pillars of the Universe: 
+On the canvas of [Space](/space.md) and [Time](/time.md), Civilization builds upon the pillars of the Universe: 
 
-- <a href="matter">Matter</a> as substance
-- <a href="energy">Energy</a> as flow
-- <a href="physics">Physics</a> as the rules
-- <a href="chemistry">Chemistry</a> as the gateway to complexity
+- [Matter](/matter.md) as substance
+- [Energy](/energy.md) as flow
+- [Physics](/physics.md) as the rules
+- [Chemistry](/chemistry.md) as the gateway to complexity
 
-Our <a href="evolution">Evolution</a> has taken us from the simple to the complex, and has opened the door to the <a href="abstraction">Abstractions</a> that make civilization possible. Those abstractions are the pillars of the Metaverse, a universal framework of systems that underpins civilization:
+Our [Evolution](/evolution.md) has taken us from the simple to the complex, and has opened the door to the [Abstractions](/abstraction.md) that make civilization possible. Those abstractions are the pillars of the Metaverse, a universal framework of systems that underpins civilization:
 
 - Capital, systems of measurement, value and allocation
 - Information, systems of gathering, verifying and sharing knowledge
