@@ -1,15 +1,15 @@
 # The Living Civilization
 
-I’m working on The Living Civilization, a book exploring the pillars of a peaceful global future. Our evolution has taken us from the simple to the complex, and has opened the door to the abstractions that make civilization possible. Those abstractions are the pillars of the Metaverse, a universal framework of systems that underpins all civilization, which I explore in my back cover text:
+I’m working on The Living Civilization, a book exploring the pillars of a peaceful global future.
 
 On the canvas of <a href="space">Space</a> and <a href="time">Time</a>, Civilization builds upon the pillars of the Universe: 
 
 - <a href="matter">Matter</a> as substance
 - <a href="energy">Energy</a> as flow
 - <a href="physics">Physics</a> as the rules
-- Chemistry as the gateway to complexity
+- <a href="chemistry">Chemistry</a> as the gateway to complexity
 
-From simple to complex, then complex to abstract, civilization creates four systems that form the Metaverse: 
+Our Evolution has taken us from the simple to the complex, and has opened the door to the Abstractions that make civilization possible. Those abstractions are the pillars of the Metaverse, a universal framework of systems that underpins civilization:
 
 - Capital, systems of measurement, value and allocation
 - Information, systems of gathering, verifying and sharing knowledge
