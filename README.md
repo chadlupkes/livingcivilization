@@ -9,7 +9,7 @@ On the canvas of [Space](/space.md) and [Time](/time.md), Civilization builds up
 - [Physics](/physics.md) as the rules
 - [Chemistry](/chemistry.md) as the gateway to complexity
 
-Our [Evolution](/evolution.md) has taken us from the simple to the complex, and has opened the door to the [Abstractions](/abstraction.md) that make civilization possible. Those abstractions are the pillars of the Metaverse, a universal framework of systems that underpins civilization:
+Our [Evolution](/evolution.md) has taken us from the simple to the complex, and has opened the door to the [Abstractions](/abstraction.md) that make civilization possible. Those abstractions are the pillars of the [Metaverse](/metaverse.md), a universal framework of systems that underpins civilization:
 
 - Capital, systems of measurement, value and allocation
 - Information, systems of gathering, verifying and sharing knowledge
