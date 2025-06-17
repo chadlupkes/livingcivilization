@@ -2,7 +2,7 @@
 
 I’m working on The Living Civilization, a book exploring the pillars of a peaceful global future.
 
-On the canvas of <a href="space">Space</a> and <a href="time">Time</a>, Civilization builds upon the pillars of the Universe: 
+On the canvas of [Space](/space) and <a href="time">Time</a>, Civilization builds upon the pillars of the Universe: 
 
 - <a href="matter">Matter</a> as substance
 - <a href="energy">Energy</a> as flow
