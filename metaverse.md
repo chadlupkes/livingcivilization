@@ -372,7 +372,7 @@ The Metaverse, woven through Network’s connections, Consensus’ agreements, F
 
 Now let's dive deep into each of the Pillars of the Metaverse.
 
-- Capital: the systems of measurement, value and allocation.
+- [Capital](/capital.md): the systems of measurement, value and allocation.
 - Information: the systems to gather, validate, and share knowledge.
 - Innovation: the systems of generation, creativity and application.
 - Trust: the systems of coordination, governance and assurance.
