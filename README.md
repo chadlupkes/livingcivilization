@@ -34,3 +34,5 @@ The Great Filter calls, summoning all civilizations to transcend their past. Can
 Other articles in this network:
 
 [Digital Intelligence](/digitalintelligence.md)
+
+I am seeing feedback on this book, Living Civilization.  Postive feedback is ideal, but constructive feedback is also welcome.  Please send me a note here on Github or contact me on social media.  https://linktr.ee/chadlupkes
