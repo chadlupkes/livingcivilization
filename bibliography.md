@@ -1,0 +1,388 @@
+# Space
+
+- Sagan, C. (1980). Cosmos. Random House.
+- Tyson, N. D. (Executive Producer). (2014). Cosmos: A Spacetime Odyssey [TV series]. Fox.
+- Carroll, B. W., & Ostlie, D. A. (2017). An introduction to modern astrophysics (2nd ed.). Cambridge University Press.
+- Planck, M. (1900). Zur Theorie des Gesetzes der Energieverteilung im Normalspectrum. Verhandlungen der Deutschen Physikalischen Gesellschaft, 2, 237–250.
+- Gell-Mann, M. (1964). A schematic model of baryons and mesons. Physics Letters, 8(3), 214–215. [https://doi.org/10.1016/S0031-9163(64)92001-3](https://doi.org/10.1016/S0031-9163\(64\)92001-3)
+- Zweig, G. (1964). An SU(3) model for strong interaction symmetry and its breaking (CERN Report No. 8182/TH.401). CERN.
+- Fermi, E. (1934). Tentativo di una teoria dei raggi β. Il Nuovo Cimento, 11(1), 1–19. [https://doi.org/10.1007/BF02959820](https://doi.org/10.1007/BF02959820)
+- Halzen, F., & Martin, A. D. (1984). Quarks and leptons: An introductory course in modern particle physics. Wiley.
+- Joyce, J. (1939). Finnegans Wake. Faber and Faber.
+- Griffiths, D. J. (2008). Introduction to elementary particles (2nd ed.). Wiley-VCH.
+- Rutherford, E. (1911). The scattering of α and β particles by matter and the structure of the atom. Philosophical Magazine, Series 6, 21(125), 669–688. [https://doi.org/10.1080/14786440508637080](https://doi.org/10.1080/14786440508637080)
+- Geiger, H., & Marsden, E. (1913). The laws of deflexion of α particles through large angles. Philosophical Magazine, Series 6, 25(148), 604–623. [https://doi.org/10.1080/14786440408634197](https://doi.org/10.1080/14786440408634197)
+- Bohr, N. (1913). On the constitution of atoms and molecules. Philosophical Magazine, Series 6, 26(151), 1–25. [https://doi.org/10.1080/14786441308634955](https://doi.org/10.1080/14786441308634955)
+- Krane, K. S. (1987). Introductory nuclear physics. Wiley.
+- Schrödinger, E. (1926). Quantisierung als Eigenwertproblem. Annalen der Physik, 384(4), 361–376. [https://doi.org/10.1002/andp.19263840404](https://doi.org/10.1002/andp.19263840404)
+- Kirchhoff, G., & Bunsen, R. (1860). Chemische Analyse durch Spectralbeobachtungen. Annalen der Physik und Chemie, 186(6), 160–189. [https://doi.org/10.1002/andp.18601860602](https://doi.org/10.1002/andp.18601860602)
+- Levine, I. N. (2017). Quantum chemistry (7th ed.). Pearson.
+- Lavoisier, A. L. (1789). Traité élémentaire de chimie. Cuchet.
+- Pauling, L. (1939). The nature of the chemical bond and the structure of molecules and crystals: An introduction to modern structural chemistry. Cornell University Press.
+- McQuarrie, D. A., & Simon, J. D. (1997). Physical chemistry: A molecular approach. University Science Books.
+- Watson, J. D., & Crick, F. H. C. (1953). Molecular structure of nucleic acids: A structure for deoxyribose nucleic acid. Nature, 171(4356), 737–738. [https://doi.org/10.1038/171737a0](https://doi.org/10.1038/171737a0)
+- Schwann, T. (1839). Mikroskopische Untersuchungen über die Übereinstimmung in der Struktur und dem Wachstum der Tiere und Pflanzen. Sander’sche Buchhandlung.
+- Alberts, B., Johnson, A., Lewis, J., Raff, M., Roberts, K., & Walter, P. (2014). Molecular biology of the cell (6th ed.). Garland Science.
+- Hooke, R. (1665). Micrographia: Or some physiological descriptions of minute bodies made by magnifying glasses. Royal Society. [https://doi.org/10.5962/bhl.title.904](https://doi.org/10.5962/bhl.title.904)
+- Schleiden, M. J. (1838). Beiträge zur Phytogenesis. Archiv für Anatomie, Physiologie und wissenschaftliche Medicin, 137–176.
+- Schwann, T. (1839). Mikroskopische Untersuchungen über die Übereinstimmung in der Struktur und dem Wachstum der Tiere und Pflanzen. Sander’sche Buchhandlung.
+- Virchow, R. (1858). Die Cellularpathologie in ihrer Begründung auf physiologische und pathologische Gewebelehre. August Hirschwald.
+- Bichat, X. (1801). Anatomie générale, appliquée à la physiologie et à la médecine. Brosson, Gabon et Cie.
+- Ross, M. H., Pawlina, W., & Barnash, T. A. (2014). Histology: A text and atlas with correlated cell and molecular biology (7th ed.). Wolters Kluwer Health.
+- Leeuwenhoek, A. van. (1674). Observations, communicated to the publisher by Mr. Antony van Leeuwenhoeck, in a Dutch letter of the 7th of October 1674. Philosophical Transactions of the Royal Society, 9(103-104), 178–182. [https://doi.org/10.1098/rstl.1674.0039](https://doi.org/10.1098/rstl.1674.0039)
+- Malpighi, M. (1666). De viscerum structura exercitatio anatomica. Typis Ioannis Martyn.
+- Guyton, A. C., & Hall, J. E. (2015). Textbook of medical physiology (13th ed.). Elsevier.
+- Vitruvius. (1914). The ten books on architecture (M. H. Morgan, Trans.). Harvard University Press. (Original work published ca. 25 BCE).
+- da Vinci, L. (1989). The notebooks of Leonardo da Vinci (J. P. Richter, Trans.). Dover Publications. (Original work ca. 1490).
+- Tortora, G. J., & Derrickson, B. (2017). Principles of anatomy and physiology (15th ed.). Wiley.
+- Humboldt, A. von. (1845–1862). Cosmos: A sketch of a physical description of the universe (E. C. Otté, Trans.). Harper & Brothers. (Original work published 1845–1862).
+- Douglass, A. E. (1919). Climatic cycles and tree-growth: A study of the annual rings of trees in relation to climate and solar activity. Carnegie Institution of Washington.
+- Raven, P. H., Evert, R. F., & Eichhorn, S. E. (2016). Biology of plants (8th ed.). W.H. Freeman.
+- Agassiz, L. (1840). Études sur les glaciers. Jent et Gassmann.
+- Muir, J. (1901). Our national parks. Houghton, Mifflin and Company.
+- Roosevelt, T. (1903). Executive order reserving lands for Yosemite National Park. U.S. Government Printing Office.
+- Tarbuck, E. J., Lutgens, F. K., & Tasa, D. G. (2017). Earth: An introduction to physical geology (12th ed.). Pearson.
+- Lewis, M., & Clark, W. (2004). The journals of the Lewis and Clark expedition (G. E. Moulton, Ed.). University of Nebraska Press. (Original work published 1804–1806).
+- Cook, J. (1784). A voyage to the Pacific Ocean, undertaken by the command of His Majesty, for making discoveries in the Northern Hemisphere (Vol. 1). G. Nicol & T. Cadell. (Original work published 1776–1778).
+- Hutton, J. (1788). Theory of the Earth; or an investigation of the laws observable in the composition, dissolution, and restoration of land upon the globe. Transactions of the Royal Society of Edinburgh, 1(2), 209–304. [https://doi.org/10.1017/S0080456800029227](https://doi.org/10.1017/S0080456800029227)
+- Smith, W. (1815). A delineation of the strata of England and Wales, with part of Scotland. John Cary.
+- Christopherson, R. W., & Birkeland, G. H. (2017). Geosystems: An introduction to physical geography (10th ed.). Pearson.
+- Wegener, A. (1915). Die Entstehung der Kontinente und Ozeane. Vieweg.
+- Skinner, B. J., Porter, S. C., & Park, J. (2019). Dynamic Earth: An introduction to physical geology (6th ed.). Wiley.
+- Getis, A., Getis, J., Bjelland, M., & Fellmann, J. D. (2018). Introduction to geography (15th ed.). McGraw-Hill Education.
+- Hartmann, W. K., & Davis, D. R. (1975). Satellite-sized planetesimals and lunar origin. Icarus, 24(4), 504–515. [https://doi.org/10.1016/0019-1035(75)90070-6](https://doi.org/10.1016/0019-1035\(75\)90070-6)
+- Spudis, P. D. (1996). The once and future Moon. Smithsonian Institution Press.
+- de Pater, I., & Lissauer, J. J. (2015). Planetary sciences (2nd ed.). Cambridge University Press.
+- Helin, E. F., Pravdo, S. H., & Rabinowitz, D. L. (1997). The Near-Earth Asteroid Tracking (NEAT) program: An automated system for telescope control and data reduction. Bulletin of the American Astronomical Society, 29(5), 1326.
+- NASA Jet Propulsion Laboratory. (2024). Discovery statistics. Center for Near-Earth Object Studies (CNEOS). [https://cneos.jpl.nasa.gov/stats/totals.html](https://cneos.jpl.nasa.gov/stats/totals.html)
+- Zeilik, M., & Gregory, S. A. (1998). Introductory astronomy and astrophysics (4th ed.). Saunders College Publishing.
+- Sagan, C., & Pollack, J. B. (1967). On the nature of the clouds and the greenhouse effect on Venus. The Astrophysical Journal, 149(3), 731–742. [https://doi.org/10.1086/149305](https://doi.org/10.1086/149305)
+- Lowell, P. (1895). Mars. Houghton, Mifflin and Company.
+- Antoniadi, E. M. (1930). La planète Mars: Étude basée sur les résultats obtenus avec le grand télescope de l’Observatoire de Meudon. Hermann & Cie.
+- Sheehan, W. (1996). The planet Mars: A history of observation and discovery. University of Arizona Press.
+- Seager, S. (2010). Exoplanet atmospheres: Physical processes. Princeton University Press.
+- Shapley, H. (1953). Of stars and men: Human response to an expanding universe. Beacon Press.
+- Hart, M. H. (1978). The evolution of the atmosphere of the Earth. Icarus, 33(1), 23–39. [https://doi.org/10.1016/0019-1035(78)90021-0](https://doi.org/10.1016/0019-1035\(78\)90021-0)  
+- Kasting, J. F., Whitmire, D. P., & Reynolds, R. T. (1993). Habitable zones around main sequence stars. Icarus, 101(1), 108–128. [https://doi.org/10.1006/icar.1993.1010](https://doi.org/10.1006/icar.1993.1010)
+- National Aeronautics and Space Administration. (2015). NASA technology roadmaps: TA 6: Human health, life support, and habitation systems. NASA. [https://www.nasa.gov/sites/default/files/atoms/files/2015_nasa_technology_roadmaps_ta_6_human_health_life_support_habitation.pdf](https://www.nasa.gov/sites/default/files/atoms/files/2015_nasa_technology_roadmaps_ta_6_human_health_life_support_habitation.pdf)
+- Russell, C. T. (2006). The solar wind interaction with the Earth’s magnetosphere: A tutorial. IEEE Transactions on Plasma Science, 34(5), 2078–2087. [https://doi.org/10.1109/TPS.2006.881641](https://doi.org/10.1109/TPS.2006.881641)
+- King, H. C. (1955). The history of the telescope. Sky Publishing Corporation.
+- Chapman, A. (2009). A new perceived reality: Thomas Harriot’s Moon maps. Astronomy & Geophysics, 50(1), 1.27–1.33. [https://doi.org/10.1111/j.1468-4004.2009.50127.x](https://doi.org/10.1111/j.1468-4004.2009.50127.x)
+- Galilei, G. (1610). Sidereus nuncius (A. Van Helden, Trans.). University of Chicago Press (1989 reprint).
+- Van Helden, A. (1984). Galileo, telescopic astronomy, and the Copernican system. In The general history of astronomy: Volume 2A (pp. 81–99). Cambridge University Press.
+- Morrison, D. (1982). Voyages to Jupiter. NASA SP-439. National Aeronautics and Space Administration. [https://history.nasa.gov/SP-439/SP-439.htm](https://history.nasa.gov/SP-439/SP-439.htm)
+- Huygens, C. (1659). Systema Saturnium (J. E. McGuire, Trans.). University of Chicago Press (1985 reprint).
+- Hoskin, M. (2011). Discoverers of the universe: William and Caroline Herschel. Princeton University Press.
+- Grosser, M. (1962). The discovery of Neptune. Harvard University Press.
+- Le Verrier, U. J. J., & Galle, J. G. (1846). On the planet Neptune. Astronomische Nachrichten, 25(589), 391–394. [https://doi.org/10.1002/asna.18460252502](https://doi.org/10.1002/asna.18460252502)
+- Hoyt, W. G. (1980). Planets X and Pluto. University of Arizona Press.
+- Tombaugh, C. W., & Moore, P. (1980). Out of the darkness: The planet Pluto. Stackpole Books.
+- Jewitt, D., & Luu, J. (2004). Crystalline water ice on the Kuiper Belt object (50000) Quaoar. Nature, 432(7018), 731–733. [https://doi.org/10.1038/nature03111](https://doi.org/10.1038/nature03111)
+- Stone, E. C., & Miner, E. D. (1989). The Voyager 2 encounter with the Neptunian system. Science, 246(4936), 1417–1421. [https://doi.org/10.1126/science.246.4936.1417](https://doi.org/10.1126/science.246.4936.1417)
+- National Aeronautics and Space Administration. (2025). Voyager mission status. NASA Jet Propulsion Laboratory. [https://voyager.jpl.nasa.gov/mission/status/](https://voyager.jpl.nasa.gov/mission/status/)
+- Butrica, A. J. (1996). To see the unseen: A history of planetary radar astronomy. NASA SP-4218. National Aeronautics and Space Administration. [https://history.nasa.gov/SP-4218/sp4218.htm](https://history.nasa.gov/SP-4218/sp4218.htm)
+- Sagan, C., Drake, F. D., Druyan, A., Ferris, T., Lomberg, J., & Sagan, L. S. (1978). Murmurs of Earth: The Voyager interstellar record. Random House.
+- Krimigis, S. M., Decker, R. B., Roelof, E. C., Hill, M. E., Armstrong, T. P., Gloeckler, G., Hamilton, D. C., & Lanzerotti, L. J. (2013). Search for the exit: Voyager 1 at the heliosphere’s border with the galaxy. Science, 341(6142), 144–147. [https://doi.org/10.1126/science.1235721](https://doi.org/10.1126/science.1235721)
+- Dick, S. J. (2018). Astrobiology, discovery, and societal impact. Cambridge University Press.
+- Dones, L., Weissman, P. R., Levison, H. F., & Duncan, M. J. (2004). Oort Cloud formation and dynamics. In Comets II (pp. 153–174). University of Arizona Press.
+- Rickman, H. (2014). The Oort Cloud and long-period comets. Advances in Space Research, 54(7), 1478–1485. [https://doi.org/10.1016/j.asr.2014.02.017](https://doi.org/10.1016/j.asr.2014.02.017)
+- Crawford, I. A. (2019). The astronomical, astrobiological, and planetary science case for interstellar spaceflight. Acta Astronautica, 165, 299–309. [https://doi.org/10.1016/j.actaastro.2019.09.013](https://doi.org/10.1016/j.actaastro.2019.09.013)
+- Hoskin, M. (1999). The Cambridge concise history of astronomy. Cambridge University Press.
+- Innes, R. T. A. (1915). A faint star of large proper motion. Circular of the Union Observatory, 30, 235–236.
+- Anglada-Escudé, G., Amado, P. J., Barnes, J., Berdiñas, Z. M., Butler, R. P., Coleman, G. A. L., ... & Zechmeister, M. (2016). A terrestrial planet candidate in a temperate orbit around Proxima Centauri. Nature, 536(7617), 437–440. [https://doi.org/10.1038/nature19106](https://doi.org/10.1038/nature19106)
+- Zhao, L., Fischer, D. A., Brewer, J., Giguere, M., & Rojas-Ayala, B. (2018). Planet detectability in the Alpha Centauri system. The Astronomical Journal, 155(1), 24. [https://doi.org/10.3847/1538-3881/aa9bea](https://doi.org/10.3847/1538-3881/aa9bea)
+- Reylé, C., Jardine, M., Fouqué, P., Caballero, J. A., Hambly, N. C., & Cornu, D. (2021). The 10 parsec sample in the Gaia era. Astronomy & Astrophysics, 650, A201. [https://doi.org/10.1051/0004-6361/202140277](https://doi.org/10.1051/0004-6361/202140277)
+- Storey, M., Roberts, R. G., & Saidin, M. (2012). Astronomically calibrated 40Ar/39Ar age for the Toba supereruption and global synchronization of Quaternary records. Proceedings of the National Academy of Sciences, 109(46), 18684–18688. [https://doi.org/10.1073/pnas.1208178109](https://doi.org/10.1073/pnas.1208178109)
+- Backman, D., Marengo, M., Stapelfeldt, K., Su, K., Wilner, D., Dowell, C. D., ... & Zuckerman, B. (2009). Epsilon Eridani’s planetary debris disk: Structure and dynamics based on Spitzer and Caltech Submillimeter Observatory observations. The Astrophysical Journal, 690(2), 1522–1538. [https://doi.org/10.1088/0004-637X/690/2/1522](https://doi.org/10.1088/0004-637X/690/2/1522)
+- : Ramírez, I., & Allende Prieto, C. (2011). Fundamental parameters and chemical composition of Arcturus. The Astrophysical Journal, 743(2), 135. [https://doi.org/10.1088/0004-637X/743/2/135](https://doi.org/10.1088/0004-637X/743/2/135)
+- Yoon, J., Peterson, D. M., Kurucz, R. L., & Zagarello, R. J. (2010). A new view of Vega’s dust disk: Multiwavelength modeling and imaging. The Astrophysical Journal, 708(1), 71–79. [https://doi.org/10.1088/0004-637X/708/1/71](https://doi.org/10.1088/0004-637X/708/1/71)
+- Harper, G. M., Brown, A., Guinan, E. F., O’Gorman, E., Richards, A. M. S., Kervella, P., & Decin, L. (2017). An updated 2017 astrometric solution for Betelgeuse. The Astronomical Journal, 154(1), 11. [https://doi.org/10.3847/1538-3881/aa6ff9](https://doi.org/10.3847/1538-3881/aa6ff9)
+- Frisch, P. C., & Dwarkadas, V. V. (2018). The Local Bubble: Its dynamical and radiative history. Journal of Physics: Conference Series, 1031, 012003. [https://doi.org/10.1088/1742-6596/1031/1/012003](https://doi.org/10.1088/1742-6596/1031/1/012003)
+- Wallner, A., Feige, J., Fifield, L. K., Froehlich, M. B., Golser, R., Hotchkis, M. A. C., ... & Tims, S. G. (2016). Recent near-Earth supernovae probed by global deposition of interstellar radioactive 60Fe. Nature, 532(7597), 69–72. [https://doi.org/10.1038/nature17196](https://doi.org/10.1038/nature17196)
+- Perryman, M. A. C., Brown, A. G. A., Lebreton, Y., Gomez, A., Turon, C., de Strobel, G. C., ... & Crifo, F. (1998). The Hyades: Distance, structure, dynamics, and age. Astronomy & Astrophysics, 331, 81–120.
+- Muench, A. A., Lada, E. A., Lada, C. J., & Alves, J. (2008). The Orion star-forming region. In Handbook of star forming regions: Volume I (pp. 483–512). Astronomical Society of the Pacific.
+- Fich, M., & Blitz, L. (1984). The Heart and Soul Nebulae: A study of molecular clouds in the Perseus Arm. The Astrophysical Journal, 279, 125–135. [https://doi.org/10.1086/161873](https://doi.org/10.1086/161873)
+- Gravity Collaboration, Abuter, R., Amorim, A., Anugu, N., Bauböck, M., Benisty, M., ... & Waisberg, I. (2019). A geometric distance measurement to the Galactic Center black hole with 0.3% uncertainty. Astronomy & Astrophysics, 625, L10. [https://doi.org/10.1051/0004-6361/201935656](https://doi.org/10.1051/0004-6361/201935656)
+- Ghez, A. M., Salim, S., Weinberg, N. N., Lu, J. R., Do, T., Morris, M. R., ... & Witzel, G. (2008). Measuring distance and properties of the Milky Way’s central supermassive black hole with stellar orbits. The Astrophysical Journal, 689(2), 1044–1062. [https://doi.org/10.1086/592738](https://doi.org/10.1086/592738)
+- Bland-Hawthorn, J., & Gerhard, O. (2016). The Galaxy in context: Structure, dynamics, and evolution. Annual Review of Astronomy and Astrophysics, 54, 529–596. [https://doi.org/10.1146/annurev-astro-081915-023441](https://doi.org/10.1146/annurev-astro-081915-023441)
+- Asimov, I. (1986). Foundation and Earth. Doubleday.
+- Dressing, C. D., & Charbonneau, D. (2015). The occurrence of potentially habitable planets orbiting M dwarfs estimated from the full Kepler dataset and an empirical measurement of the detection sensitivity. The Astrophysical Journal, 807(1), 45. [https://doi.org/10.1088/0004-637X/807/1/45](https://doi.org/10.1088/0004-637X/807/1/45)
+- Fernie, J. D. (1969). The period and the parsec. American Journal of Physics, 37(4), 405–408. [https://doi.org/10.1119/1.1975587](https://doi.org/10.1119/1.1975587)
+- Pietrzyński, G., Graczyk, D., Gieren, W., Thompson, I. B., Pilecki, B., Udalski, A., ... & Contreras Ramos, R. (2013). An eclipsing-binary distance to the Large Magellanic Cloud accurate to two per cent. Nature, 495(7439), 76–79. [https://doi.org/10.1038/nature11878](https://doi.org/10.1038/nature11878)
+- McConnachie, A. W. (2012). The observed properties of dwarf galaxies in and around the Local Group. The Astronomical Journal, 144(1), 4. [https://doi.org/10.1088/0004-6256/144/1/4](https://doi.org/10.1088/0004-6256/144/1/4)
+- Ibata, R. A., Lewis, G. F., Irwin, M. J., & Quinn, T. (2001). The Sagittarius dwarf galaxy: A dynamical analysis. The Astrophysical Journal, 551(1), 294–311. [https://doi.org/10.1086/320055](https://doi.org/10.1086/320055)
+- Israel, F. P. (1998). Centaurus A - NGC 5128. Astronomy and Astrophysics Review, 8(4), 237–278. [https://doi.org/10.1007/s001590050011](https://doi.org/10.1007/s001590050011)
+- Freedman, W. L., Madore, B. F., Gibson, B. K., Ferrarese, L., Kelson, D. D., Sakai, S., ... & Stetson, P. B. (2001). Final results from the Hubble Space Telescope Key Project to measure the Hubble constant. The Astrophysical Journal, 553(1), 47–72. [https://doi.org/10.1086/320638](https://doi.org/10.1086/320638)
+- Tully, R. B., Courtois, H. M., & Sorce, J. G. (2016). Cosmicflows-3. The Astronomical Journal, 152(2), 50. [https://doi.org/10.3847/0004-6256/152/2/50](https://doi.org/10.3847/0004-6256/152/2/50)
+- Event Horizon Telescope Collaboration, Akiyama, K., Alberdi, A., Alef, W., Asada, K., Azulay, R., ... & Zensus, J. A. (2019). First M87 Event Horizon Telescope results. I. The shadow of the supermassive black hole. The Astrophysical Journal Letters, 875(1), L1. [https://doi.org/10.3847/2041-8213/ab0ec7](https://doi.org/10.3847/2041-8213/ab0ec7)
+- Tully, R. B., Courtois, H., Hoffman, Y., & Pomarède, D. (2014). The Laniakea supercluster of galaxies. Nature, 513(7516), 71–76. [https://doi.org/10.1038/nature13674](https://doi.org/10.1038/nature13674)
+- Springel, V., Frenk, C. S., & White, S. D. M. (2006). The large-scale structure of the Universe. Nature, 440(7088), 1137–1144. [https://doi.org/10.1038/nature04805](https://doi.org/10.1038/nature04805)
+- Geller, M. J., & Huchra, J. P. (1989). Mapping the Universe. Science, 246(4932), 897–903. [https://doi.org/10.1126/science.246.4932.897](https://doi.org/10.1126/science.246.4932.897)
+- Pan, D. C., Vogeley, M. S., Hoyle, F., Choi, Y.-Y., & Park, C. (2012). Cosmic voids in Sloan Digital Sky Survey Data Release 7. Monthly Notices of the Royal Astronomical Society, 421(2), 926–934. [https://doi.org/10.1111/j.1365-2966.2011.20306.x](https://doi.org/10.1111/j.1365-2966.2011.20306.x)
+- Planck Collaboration, Aghanim, N., Akrami, Y., Ashdown, M., Aumont, J., Baccigalupi, C., ... & Zonca, A. (2020). Planck 2018 results. VI. Cosmological parameters. Astronomy & Astrophysics, 641, A6. [https://doi.org/10.1051/0004-6361/201833910](https://doi.org/10.1051/0004-6361/201833910)
+- Conselice, C. J., Wilkinson, A., Duncan, K., & Mortlock, A. (2016). The evolution of galaxy number density at z < 8 and its implications. The Astrophysical Journal, 830(2), 83. [https://doi.org/10.3847/0004-637X/830/2/83](https://doi.org/10.3847/0004-637X/830/2/83)
+- Davis, T. M., & Lineweaver, C. H. (2004). Expanding confusion: Common misconceptions of cosmological horizons and the superluminal expansion of the Universe. Publications of the Astronomical Society of Australia, 21(1), 97–109. [https://doi.org/10.1071/AS03040](https://doi.org/10.1071/AS03040)
+- Linde, A. (2004). Inflation, quantum cosmology and the anthropic principle. In Science and ultimate reality: Quantum theory, cosmology, and complexity (pp. 426–458). Cambridge University Press. [https://doi.org/10.1017/CBO9780511814990.020](https://doi.org/10.1017/CBO9780511814990.020)
+- Guth, A. H. (2007). Eternal inflation and its implications. Journal of Physics A: Mathematical and Theoretical, 40(25), 6811–6826. [https://doi.org/10.1088/1751-8113/40/25/S25](https://doi.org/10.1088/1751-8113/40/25/S25)
+
+# Time
+
+- Barbour, J. (1999). The end of time: The next revolution in physics. Oxford University Press.
+- Dyson, F. (1979). Disturbing the universe. Harper & Row.
+- Sagan, C. (1980). Cosmos. Random House.
+- Adams, F., & Laughlin, G. (1999). The five ages of the universe: Inside the physics of eternity. Free Press.
+- Gould, S. J. (1987). Time’s arrow, time’s cycle: Myth and metaphor in the discovery of geological time. Harvard University Press.
+- Zimbardo, P. G., & Boyd, J. N. (2008). The time paradox: The new psychology of time that will change your life. Free Press.
+- Sakharov, A. D. (1967). Violation of CP invariance, C asymmetry, and baryon asymmetry of the universe. Journal of Experimental and Theoretical Physics Letters, 5(1), 24–27.
+- Carroll, S. M. (2010). From eternity to here: The quest for the ultimate theory of time. Dutton.
+- Davidson, K. (1999). Carl Sagan: A life. John Wiley & Sons.
+- Hawking, S. (1988). A brief history of time: From the Big Bang to black holes. Bantam Books.
+- Rovelli, C. (2018). The order of time. Riverhead Books.
+- Guth, A. H. (1997). The inflationary universe: The quest for a new theory of cosmic origins. Addison-Wesley.
+- Linde, A. (2004). Inflation, quantum cosmology and the anthropic principle. In Science and ultimate reality: Quantum theory, cosmology, and complexity (pp. 426–458). Cambridge University Press. [https://doi.org/10.1017/CBO9780511814990.020](https://doi.org/10.1017/CBO9780511814990.020)
+- Carroll, B. W., & Ostlie, D. A. (2017). An introduction to modern astrophysics (2nd ed.). Cambridge University Press.
+- Planck Collaboration, Aghanim, N., Akrami, Y., Ashdown, M., Aumont, J., Baccigalupi, C., ... & Zonca, A. (2020). Planck 2018 results. VI. Cosmological parameters. Astronomy & Astrophysics, 641, A6. [https://doi.org/10.1051/0004-6361/201833910](https://doi.org/10.1051/0004-6361/201833910)
+- Weinberg, S. (1977). The first three minutes: A modern view of the universe. Basic Books.
+- Halzen, F., & Martin, A. D. (1984). Quarks and leptons: An introductory course in modern particle physics. Wiley.
+- Krane, K. S. (1987). Introductory nuclear physics. Wiley.
+- Levine, I. N. (2017). Quantum chemistry (7th ed.). Pearson.
+- Springel, V., Frenk, C. S., & White, S. D. M. (2006). The large-scale structure of the Universe. Nature, 440(7088), 1137–1144. [https://doi.org/10.1038/nature04805](https://doi.org/10.1038/nature04805)
+- Zeilik, M., & Gregory, S. A. (1998). Introductory astronomy and astrophysics (4th ed.). Saunders College Publishing.
+- Shapley, H. (1953). Of stars and men: Human response to an expanding universe. Beacon Press.
+- Conselice, C. J., Wilkinson, A., Duncan, K., & Mortlock, A. (2016). The evolution of galaxy number density at z < 8 and its implications. The Astrophysical Journal, 830(2), 83. [https://doi.org/10.3847/0004-637X/830/2/83](https://doi.org/10.3847/0004-637X/830/2/83)
+- Bland-Hawthorn, J., & Gerhard, O. (2016). The Galaxy in context: Structure, dynamics, and evolution. Annual Review of Astronomy and Astrophysics, 54, 529–596. [https://doi.org/10.1146/annurev-astro-081915-023441](https://doi.org/10.1146/annurev-astro-081915-023441)
+- de Pater, I., & Lissauer, J. J. (2015). Planetary sciences (2nd ed.). Cambridge University Press.
+- Hart, M. H. (1978). The evolution of the atmosphere of the Earth. Icarus, 33(1), 23–39. [https://doi.org/10.1016/0019-1035(78)90021-0](https://doi.org/10.1016/0019-1035\(78\)90021-0)
+- Crawford, I. A. (2019). The astronomical, astrobiological, and planetary science case for interstellar spaceflight. Acta Astronautica, 165, 299–309. [https://doi.org/10.1016/j.actaastro.2019.09.013](https://doi.org/10.1016/j.actaastro.2019.09.013)
+- Dick, S. J. (2018). Astrobiology, discovery, and societal impact. Cambridge University Press.
+
+# Matter
+
+- Weinberg, S. (1977). The first three minutes: A modern view of the universe. Basic Books.
+- Carroll, B. W., & Ostlie, D. A. (2017). An introduction to modern astrophysics (2nd ed.). Cambridge University Press.
+- Levine, I. N. (2017). Quantum chemistry (7th ed.). Pearson.
+- Halzen, F., & Martin, A. D. (1984). Quarks and leptons: An introductory course in modern particle physics. Wiley.
+- Griffiths, D. J. (2008). Introduction to elementary particles (2nd ed.). Wiley-VCH.
+- Fermi, E. (1934). Tentativo di una teoria dei raggi β. Il Nuovo Cimento, 11(1), 1–19. https://doi.org/10.1007/BF02959820
+- Gell-Mann, M. (1964). A schematic model of baryons and mesons. Physics Letters, 8(3), 214–215. https://doi.org/10.1016/S0031-9163(64)92001-3
+- Joyce, J. (1939). Finnegans Wake. Faber and Faber.
+- Zweig, G. (1964). An SU(3) model for strong interaction symmetry and its breaking (CERN Report No. 8182/TH.401). CERN.
+- Weinberg, S. (1993). Dreams of a final theory: The scientist’s search for the ultimate laws of nature. Vintage Books.
+- Krane, K. S. (1987). Introductory nuclear physics. Wiley.
+- Rutherford, E. (1919). Collision of α particles with light atoms. IV. An anomalous effect in nitrogen. Philosophical Magazine, Series 6, 37(222), 581–587. https://doi.org/10.1080/14786440608635919
+- Chadwick, J. (1932). The existence of a neutron. Proceedings of the Royal Society of London, Series A, 136(830), 692–708. https://doi.org/10.1098/rspa.1932.0112
+- Bohr, N., & Wheeler, J. A. (1939). The mechanism of nuclear fission. Physical Review, 56(5), 426–450. https://doi.org/10.1103/PhysRev.56.426
+- Bohr, N. (1913). On the constitution of atoms and molecules. Philosophical Magazine, Series 6, 26(151), 1–25. https://doi.org/10.1080/14786441308634955
+- Schrödinger, E. (1926). Quantisierung als Eigenwertproblem. Annalen der Physik, 384(4), 361–376. https://doi.org/10.1002/andp.19263840404
+- Kirchhoff, G., & Bunsen, R. (1860). Chemische Analyse durch Spectralbeobachtungen. Annalen der Physik und Chemie, 186(6), 160–189. https://doi.org/10.1002/andp.18601860602
+- Mendeleev, D. (1869). On the relation of the properties to the atomic weights of the elements. Journal of the Russian Chemical Society, 1, 60–77.
+- Moseley, H. G. J. (1913). The high-frequency spectra of the elements. Philosophical Magazine, Series 6, 26(156), 1024–1034. https://doi.org/10.1080/14786441308635052
+
+# Energy
+
+- Carroll, B. W., & Ostlie, D. A. (2017). An introduction to modern astrophysics (2nd ed.). Cambridge University Press.
+- Hawking, S. (1988). A brief history of time: From the Big Bang to black holes. Bantam Books.
+- Zeilik, M., & Gregory, S. A. (1998). Introductory astronomy and astrophysics (4th ed.). Saunders College Publishing.
+- Smil, V. (2017). Energy and civilization: A history. MIT Press.
+- Tipler, P. A., & Mosca, G. (2008). Physics for scientists and engineers (6th ed.). W.H. Freeman.
+- Griffiths, D. J. (2008). Introduction to elementary particles (2nd ed.). Wiley-VCH.
+- Halzen, F., & Martin, A. D. (1984). Quarks and leptons: An introductory course in modern particle physics. Wiley.
+- Fermi, E. (1934). Tentativo di una teoria dei raggi β. Il Nuovo Cimento, 11(1), 1–19. https://doi.org/10.1007/BF02959820
+- Close, F. (2015). Nuclear physics: A very short introduction. Oxford University Press. https://doi.org/10.1093/actrade/9780198718635.001.0001
+- Rutherford, E. (1911). The scattering of α and β particles by matter and the structure of the atom. Philosophical Magazine, Series 6, 21(125), 669–688. https://doi.org/10.1080/14786440508637080
+- Gell-Mann, M. (1964). A schematic model of baryons and mesons. Physics Letters, 8(3), 214–215. https://doi.org/10.1016/S0031-9163(64)92001-3
+- Serway, R. A., & Jewett, J. W. (2018). Physics for scientists and engineers (10th ed.). Cengage Learning.
+- Misner, C. W., Thorne, K. S., & Wheeler, J. A. (1973). Gravitation. W.H. Freeman.
+- Cardwell, D. S. L. (1971). From Watt to Clausius: The rise of thermodynamics in the early industrial age. Cornell University Press.
+- Goldstein, H., Poole, C., & Safko, J. (2002). Classical mechanics (3rd ed.). Addison-Wesley.
+- Levine, I. N. (2017). Quantum chemistry (7th ed.). Pearson.
+
+# Physics
+
+- Tipler, P. A., & Mosca, G. (2008). *Physics for scientists and engineers* (6th ed.). W.H. Freeman.
+- Misner, C. W., Thorne, K. S., & Wheeler, J. A. (1973). *Gravitation*. W.H. Freeman.
+- Smil, V. (2017). *Energy and civilization: A history*. MIT Press.
+- Serway, R. A., & Jewett, J. W. (2018). *Physics for scientists and engineers* (10th ed.). Cengage Learning.
+- Carroll, B. W., & Ostlie, D. A. (2017). *An introduction to modern astrophysics* (2nd ed.). Cambridge University Press.
+- Goldstein, H., Poole, C., & Safko, J. (2002). *Classical mechanics* (3rd ed.). Addison-Wesley.
+- Newton, I. (1687). *Philosophiæ naturalis principia mathematica*. Londini: Jussu Societatis Regiæ ac Typis Josephi Streater. (Modern translation: Newton, I. (1999). *The Principia: Mathematical principles of natural philosophy* (I. B. Cohen & A. Whitman, Trans.). University of California Press).
+- Helmholtz, H. von. (1847). *Über die Erhaltung der Kraft* [On the conservation of force]. G. Reimer. (Modern translation: Helmholtz, H. von. (1882). *On the conservation of force*. In *Popular lectures on scientific subjects* (E. Atkinson, Trans.). Longmans, Green, and Co.).
+- Joule, J. P. (1843). On the mechanical equivalent of heat. *Philosophical Magazine, Series 3*, 23(154), 435–443. https://doi.org/10.1080/14786444308644766
+- Leibniz, G. W. (1686). Brevis demonstratio erroris memorabilis Cartesii et aliorum circa legem naturae [A brief demonstration of the memorable error of Descartes and others concerning a natural law]. *Acta Eruditorum*, 5, 113–119.
+- Thomson, W. (1851). On the mechanical theory of heat. *Transactions of the Royal Society of Edinburgh*, 20(2), 261–288. https://doi.org/10.1017/S0080456800033170
+- Lagrange, J. L. (1788). *Mécanique analytique*. Paris: La Veuve Desaint.
+- Hamilton, W. R. (1835). On a general method in dynamics. *Philosophical Transactions of the Royal Society of London*, 124, 247–308. https://doi.org/10.1098/rstl.1835.0013
+- Galilei, G. (1638). *Discorsi e dimostrazioni matematiche intorno a due nuove scienze* [Discourses and mathematical demonstrations relating to two new sciences]. Leiden: Elsevier. (Modern translation: Galilei, G. (1914). *Dialogues concerning two new sciences* (H. Crew & A. de Salvio, Trans.). Macmillan).
+- Crawford, I. A. (2019). The astronomical, astrobiological, and planetary science case for interstellar spaceflight. *Acta Astronautica*, 165, 299–309. https://doi.org/10.1016/j.actaastro.2019.09.013
+- Cardwell, D. S. L. (1971). *From Watt to Clausius: The rise of thermodynamics in the early industrial age*. Cornell University Press.
+- Maxwell, J. C. (1865). A dynamical theory of the electromagnetic field. *Philosophical Transactions of the Royal Society of London*, 155, 459–512. https://doi.org/10.1098/rstl.1865.0008
+- Clausius, R. (1850). Über die bewegende Kraft der Wärme und die Gesetze, welche sich daraus für die Wärmelehre ableiten lassen [On the motive power of heat and the laws which can be deduced therefrom for the theory of heat]. *Annalen der Physik*, 155(4), 368–397. https://doi.org/10.1002/andp.18501550403
+- Boltzmann, L. (1877). Über die Beziehung zwischen dem zweiten Hauptsatze der mechanischen Wärmetheorie und der Wahrscheinlichkeitsrechnung respektive den Sätzen über das Wärmegleichgewicht [On the relationship between the second law of thermodynamics and probability calculations regarding the laws of thermal equilibrium]. *Wiener Berichte*, 76, 373–435.
+- Bernoulli, D. (1738). *Hydrodynamica, sive de viribus et motibus fluidorum commentarii*. Argentorati: Johann Reinhold Dulsecker.
+- Rayleigh, J. W. S. (1877). *The theory of sound* (Vol. 1). London: Macmillan.
+- Newton, I. (1704). *Opticks: Or, a treatise of the reflections, refractions, inflections and colours of light*. London: Samuel Smith and Benjamin Walford.
+- Heisenberg, W. (1925). Über quantentheoretische Umdeutung kinematischer und mechanischer Beziehungen [On the quantum-theoretical reinterpretation of kinematic and mechanical relations]. *Zeitschrift für Physik*, 33(1), 879–893. https://doi.org/10.1007/BF01328377
+- Bohr, N. (1913). On the constitution of atoms and molecules. *Philosophical Magazine, Series 6*, 26(151), 1–25. https://doi.org/10.1080/14786441308634955
+- Bloch, F. (1929). Über die Quantenmechanik der Elektronen in Kristallgittern [On the quantum mechanics of electrons in crystal lattices]. *Zeitschrift für Physik*, 52(7–8), 555–600. https://doi.org/10.1007/BF01339455
+- Rutherford, E. (1911). The scattering of α and β particles by matter and the structure of the atom. *Philosophical Magazine, Series 6*, 21(125), 669–688. https://doi.org/10.1080/14786440508637080
+- Gell-Mann, M. (1964). A schematic model of baryons and mesons. *Physics Letters*, 8(3), 214–215. https://doi.org/10.1016/S0031-9163(64)92001-3
+- Einstein, A. (1916). Die Grundlage der allgemeinen Relativitätstheorie [The foundation of the general theory of relativity]. *Annalen der Physik*, 354(7), 769–822. https://doi.org/10.1002/andp.19163540702
+- Eddington, A. S. (1926). *The internal constitution of the stars*. Cambridge: Cambridge University Press.
+- Lemaître, G. (1927). Un univers homogène de masse constante et de rayon croissant rendant compte de la vitesse radiale des nébuleuses extragalactiques [A homogeneous universe of constant mass and increasing radius accounting for the radial velocity of extragalactic nebulae]. *Annales de la Société Scientifique de Bruxelles*, 47, 49–59.
+- Dirac, P. A. M. (1927). The quantum theory of the emission and absorption of radiation. *Proceedings of the Royal Society of London, Series A*, 114(767), 243–265. https://doi.org/10.1098/rspa.1927.0039
+- Weinberg, S. (1993). *Dreams of a final theory: The scientist’s search for the ultimate laws of nature*. Vintage Books.
+
+# Chemistry
+
+- Lavoisier, A. L. (1789). Traité élémentaire de chimie. Cuchet.
+- Levine, I. N. (2017). Quantum chemistry (7th ed.). Pearson.
+- Herschbach, D. R. (1987). Molecular dynamics of elementary chemical reactions. Angewandte Chemie International Edition in English, 26(7), 617–629. https://doi.org/10.1002/anie.198706171
+- Hoffmann, R. (1995). The same and not the same. Columbia University Press.
+- Atkins, P. (2013). What is chemistry? Oxford University Press.
+- Seager, S. (2010). Exoplanet atmospheres: Physical processes. Princeton University Press.
+- Carroll, B. W., & Ostlie, D. A. (2017). An introduction to modern astrophysics (2nd ed.). Cambridge University Press.
+- Lewis, G. N. (1916). The atom and the molecule. Journal of the American Chemical Society, 38(4), 762–785. https://doi.org/10.1021/ja02261a002
+- Pauling, L. (1939). The nature of the chemical bond and the structure of molecules and crystals: An introduction to modern structural chemistry. Cornell University Press.
+- Davy, H. (1807). On some chemical agencies of electricity. Philosophical Transactions of the Royal Society of London, 97, 1–56. https://doi.org/10.1098/rstl.1807.0001
+- Arrhenius, S. (1887). Über die Dissociation der in Wasser gelösten Stoffe [On the dissociation of substances dissolved in water]. Zeitschrift für Physikalische Chemie, 1(1), 631–648. - https://doi.org/10.1515/zpch-1887-0164
+- Born, M. (1919). Die Gitterenergie des Kochsalzes [The lattice energy of sodium chloride]. Zeitschrift für Physik, 1(1), 45–48. https://doi.org/10.1007/BF01326955
+- Wöhler, F. (1828). Ueber künstliche Bildung des Harnstoffs [On the artificial formation of urea]. Annalen der Physik und Chemie, 88(2), 253–256. https://doi.org/10.1002/andp.18280880206
+- Miller, S. L. (1953). A production of amino acids under possible primitive Earth conditions. Science, 117(3046), 528–529. https://doi.org/10.1126/science.117.3046.528
+- Alberts, B., Johnson, A., Lewis, J., Raff, M., Roberts, K., & Walter, P. (2014). Molecular biology of the cell (6th ed.). Garland Science.
+- Fox, S. W., & Harada, K. (1958). Thermal copolymerization of amino acids to a product resembling protein. Science, 128(3333), 1214. https://doi.org/10.1126/science.128.3333.1214
+- Cech, T. R., Zaug, A. J., & Grabowski, P. J. (1981). In vitro splicing of the ribosomal RNA precursor of Tetrahymena: Structural features of the reaction and the role of the RNA catalyst. Cell, 27(3), 487–496. https://doi.org/10.1016/0092-8674(81)90390-1
+- Smil, V. (2017). Energy and civilization: A history. MIT Press.
+- Cotton, F. A., Wilkinson, G., Murillo, C. A., & Bochmann, M. (1999). Advanced inorganic chemistry (6th ed.). Wiley.
+- McMurry, J. (2016). Organic chemistry (9th ed.). Cengage Learning.
+- Skoog, D. A., Holler, F. J., & Crouch, S. R. (2017). Principles of instrumental analysis (7th ed.). Cengage Learning.
+- Painter, P. C., & Coleman, M. M. (1997). Fundamentals of polymer science: An introductory text (2nd ed.). CRC Press.
+- Ozin, G. A., & Arsenault, A. C. (2005). Nanochemistry: A chemical approach to nanomaterials. Royal Society of Chemistry.
+- Manahan, S. E. (2017). Environmental chemistry (10th ed.). CRC Press.
+- Patrick, G. L. (2013). An introduction to medicinal chemistry (5th ed.). Oxford University Press.
+- Cramer, C. J. (2004). Essentials of computational chemistry: Theories and models (2nd ed.). Wiley.
+- Anastas, P. T., & Warner, J. C. (1998). Green chemistry: Theory and practice. Oxford University Press.
+- Bard, A. J., & Faulkner, L. R. (2001). Electrochemical methods: Fundamentals and applications (2nd ed.). Wiley.
+
+# Evolution
+
+- Miller, S. L. (1953). A production of amino acids under possible primitive Earth conditions. *Science*, 117(3046), 528–529. https://doi.org/10.1126/science.117.3046.528
+- Orgel, L. E. (1994). The origin of life on the Earth. *Scientific American*, 271(4), 76–83. https://doi.org/10.1038/scientificamerican1094-76
+- Cech, T. R., Zaug, A. J., & Grabowski, P. J. (1981). In vitro splicing of the ribosomal RNA precursor of Tetrahymena: Structural features of the reaction and the role of the RNA catalyst. *Cell*, 27(3), 487–496. https://doi.org/10.1016/0092-8674(81)90390-1
+- Alberts, B., Johnson, A., Lewis, J., Raff, M., Roberts, K., & Walter, P. (2014). *Molecular biology of the cell* (6th ed.). Garland Science.
+- Knoll, A. H. (2003). *Life on a young planet: The first three billion years of evolution on Earth*. Princeton University Press.
+- Smil, V. (2017). *Energy and civilization: A history*. MIT Press.
+- Nowak, M. A. (2006). Five rules for the evolution of cooperation. *Science*, 314(5805), 1560–1563. https://doi.org/10.1126/science.1133755
+- Darwin, C. (1859). *On the origin of species by means of natural selection, or the preservation of favoured races in the struggle for life*. John Murray.
+- Margulis, L. (1970). *Origin of eukaryotic cells*. Yale University Press.
+- Butterfield, N. J. (2010). Bangiomorpha pubescens n. gen., n. sp.: Implications for the evolution of sex, multicellularity, and the Mesoproterozoic/Neoproterozoic radiation of eukaryotes. *Paleobiology*, 26(3), 386–404. https://doi.org/10.1666/0094-8373(2000)026<0386:BPNGNS>2.0.CO;2
+- Porter, S. M. (2016). Tiny vampires in ancient seas: Evidence for predation in the Ediacaran. *Proceedings of the National Academy of Sciences*, 113(25), 6858–6863. https://doi.org/10.1073/pnas.1601391113
+- Carroll, B. W., & Ostlie, D. A. (2017). *An introduction to modern astrophysics* (2nd ed.). Cambridge University Press.
+- Chyba, C. F., & Sagan, C. (1992). Endogenous production, exogenous delivery and impact-shock synthesis of organic molecules: An inventory for the origins of life. *Nature*, 355(6356), 125–132. https://doi.org/10.1038/355125a0
+- Wächtershäuser, G. (1990). Evolution of the first metabolic cycles. *Proceedings of the National Academy of Sciences*, 87(1), 200–204. https://doi.org/10.1073/pnas.87.1.200
+- Levine, I. (2017). *Quantum chemistry* (7th ed.). Pearson.
+- Fox, S. W., & Harada, K. (1958). Thermal copolymerization of amino acids to a product resembling protein. *Science*, 128(3333), 1214. https://doi.org/10.1126/science.128.3333.1214
+- Gilbert, W. (1986). The RNA world. *Nature*, 319(6055), 618. https://doi.org/10.1038/319618a0
+- Wöhler, F. (1828). Ueber künstliche Bildung des Harnstoffs [On the artificial formation of urea]. *Annalen der Physik und Chemie*, 88(2), 253–256. https://doi.org/10.1002/andp.18280880206
+- Schopf, J. W. (1993). Microfossils of the Early Archean Apex Chert: New evidence of the antiquity of life. *Science*, 260(5108), 640–646. https://doi.org/10.1126/science.260.5108.640
+- McInerney, M. J., Sieber, J. R., & Gunsalus, R. P. (2011). Microbial syntrophy: Ecosystem-level metabolic interactions. *Annual Review of Microbiology*, 65, 429–447. https://doi.org/10.1146/annurev-micro-090110-102844
+- Woese, C. R., & Fox, G. E. (1977). Phylogenetic structure of the prokaryotic domain: The primary kingdoms. *Proceedings of the National Academy of Sciences*, 74(11), 5088–5090. https://doi.org/10.1073/pnas.74.11.5088
+- Javaux, E. J., & Lepot, K. (2017). The Paleoproterozoic fossil record: Implications for the evolution of the biosphere during Earth’s middle-age. *Geobiology*, 15(1), 5–22. https://doi.org/10.1111/gbi.12224
+- de Duve, C. (1974). The origin of eukaryotes: A biochemical perspective. *Annals of the New York Academy of Sciences*, 210(1), 9–22. https://doi.org/10.1111/j.1749-6632.1974.tb41531.x
+- Coale, T. H., Loconte, V., Turk-Kubo, K. A., Natesan, G., van Kessel, M. A. H. J., Mills, M. M., Cornejo-Castillo, F. M., Wilson, S. T., Arrigo, K. R., & Zehr, J. P. (2024). The nitroplast: A nitrogen-fixing organelle. *Science*, 384(6691), 217–222. https://doi.org/10.1126/science.adk1075
+- Loron, C. C., François, C., Rainbird, R. H., Turner, E. C., Borensztajn, S., & Javaux, E. J. (2017). Early fungi from the Proterozoic era in Arctic Canada. *Nature*, 545(7655), 89–92. https://doi.org/10.1038/nature22324
+- Erwin, D. H., Laflamme, M., Tweedt, S. M., Sperling, E. A., Pisani, D., & Peterson, K. J. (2011). The Cambrian conundrum: Early divergence and later ecological success in the early history of animals. *Science*, 334(6059), 1091–1097. https://doi.org/10.1126/science.1206375
+- Briggs, D. E. G., Fortey, R. A., & Wills, M. A. (1992). Morphological disparity in the Cambrian. *Science*, 256(5064), 1670–1673. https://doi.org/10.1126/science.256.5064.1670
+- Gould, S. J. (1989). *Wonderful life: The Burgess Shale and the nature of history*. W. W. Norton & Company.
+- Carroll, S. B. (2005). *Endless forms most beautiful: The new science of evo devo*. W. W. Norton & Company.
+- Marshall, C. R. (2006). Explaining the Cambrian “explosion” of animals. *Annual Review of Earth and Planetary Sciences*, 34, 355–384. https://doi.org/10.1146/annurev.earth.33.031504.103001
+- Droser, M. L., & Gehling, J. G. (2018). The advent of animals: The view from the Ediacaran. *Annual Review of Earth and Planetary Sciences*, 46, 297–320. https://doi.org/10.1146/annurev-earth-060614-105216
+- Daeschler, E. B., Shubin, N. H., & Jenkins, F. A. (2006). A Devonian tetrapod-like fish and the evolution of the tetrapod body plan. *Nature*, 440(7085), 757–763. https://doi.org/10.1038/nature04639
+- Smith, H. F., Fisher, R. E., Everett, M. L., Thomas, A. D., & Bollinger, R. R. (2010). Comparative anatomy and phylogenetic distribution of the mammalian cecal appendix. *Journal of Anatomy*, 215(5), 504–515. https://doi.org/10.1111/j.1469-7580.2009.01157.x
+- Gehring, W. J. (2005). New perspectives on eye development and the evolution of eyes and photoreceptors. *Journal of Heredity*, 96(3), 171–184. https://doi.org/10.1093/jhered/esi027
+- Grant, P. R., & Grant, B. R. (2008). *How and why species multiply: The radiation of Darwin’s finches*. Princeton University Press.
+- Eldredge, N., & Gould, S. J. (1972). Punctuated equilibria: An alternative to phyletic gradualism. In T. J. M. Schopf (Ed.), *Models in paleobiology* (pp. 82–115). Freeman, Cooper & Co.
+- Raup, D. M., & Sepkoski, J. J. (1982). Mass extinctions in the marine fossil record. *Science*, 215(4539), 1501–1503. https://doi.org/10.1126/science.215.4539.1501
+- Alvarez, L. W., Alvarez, W., Asaro, F., & Michel, H. V. (1980). Extraterrestrial cause for the Cretaceous-Tertiary extinction. *Science*, 208(4448), 1095–1108. https://doi.org/10.1126/science.208.4448.1095
+- Wignall, P. B. (2015). *The worst of times: How life on Earth survived eighty million years of extinctions*. Princeton University Press.
+- Ostrom, J. H. (1976). Archaeopteryx and the origin of birds. *Biological Journal of the Linnean Society*, 8(2), 91–182. https://doi.org/10.1111/j.1095-8312.1976.tb00244.x
+- Springer, M. S., Meredith, R. W., Gatesy, J., Emerling, C. A., Park, J., & Rabosky, D. L. (2013). Macroevolutionary dynamics and historical biogeography of primate diversification inferred from a species supermatrix. *PLoS ONE*, 8(11), e79521. https://doi.org/10.1371/journal.pone.0079521
+- Sheehan, P. M. (2001). The Late Ordovician mass extinction. *Annual Review of Earth and Planetary Sciences*, 29, 331–364. https://doi.org/10.1146/annurev.earth.29.1.331
+- Clack, J. A. (2002). *Gaining ground: The origin and evolution of tetrapods*. Indiana University Press.
+- Darwin, C. (1871). *The descent of man, and selection in relation to sex*. John Murray.
+- Dawkins, R. (1976). *The selfish gene*. Oxford University Press.
+- Wilson, E. O. (1975). *Sociobiology: The new synthesis*. Harvard University Press.
+- Pääbo, S. (2010). Neanderthal man: In search of lost genomes. *Science*, 328(5979), 710–722. https://doi.org/10.1126/science.1188021
+- Harmand, S., Lewis, J. E., Feibel, C. S., Lepre, C. J., Prat, S., Lenoble, A., Boës, X., Quinn, R. L., Brenet, M., Arroyo, A., Taylor, N., Clément, S., Daver, G., Brugal, J.-P., Leakey, L., Mortlock, R. A., Wright, J. D., Lokorodi, S., Kirwa, C., … Roche, H. (2015). 3.3-million-year-old stone tools from Lomekwi 3, West Turkana, Kenya. *Nature*, 521(7552), 310–315. https://doi.org/10.1038/nature14464
+- Enard, W., Przeworski, M., Fisher, S. E., Lai, C. S., Wiebe, V., Kitano, T., Monaco, A. P., & Pääbo, S. (2007). Molecular evolution of FOXP2, a gene involved in speech and language. *Nature*, 448(7159), 869–872. https://doi.org/10.1038/nature06059
+- Herculano-Houzel, S. (2009). The human brain in numbers: A linearly scaled-up primate brain. *Frontiers in Human Neuroscience*, 3, 31. https://doi.org/10.3389/neuro.09.031.2009
+- Fitch, W. T. (2010). *The evolution of language*. Cambridge University Press.
+- Aubert, M., Brumm, A., Ramli, M., Sutikna, T., Saptomo, E. W., Hakim, B., Morwood, M. J., van den Bergh, G. D., Kinsley, L., & Dosseto, A. (2014). Pleistocene cave art from Sulawesi, Indonesia. *Nature*, 514(7521), 223–227. https://doi.org/10.1038/nature13422
+- Doudna, J. A., & Sternberg, S. H. (2017). *A crack in creation: Gene editing and the unthinkable power to control evolution*. Houghton Mifflin Harcourt.
+- LeCun, Y., Bengio, Y., & Hinton, G. (2015). Deep learning. *Nature*, 521(7553), 436–444. https://doi.org/10.1038/nature14539
+- King, M.-C., & Wilson, A. C. (1975). Evolution at two levels in humans and chimpanzees. *Journal of Molecular Evolution*, 5(1), 1–12. https://doi.org/10.1007/BF01732011
+- Crick, F. (1981). *Life itself: Its origin and nature*. Simon & Schuster.
+- Kang, J. X., Li, Y., & Gao, X. (2020). TP53 enhances radiation resistance in human cells for space exploration. *Science Advances*, 6(15), eaax8471. https://doi.org/10.1126/sciadv.aax8471
+- McKay, C. P., Toon, O. B., & Kasting, J. F. (1991). Making Mars habitable. *Nature*, 352(6335), 489–496. https://doi.org/10.1038/352489a0
+
+# Abstraction
+
+- Alberts, B., Johnson, A., Lewis, J., Raff, M., Roberts, K., & Walter, P. (2014). *Molecular biology of the cell* (6th ed.). Garland Science.
+- Knoll, A. H. (2003). *Life on a young planet: The first three billion years of evolution on Earth*. Princeton University Press.
+- Cech, T. R., Zaug, A. J., & Grabowski, P. J. (1981). In vitro splicing of the ribosomal RNA precursor of Tetrahymena: Structural features of the reaction and the role of the RNA catalyst. *Cell*, 27(3), 487–496. https://doi.org/10.1016/0092-8674(81)90390-1
+- Marshall, C. R. (2006). Explaining the Cambrian “explosion” of animals. *Annual Review of Earth and Planetary Sciences*, 34, 355–384. https://doi.org/10.1146/annurev.earth.33.031504.103001
+- Springer, M. S., Meredith, R. W., Gatesy, J., Emerling, C. A., Park, J., & Rabosky, D. L. (2013). Macroevolutionary dynamics and historical biogeography of primate diversification inferred from a species supermatrix. *PLoS ONE*, 8(11), e79521. https://doi.org/10.1371/journal.pone.0079521
+- Herculano-Houzel, S. (2009). The human brain in numbers: A linearly scaled-up primate brain. *Frontiers in Human Neuroscience*, 3, 31. https://doi.org/10.3389/neuro.09.031.2009
+- Smil, V. (2017). *Energy and civilization: A history*. MIT Press.
+- Harmand, S., Lewis, J. E., Feibel, C. S., Lepre, C. J., Prat, S., Lenoble, A., Boës, X., Quinn, R. L., Brenet, M., Arroyo, A., Taylor, N., Clément, S., Daver, G., Brugal, J.-P., Leakey, L., Mortlock, R. A., Wright, J. D., Lokorodi, S., Kirwa, C., … Roche, H. (2015). 3.3-million-year-old stone tools from Lomekwi 3, West Turkana, Kenya. *Nature*, 521(7552), 310–315. https://doi.org/10.1038/nature14464
+- Nowak, M. A. (2006). Five rules for the evolution of cooperation. *Science*, 314(5805), 1560–1563. https://doi.org/10.1126/science.1133755
+- O’Keefe, J., & Nadel, L. (1978). *The hippocampus as a cognitive map*. Oxford University Press.
+- Tolman, E. C. (1948). Cognitive maps in rats and men. *Psychological Review*, 55(4), 189–208. https://doi.org/10.1037/h0061626
+- Wilson, E. O. (1975). *Sociobiology: The new synthesis*. Harvard University Press.
+- Dawkins, R. (1976). *The selfish gene*. Oxford University Press.
+- Enard, W., Przeworski, M., Fisher, S. E., Lai, C. S., Wiebe, V., Kitano, T., Monaco, A. P., & Pääbo, S. (2007). Molecular evolution of FOXP2, a gene involved in speech and language. *Nature*, 448(7159), 869–872. https://doi.org/10.1038/nature06059
+- Grant, P. R., & Grant, B. R. (2008). *How and why species multiply: The radiation of Darwin’s finches*. Princeton University Press.
+- Porter, S. M. (2016). Tiny vampires in ancient seas: Evidence for predation in the Ediacaran. *Proceedings of the National Academy of Sciences*, 113(25), 6858–6863. https://doi.org/10.1073/pnas.1601391113
+- Darwin, C. (1859). *On the origin of species by means of natural selection, or the preservation of favoured races in the struggle for life*. John Murray.
+- Tomasello, M., & Call, J. (1997). *Primate cognition*. Oxford University Press.
+- Carroll, S. B. (2005). *Endless forms most beautiful: The new science of evo devo*. W. W. Norton & Company.
+- Savage-Rumbaugh, S., Shanker, S. G., & Taylor, T. J. (1993). *Apes, language, and the human mind*. Oxford University Press.
+- Marshack, A. (1972). *The roots of civilization: The cognitive beginnings of man’s first art, symbol and notation*. McGraw-Hill.
+- Marshack, A. (1991). The Taï plaque and calendrical notation in the Upper Palaeolithic. *Cambridge Archaeological Journal*, 1(1), 25–52. https://doi.org/10.1017/S0959774300000263
+- Ruggles, C. L. N. (1999). *Astronomy in prehistoric Britain and Ireland*. Yale University Press.
+- O’Kelly, M. J. (1982). *Newgrange: Archaeology, art and legend*. Thames & Hudson.
+- Gaffney, V., Fitch, S., Ramsey, E., Yorston, R., Ch’ng, E., Baldwin, E., Bates, R., Gaffney, C., Ruggles, C., Sparrow, T., McMillan, A., Cowley, D., Fraser, S., Murray, C., Murray, H., Hopla, E., & Howard, A. (2013). Time and a place: A luni-solar ‘time-reckoner’ from 8th millennium BC Scotland. *Internet Archaeology*, 34. https://doi.org/10.11141/ia.34.1
+- Rappenglück, M. (1998). Palaeolithic star maps? *Archaeoastronomy*, 23, S31–S42. https://doi.org/10.1558/jsea.v23i0.S31
+- d’Errico, F. (1998). Palaeolithic origins of artificial memory systems. *Antiquity*, 72(277), 489–505. https://doi.org/10.1017/S0003598X00086955
+- Schmandt-Besserat, D. (1992). *Before writing: From counting to cuneiform*. University of Texas Press.
+- Aubert, M., Brumm, A., Ramli, M., Sutikna, T., Saptomo, E. W., Hakim, B., Morwood, M. J., van den Bergh, G. D., Kinsley, L., & Dosseto, A. (2014). Pleistocene cave art from Sulawesi, Indonesia. *Nature*, 514(7521), 223–227. https://doi.org/10.1038/nature13422
+- Trinkaus, E., Buzhilova, A. P., Mednikova, M. B., & Dobrovolskaya, M. V. (2014). *The people of Sungir: Burials, bodies, and behavior in the early Upper Paleolithic*. Oxford University Press.
+- Henshilwood, C. S., d’Errico, F., Yates, R., Jacobs, Z., Tribolo, C., Duller, G. A. T., Mercier, N., Sealy, J. C., Valladas, H., Watts, I., & Wintle, A. G. (2002). Emergence of modern human behavior: Middle Stone Age engravings from South Africa. *Science*, 295(5558), 1278–1280. https://doi.org/10.1126/science.1067575
+- Fitch, W. T. (2010). *The evolution of language*. Cambridge University Press.
+- Norris, R. P., & Harney, B. Y. (2014). Songlines and navigation in Wardaman and other Australian Aboriginal cultures. *Journal of Astronomical History and Heritage*, 17(2), 141–148.
+- Tomasello, M. (1999). *The cultural origins of human cognition*. Harvard University Press.
+- Chomsky, N. (1965). *Aspects of the theory of syntax*. MIT Press.
+- Vanhaeren, M., d’Errico, F., Stringer, C., James, S. L., Todd, J. A., & Mienis, H. K. (2006). Middle Paleolithic shell beads in Israel and Algeria. *Science*, 312(5781), 1785–1788. https://doi.org/10.1126/science.1128139
+- Conard, N. J. (2009). A female figurine from the basal Aurignacian of Hohle Fels Cave in southwestern Germany. *Nature*, 459(7244), 248–252. https://doi.org/10.1038/nature07995
+- Texier, P.-J., Porraz, G., Parkington, J., Rigaud, J.-P., Poggenpoel, C., Miller, C., Tribolo, C., Cartwright, C., Coudenneau, A., Klein, R., Steele, T., & Verna, C. (2010). A Howiesons Poort tradition of engraving ostrich eggshell containers dated to 60,000 years ago at Diepkloof Rock Shelter, South Africa. *Proceedings of the National Academy of Sciences*, 107(38), 16775–16780. https://doi.org/10.1073/pnas.0913047107
+- Aujoulat, N. (2005). *The Lascaux Cave: A prehistoric masterpiece*. CNRS Editions.
+- Kind, C.-J., Ebinger-Rist, N., Wolf, S., Beutelspacher, T., & Wehrberger, K. (2014). The smile of the Lion Man: Recent excavations in Stadel Cave (Baden-Württemberg, south-western Germany) and the restoration of the famous Upper Palaeolithic figurine. *Antiquity*, 88(339), 169–182. https://doi.org/10.1017/S0003598X00050276
+- Chippindale, C., & Taçon, P. S. C. (1998). *The archaeology of rock-art*. Cambridge University Press.
+- LeCun, Y., Bengio, Y., & Hinton, G. (2015). Deep learning. *Nature*, 521(7553), 436–444. https://doi.org/10.1038/nature14539
+- Doudna, J. A., & Sternberg, S. H. (2017). *A crack in creation: Gene editing and the unthinkable power to control evolution*. Houghton Mifflin Harcourt.
+- Crick, F. (1981). *Life itself: Its origin and nature*. Simon & Schuster.
+- Hanson, R. (1998). The Great Filter—Are we almost past it? _Unpublished manuscript_. Retrieved from [http://mason.gmu.edu/~rhanson/greatfilter.html](http://mason.gmu.edu/~rhanson/greatfilter.html)
+
+# Metaverse
+
+### APA Citations for Bibliography
+
+- Benet, J. (2014). _IPFS - Content addressed, versioned, P2P file system_. arXiv. [https://arxiv.org/abs/1407.3561](https://arxiv.org/abs/1407.3561)
+- Böhme, R., Christin, N., Edelman, B., & Moore, T. (2015). Bitcoin: Economics, technology, governance. _Journal of Economic Perspectives_, 29(2), 213–238. [https://doi.org/10.1257/jep.29.2.213](https://doi.org/10.1257/jep.29.2.213)
+- Catalini, C., & Gans, J. S. (2016). _Some simple economics of the blockchain_ (MIT Sloan School Working Paper 5191-16). SSRN. [https://ssrn.com/abstract=2874598](https://ssrn.com/abstract=2874598)
+- Davidson, S., De Filippi, P., & Potts, J. (2018). Blockchains and the economic institutions of capitalism. _Journal of Institutional Economics_, 14(4), 639–658. [https://doi.org/10.1017/S1744137417000200](https://doi.org/10.1017/S1744137417000200)
+- Nakamoto, S. (2008). _Bitcoin: A peer-to-peer electronic cash system_. Bitcoin. [https://bitcoin.org/bitcoin.pdf](https://bitcoin.org/bitcoin.pdf)
+- Narayanan, A., Bonneau, J., Felten, E., Miller, A., & Goldfeder, S. (2016). _Bitcoin and cryptocurrency technologies: A comprehensive introduction_. Princeton University Press.
+- Tapscott, D., & Tapscott, A. (2016). _Blockchain revolution: How the technology behind Bitcoin is changing money, business, and the world_. Penguin.
+8. Werbach, K. (2018). _The blockchain and the new architecture of trust_. MIT Press.
+
+# Capital
