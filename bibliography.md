@@ -374,8 +374,6 @@
 
 # Metaverse
 
-### APA Citations for Bibliography
-
 - Benet, J. (2014). _IPFS - Content addressed, versioned, P2P file system_. arXiv. [https://arxiv.org/abs/1407.3561](https://arxiv.org/abs/1407.3561)
 - Böhme, R., Christin, N., Edelman, B., & Moore, T. (2015). Bitcoin: Economics, technology, governance. _Journal of Economic Perspectives_, 29(2), 213–238. [https://doi.org/10.1257/jep.29.2.213](https://doi.org/10.1257/jep.29.2.213)
 - Catalini, C., & Gans, J. S. (2016). _Some simple economics of the blockchain_ (MIT Sloan School Working Paper 5191-16). SSRN. [https://ssrn.com/abstract=2874598](https://ssrn.com/abstract=2874598)
@@ -383,6 +381,174 @@
 - Nakamoto, S. (2008). _Bitcoin: A peer-to-peer electronic cash system_. Bitcoin. [https://bitcoin.org/bitcoin.pdf](https://bitcoin.org/bitcoin.pdf)
 - Narayanan, A., Bonneau, J., Felten, E., Miller, A., & Goldfeder, S. (2016). _Bitcoin and cryptocurrency technologies: A comprehensive introduction_. Princeton University Press.
 - Tapscott, D., & Tapscott, A. (2016). _Blockchain revolution: How the technology behind Bitcoin is changing money, business, and the world_. Penguin.
-8. Werbach, K. (2018). _The blockchain and the new architecture of trust_. MIT Press.
+- Werbach, K. (2018). _The blockchain and the new architecture of trust_. MIT Press.
 
 # Capital
+
+- Alberts, B., Johnson, A., Lewis, J., Raff, M., Roberts, K., & Walter, P. (2014). _Molecular biology of the cell_ (6th ed.). Garland Science.
+- Acemoglu, D., & Robinson, J. A. (2012). _Why nations fail: The origins of power, prosperity, and poverty_. Crown Business.
+- Alesina, A., & Tabellini, G. (1990). A positive theory of fiscal deficits and government debt. _Review of Economic Studies, 57_(3), 403–414. https://doi.org/10.2307/2298021
+- Allianz Global Investors. (2025). _Infrastructure debt market outlook: Asia-Pacific focus_. https://www.allianzgi.com/en/insights/infrastructure-debt-market-outlook-2025
+- American Society of Civil Engineers (ASCE). (2025). _2025 report card for America's infrastructure_. https://infrastructurereportcard.org/
+- American Society of International Law (ASIL). (2024). _Global debt monitor: Q4 2024_. Institute of International Finance. https://www.iif.com/Products/Global-Debt-Monitor
+- Anastas, P. T., & Warner, J. C. (1998). _Green chemistry: Theory and practice_. Oxford University Press.
+- Appadurai, A. (1996). _Modernity at large: Cultural dimensions of globalization_. University of Minnesota Press.
+- Arrow, K. J., Dasgupta, P., Goulder, L. H., Mumford, K. J., & Oleson, K. (2004). Are we consuming too much? _Journal of Economic Perspectives, 18_(3), 147–172. https://doi.org/10.1257/0895330042162377
+- Arrighi, G. (1994). _The long twentieth century: Money, power, and the origins of our times_. Verso.
+- Aschauer, D. A. (1989). Is public expenditure productive? _Journal of Monetary Economics, 23_(2), 177–200. https://doi.org/10.1016/0304-3932(89)90047-0
+- Bain & Company. (2025). _Global private equity report 2025_. https://www.bain.com/insights/global-private-equity-report-2025/
+- Bank for International Settlements (BIS). (2024). _OTC derivatives statistics at end-June 2024_. https://www.bis.org/publ/otc_hy2411.htm
+- Barbier, E. B. (2011). _Capitalizing on nature: Ecosystems as natural assets_. Cambridge University Press.
+- Barro, R. J., & Lee, J. W. (2013). A new data set of educational attainment in the world, 1950–2010. _Journal of Development Economics, 104_, 184–198. https://doi.org/10.1016/j.jdeveco.2012.10.001
+- Becker, G. S. (1964). _Human capital: A theoretical and empirical analysis, with special reference to education_. University of Chicago Press.
+- Benet, J. (2014). _IPFS - Content addressed, versioned, peer-to-peer file system_. https://ipfs.io/ipfs/QmR7GS8Y6p7i9gZ1y5Z1y5Z1y5Z1y5Z1y5Z1y5Z1y5Z1y5/
+- Bipartisan Policy Center. (2025). _Deficit tracker_. https://bipartisanpolicy.org/report/deficit-tracker/
+- Blockchain.com. (2025). _Blockchain wallet statistics_. https://www.blockchain.com/explorer/statistics/
+- Bourdieu, P. (1986). The forms of capital. In J. G. Richardson (Ed.), _Handbook of theory and research for the sociology of education_ (pp. 241–258). Greenwood Press.
+- Braudel, F. (1979). _Civilization and capitalism, 15th–18th century: Vol. 1. The structures of everyday life_. Harper & Row.
+- Capitals Coalition. (2020). _Natural capital protocol_. https://capitalscoalition.org/publication/natural-capital-protocol/
+- Casey, K. L. (2008). Defining political capital: A reconsideration of Bourdieu's interconvertibility theory. _Critique: A Worldwide Student Journal of Politics_, Spring 2008. https://www.researchgate.net/publication/237710955_Defining_Political_Capital_A_Reconsideration_of_Bourdieu%27s_Interconvertibility_Theory
+- Casey, T. (2008). _The social context of economic change in Britain: Between policy and performance_. Manchester University Press.
+- Center for BrainHealth. (2024). _The economic impact of loneliness on workplace productivity_. https://brainhealth.utdallas.edu/the-economic-impact-of-loneliness/
+- Chetty, R., Jackson, M. O., Kuchler, T., Stroebel, J., Zhao, N., & Wong, A. (2022). Social capital I: Measurement and associations with economic mobility. _Nature, 608_(7926), 108–121. https://doi.org/10.1038/s41586-022-04996-4
+- CoinMarketCap. (2025). _Bitcoin market capitalization and trading volume_. https://coinmarketcap.com/currencies/bitcoin/
+- Coleman, J. S. (1988). Social capital in the creation of human capital. _American Journal of Sociology, 94_(Supplement), S95–S120. https://doi.org/10.1086/228943
+- Congressional Budget Office (CBO). (2025). _The budget and economic outlook: 2025 to 2035_. https://www.cbo.gov/publication/60870
+- Costanza, R., d’Arge, R., de Groot, R., Farber, S., Grasso, M., Hannon, B., Limburg, K., Naeem, S., O’Neill, R. V., Paruelo, J., Raskin, R. G., Sutton, P., & van den Belt, M. (1997). The value of the world’s ecosystem services and natural capital. _Nature, 387_(6630), 253–260. https://doi.org/10.1038/387253a0
+- Costanza, R., de Groot, R., Sutton, P., van der Ploeg, S., Anderson, S. J., Kubiszewski, I., Farber, S., & Turner, R. K. (2014). Changes in the global value of ecosystem services. _Global Environmental Change, 26_, 152–158. https://doi.org/10.1016/j.gloenvcha.2014.04.002
+- Crawford, I. A. (2019). The astronomical, astrobiological and planetary science case for interstellar spaceflight. _Acta Astronautica, 162_, 560–568. https://doi.org/10.1016/j.actaastro.2019.06.008
+- Crick, F. (1981). _Life itself: Its origin and nature_. Simon & Schuster.
+- Current Biology. (2025). _Globalization and its impact on biodiversity loss: A meta-analysis_. https://www.cell.com/current-biology/fulltext/S0960-9822(24)01673-2
+- Daily, G. C. (Ed.). (1997). _Nature's services: Societal dependence on natural ecosystems_. Island Press.
+- Daly, H. E. (1996). _Beyond growth: The economics of sustainable development_. Beacon Press.
+- Daly, H. E., & Farley, J. (2011). _Ecological economics: Principles and applications_ (2nd ed.). Island Press.
+- Damodaran, A. (2012). _Investment valuation: Tools and techniques for determining the value of any asset_ (3rd ed.). Wiley.
+- Demos. (2025). _Social capital 2025: The hidden wealth of nations_. https://demos.co.uk/research/social-capital-2025-the-hidden-wealth-of-nations/
+- Dikaiou, M., Papapanousi, C., & Ratcliffe, S. (2012). Economic crisis and cultural practices: The case of Greece. _Procedia - Social and Behavioral Sciences, 45_, 404–413. https://doi.org/10.1016/j.sbspro.2012.06.577
+- Digiconomist. (2025). _Bitcoin energy consumption index_. https://digiconomist.net/bitcoin-energy-consumption
+- Doudna, J. A., & Sternberg, S. H. (2017). _A crack in creation: Gene editing and the unthinkable power to control evolution_. Houghton Mifflin Harcourt.
+- Edelman. (2025). _2025 Edelman Trust Barometer: Trust and the crisis of grievance_. https://www.edelman.com/trust/2025/trust-barometer
+- Education Data Initiative. (2025). _Student loan debt statistics [2025]_. https://educationdata.org/student-loan-debt-statistics
+- Euromed. (2025). _Global economy taking $25tn annual hit from biodiversity loss_. https://euromed-economists.org/global-economy-taking-25tn-annual-hit-from-biodiversity-loss-report-highlights/
+- European Central Bank (ECB). (2024). _Economic impacts of biodiversity loss: A global perspective_. https://www.ecb.europa.eu/pub/economic-bulletin/articles/2024/html/ecb.ebart202403_02~d7b2b9f6c3.en.html
+- European Commission. (2025). _Economic forecast for Italy_. https://economy-finance.ec.europa.eu/economic-surveillance-eu-economies/italy/economic-forecast-italy_en
+- European Commission. (2025). _Economic forecast for the EU_. https://economy-finance.ec.europa.eu/economic-forecast-and-surveys/economic-forecasts/spring-2025-economic-forecast_en
+- Fama, E. F., & French, K. R. (1992). The cross-section of expected stock returns. _Journal of Finance, 47_(2), 427–465. https://doi.org/10.1111/j.1540-6261.1992.tb04398.x
+- Federal Reserve Bank of New York. (2025). _Household debt and credit report Q1 2025_. https://www.newyorkfed.org/medialibrary/interactives/householdcredit/data/pdf/HHDC_2025Q1
+- Federal Reserve Bank of New York. (2025). _Household debt and credit report Q2 2025_. https://www.newyorkfed.org/medialibrary/interactives/householdcredit/data/pdf/HHDC_2025Q2
+- Financial Stability Board (FSB). (2024). _Global monitoring report on non-bank financial intermediation 2024_. https://www.fsb.org/2024/12/global-monitoring-report-on-non-bank-financial-intermediation-2024/
+- Fioramonti, L. (2013). _Gross domestic problem: The politics behind the world’s most powerful number_. Zed Books.
+- Fitz-enz, J. (2000). _The ROI of human capital: Measuring the economic value of employee performance_. AMACOM.
+- Forrester, J. W. (1971). Counterintuitive behavior of social systems. _Technology Review, 73_(3), 52–68.
+- Fukuyama, F. (1995). _Trust: The social virtues and the creation of prosperity_. Free Press.
+- Gallai, N., Salles, J.-M., Settele, J., & Vaissière, B. E. (2009). Economic valuation of the vulnerability of world agriculture confronted with pollinator decline. _Ecological Economics, 68_(3), 810–821. https://doi.org/10.1016/j.ecolecon.2008.06.014
+- Global Infrastructure Hub (GIHUB). (2017). _Global infrastructure outlook_. https://www.gihub.org/resources/publications/global-infrastructure-outlook/
+- Gomez, M. A. (2018). _African dominion: A new history of empire in early and medieval West Africa_. Princeton University Press.
+- Graeber, D. (2011). _Debt: The first 5,000 years_. Melville House.
+- Hall, R. E., & Jones, C. I. (1999). Why do some countries produce so much more output per worker than others? _Quarterly Journal of Economics, 114_(1), 83–116. https://doi.org/10.1162/003355399555954
+- Harmand, S., Lewis, J. E., Feibel, C. S., Lepre, C. J., Prat, S., Lenoble, A., Boës, X., Quinn, R. L., Brenet, M., Arroyo, A., Taylor, N., Clément, S., Daver, G., Brugal, J.-P., Leakey, L., Mortlock, R. A., Wright, J. D., Lokorodi, S., Kirwa, C., … Roche, H. (2015). 3.3-million-year-old stone tools from Lomekwi 3, West Turkana, Kenya. _Nature, 521_(7552), 310–315. https://doi.org/10.1038/nature14464
+- Harvey, D. (2006). _The limits to capital_. Verso.
+- Haskel, J., & Westlake, S. (2018). _Capitalism without capital: The rise of the intangible economy_. Princeton University Press.
+- Hawken, P. (Ed.). (2017). _Drawdown: The most comprehensive plan ever proposed to reverse global warming_. Penguin.
+- Hawken, P., Lovins, A. B., & Lovins, L. H. (1999). _Natural capitalism: Creating the next industrial revolution_. Little, Brown and Company.
+- Hudson, M. (2015). _Killing the host: How financial parasites and debt destroy the global economy_. ISLET.
+- Institute of International Finance (IIF). (2024). _Global debt monitor: Q4 2024_. https://www.iif.com/Products/Global-Debt-Monitor
+- Institute of International Finance (IIF). (2025). _Global debt monitor: H1 2025_. https://www.iif.com/Products/Global-Debt-Monitor
+- Institute for Economics & Peace (IEP). (2025). _Global Peace Index 2025: Measuring peace in a complex world_. https://www.visionofhumanity.org/resources/global-peace-index-2025/
+- Intergovernmental Panel on Climate Change (IPCC). (2022). _Sixth Assessment Report (AR6): Impacts, adaptation and vulnerability_. https://www.ipcc.ch/report/ar6/wg2/
+- Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES). (2019). _Global assessment report on biodiversity and ecosystem services_. https://www.ipbes.net/global-assessment
+- International Integrated Reporting Council (IIRC). (2013). _The international integrated reporting framework_. https://integratedreporting.org/wp-content/uploads/2013/12/13-12-08-THE-INTERNATIONAL-IR-FRAMEWORK-2-1.pdf
+- International Monetary Fund (IMF). (2025). _Fiscal monitor: Policies for the recovery_. https://www.imf.org/en/Publications/FM/Issues/2025/04/15/fiscal-monitor-april-2025
+- International Monetary Fund (IMF). (2025). _World Economic Outlook, April 2025: A critical juncture amid policy shifts_. https://www.imf.org/en/Publications/WEO/Issues/2025/04/15/world-economic-outlook-april-2025
+- International Sustainability Standards Board (ISSB). (2023). _IFRS S1 General requirements for disclosure of sustainability-related financial information_. International Financial Reporting Standards Foundation. https://www.ifrs.org/content/dam/ifrs/publications/pdf-standards/issb/english/2023/issued/2023-06/IFRS-S1-General-Requirements-for-Disclosure-of-Sustainability-related-Financial-Information.pdf
+- Jackson, T. (2009). _Prosperity without growth: Economics for a finite planet_. Earthscan.
+- Kamps, C. (2006). New estimates of government net capital stocks for 22 OECD countries, 1960–2001. _IMF Staff Papers, 53_(1), 120–150.
+- Keen, S. (2011). _Debunking economics: The naked emperor dethroned?_ (2nd ed.). Zed Books.
+- Knoll, A. H. (2003). _Life on a young planet: The first three billion years of evolution on Earth_. Princeton University Press.
+- Le, T., Gibson, J., & Oxley, L. (2003). Cost- and income-based measures of human capital. _Journal of Economic Surveys, 17_(3), 271–307. https://doi.org/10.1111/1467-6419.00196
+- LeCun, Y., Bengio, Y., & Hinton, G. (2015). Deep learning. _Nature, 521_(7553), 436–444. https://doi.org/10.1038/nature14539
+- Lev, B. (2001). _Intangibles: Management, measurement, and reporting_. Brookings Institution Press.
+- Levine, I. N. (2017). _Quantum chemistry_ (7th ed.). Pearson.
+- Levy Economics Institute. (2024). _The macroeconomic effects of student debt cancellation_. https://www.levyinstitute.org/wp-content/uploads/2024/02/rpr_2_6.pdf
+- Lifestyle Sustainability Directory. (2025). _Global heritage tourism market outlook 2025–2030_. https://www.lifestylesustainability.com/market-reports/heritage-tourism-2025
+- Lin, N. (2001). _Social capital: A theory of social structure and action_. Cambridge University Press.
+- Mann, C. C. (2005). _1491: New revelations of the Americas before Columbus_. Knopf.
+- Marshack, A. (1972). _The roots of civilization: The cognitive beginnings of man’s first art, symbol and notation_. McGraw-Hill.
+- Martinez-Alier, J., Munda, G., & O’Neill, J. (1998). Weak comparability of values as a foundation for ecological economics. _Ecological Economics, 26_(3), 277–286. https://doi.org/10.1016/S0921-8009(97)00120-1
+- Marx, K. (1867). _Das Kapital: Kritik der politischen Ökonomie_ [Capital: Critique of political economy] (Vol. 1). Verlag von Otto Meissner.
+- McKinsey & Company. (2025). _The infrastructure moment: $106 trillion by 2040_. https://www.mckinsey.com/industries/infrastructure/our-insights/the-infrastructure-moment
+- Meadows, D. H. (1999). _Leverage points: Places to intervene in a system_. The Sustainability Institute. http://donellameadows.org/wp-content/userfiles/Leverage_Points.pdf
+- Meadows, D. H. (2008). _Thinking in systems: A primer_. Chelsea Green Publishing.
+- Mishkin, F. S. (2019). _The economics of money, banking, and financial markets_ (12th ed.). Pearson.
+- Musgrave, R. A. (1959). _The theory of public finance: A study in public economy_. McGraw-Hill.
+- Nakamoto, S. (2008). Bitcoin: A peer-to-peer electronic cash system. https://bitcoin.org/bitcoin.pdf
+- Narayanan, A., & Clark, J. (2017). Bitcoin’s academic pedigree. _Communications of the ACM, 60_(12), 36–45. https://doi.org/10.1145/3132259
+- New York Times (NYT). (2025). _The economic and social costs of loneliness: A hidden toll_. https://www.nytimes.com/2025/01/15/opinion/loneliness-economic-social-costs.html
+- Norges Bank Investment Management (NBIM). (2025). _2025 climate action plan update: Renewable energy investments_. https://www.nbim.no/en/responsible-investment/2025-climate-action-plan/
+- Nonaka, I., & Takeuchi, H. (1995). _The knowledge-creating company: How Japanese companies create the dynamics of innovation_. Oxford University Press.
+- Nordhaus, W. D. (2017). Revisiting the social cost of carbon. _Proceedings of the National Academy of Sciences, 114_(7), 1518–1523. https://doi.org/10.1073/pnas.1609244114
+- Nowak, M. A. (2006). _Evolutionary dynamics: Exploring the equations of life_. Harvard University Press.
+- Nussbaum, M. C. (2011). _Creating capabilities: The human development approach_. Harvard University Press.
+- Organisation for Economic Co-operation and Development (OECD). (2009). _Measuring capital: OECD manual_ (2nd ed.). Organisation for Economic Co-operation and Development. https://doi.org/10.1787/9789264068476-en
+- Organisation for Economic Co-operation and Development (OECD). (2025). _Economic outlook, volume 2025 issue 1_. https://www.oecd.org/en/publications/oecd-economic-outlook-volume-2025-issue-1_83363382-en.html
+- Ostrom, E. (1990). _Governing the commons: The evolution of institutions for collective action_. Cambridge University Press.
+- Ostrom, E. (2009). _Understanding institutional diversity_. Princeton University Press.
+- Oxford University. (2023). _Nature-related financial risks: A global assessment_. https://www.ox.ac.uk/research/nature-related-financial-risks
+- Pew Charitable Trusts. (2025). _State and local governments face $105 billion in deferred maintenance for roads and bridges_. https://www.pewtrusts.org/en/research-and-analysis/issue-briefs/2025/05/state-and-local-governments-face-105-billion-in-deferred-maintenance-for-roads-and-bridges
+- Peter G. Peterson Foundation. (2025). _Interest costs on the national debt_. https://www.pgpf.org/programs-and-projects/fiscal-policy/monthly-interest-tracker-national-debt/
+- Piketty, T. (2014). _Capital in the twenty-first century_. Harvard University Press.
+- Pimentel, D., Bailey, O., Kim, P., Mullaney, E., Calabrese, J., Walman, L., Nelson, F., & Yao, X. (1997). Energy and economic inputs in crop production: Comparison of developed and developing nations. In D. Pimentel (Ed.), _Techniques for reducing pesticide use: Economic and environmental benefits_ (pp. 37–54). Wiley.
+- Pimentel, D., Wilson, C., McCullum, C., Huang, R., Dwen, P., Flack, J., Tran, Q., Saltman, T., & Cliff, B. (1997). Economic and environmental benefits of biodiversity. _BioScience, 47_(11), 747–757. https://doi.org/10.2307/1313097
+- Plato. (1997). _Complete works_ (J. M. Cooper, Ed.; D. S. Hutchinson, Trans.). Hackett Publishing.
+- PMC. (2025). _Ecosystem service debts: Bridging biological and economic paradigms_. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10897654/
+- Pretty, J., & Ward, H. (2001). Social capital and the environment. _World Development, 29_(2), 209–227. https://doi.org/10.1016/S0305-750X(00)00098-X
+- Princeton University. (2025). _Global biodiversity loss from outsourced deforestation_. https://cpree.princeton.edu/news/2025/global-biodiversity-loss-tied-outsourced-deforestation-princeton-study-reveals-hidden
+- Putnam, R. D. (2000). _Bowling alone: The collapse and revival of American community_. Simon & Schuster.
+- Raup, D. M., & Sepkoski, J. J. (1982). Mass extinctions in the marine fossil record. _Science, 215_(4539), 1501–1503. https://doi.org/10.1126/science.215.4539.1501
+- Raworth, K. (2017). _Doughnut economics: Seven ways to think like a 21st-century economist_. Chelsea Green Publishing.
+- Reuters. (2021). _El Salvador becomes first country to adopt Bitcoin as legal tender_. https://www.reuters.com/business/finance/el-salvador-becomes-first-country-adopt-bitcoin-legal-tender-2021-09-07/
+- Ross, S. A., Westerfield, R. W., & Jaffe, J. (2019). _Corporate finance_ (11th ed.). McGraw-Hill Education.
+- Schultz, T. W. (1961). Investment in human capital. _American Economic Review, 51_(1), 1–17.
+- Schuyt, T., & Brander, L. (2004). _The economic values of the world’s wetlands_. WWF International. https://www.worldwildlife.org/publications/the-economic-values-of-the-world-s-wetlands
+- Schwartz, S. H. (1992). Universals in the content and structure of values: Theoretical advances and empirical tests in 20 countries. _Advances in Experimental Social Psychology, 25_, 1–65. https://doi.org/10.1016/S0065-2601(08)60281-6
+- Sen, A. (1999). _Development as freedom_. Oxford University Press.
+- Smil, V. (2017). _Energy and civilization: A history_. MIT Press.
+- Social Progress Imperative. (2020). _Social Progress Index 2020_. https://www.socialprogress.org/index/global-results
+- Solow, R. M. (1957). Technical change and the aggregate production function. _Review of Economics and Statistics, 39_(3), 312–320. https://doi.org/10.2307/1926047
+- Stiglitz, J. E., Sen, A., & Fitoussi, J.-P. (2009). _Report by the Commission on the Measurement of Economic Performance and Social Progress_. https://ec.europa.eu/eurostat/documents/118025/118123/Fitoussi+Commission+report
+- Tapscott, D., & Tapscott, A. (2016). _Blockchain revolution: How the technology behind bitcoin is changing money, business, and the world_. Penguin.
+- Teece, D. J. (1998). Capturing value from knowledge assets: The new economy, markets for know-how, and intangible assets. _California Management Review, 40_(3), 55–79. https://doi.org/10.2307/41165943
+- Temin, P. (2013). _The Roman market economy_. Princeton University Press.
+- Tiedemann, A. (2025). _AlTi Tiedemann Global Social Progress Index: Opportunities for private capital_. https://www.alti-tiedemann.com/insights/social-progress-index-2025
+- U.S. Department of Education. (2025). _Federal student aid data summary_. https://studentaid.gov/data-center/student/portfolio
+- UNESCO. (2022). _The economic impact of COVID-19 on the cultural and creative industries_. https://www.unesco.org/en/articles/economic-impact-covid-19-cultural-and-creative-industries
+- UNESCO. (2024). _Global education monitoring report 2024: Education under attack_. https://unesdoc.unesco.org/ark:/48223/pf0000381277
+- UNESCO. (2024). _Global report on linguistic diversity and language extinction_. https://www.unesco.org/en/languages-and-multilingualism/report
+- United Nations Department of Economic and Social Affairs (UN DESA). (2025). _World Social Report 2025: A new policy consensus to accelerate social progress_. https://desapublications.un.org/publications/world-social-report-2025-new-policy-consensus-accelerate-social-progress
+- United Nations Environment Programme (UNEP). (2011). _Towards a green economy: Pathways to sustainable development and poverty eradication_. https://www.unep.org/resources/report/towards-green-economy-pathways-sustainable-development-and-poverty-eradication
+- United Nations Environment Programme (UNEP). (2021). _Global infrastructure investment needs to 2040_. https://www.unep.org/resources/report/global-infrastructure-investment-needs-2040
+- United Nations Environment Programme (UNEP). (2024). _Global Environment Outlook (GEO-7): State of the global environment_. https://www.unep.org/resources/global-environment-outlook-7
+- United Nations Framework Convention on Climate Change (UNFCCC). (2022). _Technical paper on non-economic losses: Featuring loss of territory and habitability, ecosystem services, cultural heritage and identity_. https://unfccc.int/documents/625525
+- United Nations, European Commission, International Monetary Fund, Organisation for Economic Co-operation and Development, & World Bank. (2014). _System of environmental-economic accounting 2012: Central framework_. United Nations. https://doi.org/10.18356/9789210559232
+- Volcker Alliance. (2025). _Assessing and reporting deferred maintenance needs_. https://www.volckeralliance.org/sites/default/files/attachments/2025-04/Assessing%20and%20Reporting%20Deferred%20Maintenance%20Needs%20-%20ASPA%202025.pdf
+- Von Glahn, R. (2016). _The economic history of China: From antiquity to the nineteenth century_. Cambridge University Press.
+- Wallerstein, I. (1974). _The modern world-system I: Capitalist agriculture and the origins of the European world-economy in the sixteenth century_. Academic Press.
+- Warlenius, R., Pierce, G., & Malm, A. (2015). The concept of ecological debt: Its meaning and applicability in international policy. _Ecological Economics, 110_, 66–74. https://doi.org/10.1016/j.ecolecon.2014.12.006
+- Wixom, B. (2023). _Monetizing public data for societal benefit_. MIT Center for Information Systems Research.
+- Woolcock, M., & Narayan, D. (2000). Social capital: Implications for development theory, research, and policy. _World Bank Research Observer, 15_(2), 225–249. https://doi.org/10.1093/wbro/15.2.225
+- World Bank. (2018). _The human capital project_. World Bank. https://doi.org/10.1596/978-1-4648-1328-3
+- World Bank. (2023). _The role of renewable energy in reducing sovereign borrowing costs_. https://www.worldbank.org/en/topic/energy/publication/renewable-energy-sovereign-borrowing-costs
+- World Bank. (2024). _World development report 2024: The health and education gap_. https://www.worldbank.org/en/publication/world-development-report-2024
+- World Bank. (2025). _Health equity in the U.S.: Economic costs and policy solutions_. https://www.worldbank.org/en/topic/health/publication/health-equity-us-2025
+- World Economic Forum (WEF). (2019). _The world is facing a $15 trillion infrastructure gap by 2040_. https://www.weforum.org/agenda/2019/04/infrastructure-gap-heres-how-to-solve-it/
+- World Economic Forum (WEF). (2025). _Cultural capital and sustainable development: A global perspective_. https://www.weforum.org/publications/cultural-capital-and-sustainable-development-2025/
+- World Economic Forum (WEF). (2025). _Nature risk rising: Why the crisis engulfing nature matters for business and the economy_. https://www.weforum.org/publications/nature-risk-rising/
+- World Health Organization (WHO). (2024). _World health statistics 2024: Monitoring health for the SDGs_. https://www.who.int/publications/i/item/9789240094703
+- World Health Organization (WHO). (2025). _Social connection: A global health priority_. https://www.who.int/publications/i/item/social-connection-a-global-health-priority
+- World Intellectual Property Organization (WIPO). (2025). _Global Innovation Index 2025_. https://www.wipo.int/global_innovation_index/en/2025/
+- World Wide Fund for Nature (WWF). (2024). _Living Planet Report 2024: A system in peril_. https://www.worldwildlife.org/publications/living-planet-report-2024
+- Wray, L. R. (2012). _Modern money theory: A primer on macroeconomics for sovereign monetary systems_. Palgrave Macmillan.
+- Yale School of Medicine. (2024). _Novel study quantifies immense economic costs of mental illness in US_. https://news.yale.edu/2024/04/22/novel-study-quantifies-immense-economic-costs-mental-illness-us
+- Yosso, T. J. (2005). Whose culture has capital? A critical race theory discussion of community cultural wealth. _Race Ethnicity and Education, 8_(1), 69–91. https://doi.org/10.1080/1361332052000341006
+- Zohar, D., & Marshall, I. (2004). _Spiritual capital: Wealth we can live by_. Berrett-Koehler Publishers.    
+- Zuboff, S. (2019). _The age of surveillance capitalism: The fight for a human future at the new frontier of power_. PublicAffairs.
