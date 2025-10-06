@@ -172,8 +172,6 @@ When looking at the many different types of capital from a debt-based and wealth
 
 Let's do a deeper dive into each of these types of Capital, and explore them from a systems perspective.  We will look at the various Forms that it takes, the Networks it enables and creates, the Consensus mechanisms used and the Purpose behind them.  Then we will explore how shifting from debt to wealth demands redefines Capital across our entire civilization. It's easy to dream of paying off debt, but the reality is always harsh.  Debts cannot just be forgiven or forgotten.  Value pulled from the future must be paid back in some form or another.
 
-# ***Bibliography work starts here:***
-
 ## Physical Capital
 
 ### Physical Capital: Forms
