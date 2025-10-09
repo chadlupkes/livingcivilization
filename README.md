@@ -12,7 +12,7 @@ On the canvas of [Space](/space.md) and [Time](/time.md), Civilization builds up
 Our [Evolution](/evolution.md) has taken us from the simple to the complex, and has opened the door to the [Abstractions](/abstraction.md) that make civilization possible. Those abstractions are the pillars of the [Metaverse](/metaverse.md), a universal framework of systems that underpins civilization:
 
 - [Capital](/capital.md), systems of measurement, value and allocation
-- Information, systems of gathering, verifying and sharing knowledge
+- Information, systems of recording, verifying and sharing knowledge
 - Innovation, systems of generation, creativity and application
 - Trust, systems of coordination, governance and assurance
 
