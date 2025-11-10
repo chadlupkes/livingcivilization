@@ -78,4 +78,4 @@ The cosmic web culminates at 10^26 meters—10 billion light-years—nearing the
 
 In science classes and YouTube videos, we have explored this scale before.  Carl Sagan and Neil deGrasse Tyson did it in Cosmos, and many, many scientists and artists have given us a cosmic view of our amazing spatial dimension.  Each and every one of these steps deserves investigation and discovery, but that scientific deep dive is beyond the scope for this book.  We climbed the ladder not for scientific curiosity, but as the beginning of an exploration into the Living Civilization. So now that we have had our look at the scales from Planck to the Cosmic Web, the question becomes where exactly civilization plays a part.
 
-Before we can answer that, we shall explore the other dimension of our canvas, Time itself.  Time to turn the page.
+Before we can answer that, we shall explore the other dimension of our canvas, [Time](/time.md) itself.  Time to turn the page.
