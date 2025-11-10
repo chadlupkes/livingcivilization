@@ -64,4 +64,4 @@ The exponential lens compresses this, but linear time unveils opportunity (Adams
 
 Our canvas lies before us. We know the spatial scales we can see, touch, and manifest our dreams within, and our place in the Cosmological Century, with time before the stars fade (Dick, 2018). We must seize this time, to the fullest, driven by purpose and vision (Zimbardo & Boyd, 2008). 
 
-Our next step in this journey is a review of the Pillars of the Universe. Matter, Energy, Physics and Chemistry. Let us continue, and step forward.
+Our next step in this journey is a review of the Pillars of the Universe. [Matter](/matter.md), [Energy](/energy.md), [Physics](/physics.md) and [Chemistry](/chemistry.md). Let us continue, and step forward.
