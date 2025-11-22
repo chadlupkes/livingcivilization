@@ -30,7 +30,7 @@
 - Bichat, X. (1801). Anatomie générale, appliquée à la physiologie et à la médecine. Brosson, Gabon et Cie.
 - Ross, M. H., Pawlina, W., & Barnash, T. A. (2014). Histology: A text and atlas with correlated cell and molecular biology (7th ed.). Wolters Kluwer Health.
 - Leeuwenhoek, A. van. (1674). Observations, communicated to the publisher by Mr. Antony van Leeuwenhoeck, in a Dutch letter of the 7th of October 1674. Philosophical Transactions of the Royal Society, 9(103-104), 178–182. [https://doi.org/10.1098/rstl.1674.0039](https://doi.org/10.1098/rstl.1674.0039)
-- Malpighi, M. (1666). De viscerum structura exercitatio anatomica. Typis Ioannis Martyn.
+- Malpighi, M. (1666). De viscerum structura exercitatio anatomica. Giacomo Monti.
 - Guyton, A. C., & Hall, J. E. (2015). Textbook of medical physiology (13th ed.). Elsevier.
 - Vitruvius. (1914). The ten books on architecture (M. H. Morgan, Trans.). Harvard University Press. (Original work published ca. 25 BCE).
 - da Vinci, L. (1989). The notebooks of Leonardo da Vinci (J. P. Richter, Trans.). Dover Publications. (Original work ca. 1490).
