@@ -36,3 +36,6 @@ Other articles in this network:
 [Digital Intelligence](/digitalintelligence.md)
 
 I am seeking feedback on this book, Living Civilization.  Postive feedback is ideal, but constructive feedback is also welcome.  Please send me a note here on Github or contact me on social media.  https://linktr.ee/chadlupkes
+
+- [Space_Expanded](/space_claude_expanded.md)
+- 
