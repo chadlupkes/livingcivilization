@@ -35,7 +35,7 @@
 - Vitruvius. (1914). The ten books on architecture (M. H. Morgan, Trans.). Harvard University Press. (Original work published ca. 25 BCE).
 - da Vinci, L. (1989). The notebooks of Leonardo da Vinci (J. P. Richter, Trans.). Dover Publications. (Original work ca. 1490).
 - Tortora, G. J., & Derrickson, B. (2017). Principles of anatomy and physiology (15th ed.). Wiley.
-- Humboldt, A. von. (1845–1862). Cosmos: A sketch of a physical description of the universe (E. C. Otté, Trans.). Harper & Brothers. (Original work published 1845–1862).
+- Humboldt, A. von. (1845–1862). Kosmos: A sketch of a physical description of the universe (E. C. Otté, Trans.). Harper & Brothers. (Original work published 1845–1862).
 - Douglass, A. E. (1919). Climatic cycles and tree-growth: A study of the annual rings of trees in relation to climate and solar activity. Carnegie Institution of Washington.
 - Raven, P. H., Evert, R. F., & Eichhorn, S. E. (2016). Biology of plants (8th ed.). W.H. Freeman.
 - Agassiz, L. (1840). Études sur les glaciers. Jent et Gassmann.
