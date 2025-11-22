@@ -40,7 +40,7 @@
 - Raven, P. H., Evert, R. F., & Eichhorn, S. E. (2016). Biology of plants (8th ed.). W.H. Freeman.
 - Agassiz, L. (1840). Études sur les glaciers. Jent et Gassmann.
 - Muir, J. (1901). Our national parks. Houghton, Mifflin and Company.
-- Roosevelt, T. (1903). Executive order reserving lands for Yosemite National Park. U.S. Government Printing Office.
+- U.S. Congress. (1906). Joint Resolution Accepting the recession by the State of California of the Yosemite Valley Grant and the Mariposa Big Tree Grove, and including the same, together with sufficient surrounding land, within the boundaries of the Yosemite National Park [Resolution No. 27]. 34 Stat. 831.
 - Tarbuck, E. J., Lutgens, F. K., & Tasa, D. G. (2017). Earth: An introduction to physical geology (12th ed.). Pearson.
 - Lewis, M., & Clark, W. (2004). The journals of the Lewis and Clark expedition (G. E. Moulton, Ed.). University of Nebraska Press. (Original work published 1804–1806).
 - Cook, J. (1784). A voyage to the Pacific Ocean, undertaken by the command of His Majesty, for making discoveries in the Northern Hemisphere (Vol. 1). G. Nicol & T. Cadell. (Original work published 1776–1778).
