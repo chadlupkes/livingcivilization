@@ -43,7 +43,7 @@
 - U.S. Congress. (1906). Joint Resolution Accepting the recession by the State of California of the Yosemite Valley Grant and the Mariposa Big Tree Grove, and including the same, together with sufficient surrounding land, within the boundaries of the Yosemite National Park [Resolution No. 27]. 34 Stat. 831.
 - Tarbuck, E. J., Lutgens, F. K., & Tasa, D. G. (2017). Earth: An introduction to physical geology (12th ed.). Pearson.
 - Lewis M, Clark W. The Journals of the Lewis and Clark Expedition. Moulton GE, ed. Lincoln, NE: University of Nebraska Press; 1983-2001. 13 vols.
-- Cook, J. (1784). A voyage to the Pacific Ocean, undertaken by the command of His Majesty, for making discoveries in the Northern Hemisphere (Vol. 1). G. Nicol & T. Cadell. (Original work published 1776–1778).
+- Cook J. The Journals of Captain James Cook on His Voyages of Discovery. Beaglehole JC, ed. Cambridge, UK: Cambridge University Press; 1955-1974. 4 vols.
 - Hutton, J. (1788). Theory of the Earth; or an investigation of the laws observable in the composition, dissolution, and restoration of land upon the globe. Transactions of the Royal Society of Edinburgh, 1(2), 209–304. [https://doi.org/10.1017/S0080456800029227](https://doi.org/10.1017/S0080456800029227)
 - Smith, W. (1815). A delineation of the strata of England and Wales, with part of Scotland. John Cary.
 - Christopherson, R. W., & Birkeland, G. H. (2017). Geosystems: An introduction to physical geography (10th ed.). Pearson.
