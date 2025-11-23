@@ -86,7 +86,7 @@
 - Dick, S. J. (2018). Astrobiology, discovery, and societal impact. Cambridge University Press.
 - Dones, L., Weissman, P. R., Levison, H. F., & Duncan, M. J. (2004). Oort Cloud formation and dynamics. In Comets II (pp. 153–174). University of Arizona Press.
 - Rickman H. The Oort Cloud and long-period comets. Meteorit Planet Sci. 2014;49(1):8-20. doi:10.1111/maps.12080.
-- Crawford, I. A. (2019). The astronomical, astrobiological, and planetary science case for interstellar spaceflight. Acta Astronautica, 165, 299–309. [https://doi.org/10.1016/j.actaastro.2019.09.013](https://doi.org/10.1016/j.actaastro.2019.09.013)
+- Crawford IA. The astronomical, astrobiological, and planetary science case for interstellar spaceflight. J Br Interplanet Soc. 2009;62:415-421.
 - Hoskin, M. (1999). The Cambridge concise history of astronomy. Cambridge University Press.
 - Innes, R. T. A. (1915). A faint star of large proper motion. Circular of the Union Observatory, 30, 235–236.
 - Anglada-Escudé, G., Amado, P. J., Barnes, J., Berdiñas, Z. M., Butler, R. P., Coleman, G. A. L., ... & Zechmeister, M. (2016). A terrestrial planet candidate in a temperate orbit around Proxima Centauri. Nature, 536(7617), 437–440. [https://doi.org/10.1038/nature19106](https://doi.org/10.1038/nature19106)
