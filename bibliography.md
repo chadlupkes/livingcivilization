@@ -56,7 +56,7 @@
 - Helin, E. F., Pravdo, S. H., & Rabinowitz, D. L. (1997). The Near-Earth Asteroid Tracking (NEAT) program: An automated system for telescope control and data reduction. Bulletin of the American Astronomical Society, 29(5), 1326.
 - NASA Jet Propulsion Laboratory. (2024). Discovery statistics. Center for Near-Earth Object Studies (CNEOS). [https://cneos.jpl.nasa.gov/stats/totals.html](https://cneos.jpl.nasa.gov/stats/totals.html)
 - Zeilik, M., & Gregory, S. A. (1998). Introductory astronomy and astrophysics (4th ed.). Saunders College Publishing.
-- Sagan, C., & Pollack, J. B. (1967). On the nature of the clouds and the greenhouse effect on Venus. The Astrophysical Journal, 149(3), 731–742. [https://doi.org/10.1086/149305](https://doi.org/10.1086/149305)
+- Sagan C, Pollack JB. On the nature of the clouds and the origin of the surface temperature of Venus. Astron J. 1966;71(3):178-197.
 - Lowell, P. (1895). Mars. Houghton, Mifflin and Company.
 - Antoniadi, E. M. (1930). La planète Mars: Étude basée sur les résultats obtenus avec le grand télescope de l’Observatoire de Meudon. Hermann & Cie.
 - Sheehan, W. (1996). The planet Mars: A history of observation and discovery. University of Arizona Press.
