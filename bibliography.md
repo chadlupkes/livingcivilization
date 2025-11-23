@@ -48,7 +48,7 @@
 - Smith, W. (1815). A delineation of the strata of England and Wales, with part of Scotland. John Cary.
 - Christopherson, R. W., & Birkeland, G. H. (2017). Geosystems: An introduction to physical geography (10th ed.). Pearson.
 - Wegener, A. (1915). Die Entstehung der Kontinente und Ozeane. Vieweg.
-- Skinner, B. J., Porter, S. C., & Park, J. (2019). Dynamic Earth: An introduction to physical geology (6th ed.). Wiley.
+- Skinner BJ, Porter SC, Park J. Dynamic Earth: An Introduction to Physical Geology. 5th ed. Hoboken, NJ: John Wiley & Sons; 2004.
 - Getis, A., Getis, J., Bjelland, M., & Fellmann, J. D. (2018). Introduction to geography (15th ed.). McGraw-Hill Education.
 - Hartmann, W. K., & Davis, D. R. (1975). Satellite-sized planetesimals and lunar origin. Icarus, 24(4), 504–515. [https://doi.org/10.1016/0019-1035(75)90070-6](https://doi.org/10.1016/0019-1035\(75\)90070-6)
 - Spudis, P. D. (1996). The once and future Moon. Smithsonian Institution Press.
