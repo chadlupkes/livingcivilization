@@ -85,7 +85,7 @@
 - Krimigis, S. M., Decker, R. B., Roelof, E. C., Hill, M. E., Armstrong, T. P., Gloeckler, G., Hamilton, D. C., & Lanzerotti, L. J. (2013). Search for the exit: Voyager 1 at the heliosphere’s border with the galaxy. Science, 341(6142), 144–147. [https://doi.org/10.1126/science.1235721](https://doi.org/10.1126/science.1235721)
 - Dick, S. J. (2018). Astrobiology, discovery, and societal impact. Cambridge University Press.
 - Dones, L., Weissman, P. R., Levison, H. F., & Duncan, M. J. (2004). Oort Cloud formation and dynamics. In Comets II (pp. 153–174). University of Arizona Press.
-- Rickman, H. (2014). The Oort Cloud and long-period comets. Advances in Space Research, 54(7), 1478–1485. [https://doi.org/10.1016/j.asr.2014.02.017](https://doi.org/10.1016/j.asr.2014.02.017)
+- Rickman H. The Oort Cloud and long-period comets. Meteorit Planet Sci. 2014;49(1):8-20. doi:10.1111/maps.12080.
 - Crawford, I. A. (2019). The astronomical, astrobiological, and planetary science case for interstellar spaceflight. Acta Astronautica, 165, 299–309. [https://doi.org/10.1016/j.actaastro.2019.09.013](https://doi.org/10.1016/j.actaastro.2019.09.013)
 - Hoskin, M. (1999). The Cambridge concise history of astronomy. Cambridge University Press.
 - Innes, R. T. A. (1915). A faint star of large proper motion. Circular of the Union Observatory, 30, 235–236.
