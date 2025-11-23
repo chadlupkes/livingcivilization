@@ -65,7 +65,7 @@
 - Hart, M. H. (1978). The evolution of the atmosphere of the Earth. Icarus, 33(1), 23–39. [https://doi.org/10.1016/0019-1035(78)90021-0](https://doi.org/10.1016/0019-1035\(78\)90021-0)  
 - Kasting, J. F., Whitmire, D. P., & Reynolds, R. T. (1993). Habitable zones around main sequence stars. Icarus, 101(1), 108–128. [https://doi.org/10.1006/icar.1993.1010](https://doi.org/10.1006/icar.1993.1010)
 - National Aeronautics and Space Administration. NASA Technology Roadmaps: TA 6: Human Health, Life Support, and Habitation Systems. 2015. https://www.nasa.gov/wp-content/uploads/2016/08/2015_nasa_technology_roadmaps_ta_6_human_health_life_support_habitation_final.pdf. Accessed November 23, 2025.
-- Russell, C. T. (2006). The solar wind interaction with the Earth’s magnetosphere: A tutorial. IEEE Transactions on Plasma Science, 34(5), 2078–2087. [https://doi.org/10.1109/TPS.2006.881641](https://doi.org/10.1109/TPS.2006.881641)
+- Russell CT. The solar wind interaction with the Earth's magnetosphere: A tutorial. IEEE Trans Plasma Sci. 2000;28(6):1818-1830. doi:10.1109/27.902211.
 - King, H. C. (1955). The history of the telescope. Sky Publishing Corporation.
 - Chapman, A. (2009). A new perceived reality: Thomas Harriot’s Moon maps. Astronomy & Geophysics, 50(1), 1.27–1.33. [https://doi.org/10.1111/j.1468-4004.2009.50127.x](https://doi.org/10.1111/j.1468-4004.2009.50127.x)
 - Galilei, G. (1610). Sidereus nuncius (A. Van Helden, Trans.). University of Chicago Press (1989 reprint).
