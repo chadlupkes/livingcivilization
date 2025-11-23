@@ -71,7 +71,7 @@
 - Galilei, G. (1610). Sidereus nuncius (A. Van Helden, Trans.). University of Chicago Press (1989 reprint).
 - Van Helden A. Galileo, telescopic astronomy, and the Copernican system. In: Taton R, Wilson C, eds. The General History of Astronomy: Volume 2A – Planetary Astronomy from the Renaissance to the Rise of Astrophysics, Part A: Tycho Brahe to Newton. Cambridge, UK: Cambridge University Press; 1989:81-99.
 - Morrison, D. (1980). Voyages to Jupiter. NASA SP-439. National Aeronautics and Space Administration. [https://history.nasa.gov/SP-439/SP-439.htm](https://history.nasa.gov/SP-439/SP-439.htm)
-- Huygens, C. (1659). Systema Saturnium (J. E. McGuire, Trans.). University of Chicago Press (1985 reprint).
+- Huygens C. A System of Saturn. Walden JH, trans. The Observatory. 1928;51:303-311.
 - Hoskin, M. (2011). Discoverers of the universe: William and Caroline Herschel. Princeton University Press.
 - Grosser, M. (1962). The discovery of Neptune. Harvard University Press.
 - Le Verrier, U. J. J., & Galle, J. G. (1846). On the planet Neptune. Astronomische Nachrichten, 25(589), 391–394. [https://doi.org/10.1002/asna.18460252502](https://doi.org/10.1002/asna.18460252502)
