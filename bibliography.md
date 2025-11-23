@@ -69,7 +69,7 @@
 - King, H. C. (1955). The history of the telescope. Sky Publishing Corporation.
 - Chapman, A. (2009). A new perceived reality: Thomas Harriot’s Moon maps. Astronomy & Geophysics, 50(1), 1.27–1.33. [https://doi.org/10.1111/j.1468-4004.2009.50127.x](https://doi.org/10.1111/j.1468-4004.2009.50127.x)
 - Galilei, G. (1610). Sidereus nuncius (A. Van Helden, Trans.). University of Chicago Press (1989 reprint).
-- Van Helden, A. (1984). Galileo, telescopic astronomy, and the Copernican system. In The general history of astronomy: Volume 2A (pp. 81–99). Cambridge University Press.
+- Van Helden A. Galileo, telescopic astronomy, and the Copernican system. In: Taton R, Wilson C, eds. The General History of Astronomy: Volume 2A – Planetary Astronomy from the Renaissance to the Rise of Astrophysics, Part A: Tycho Brahe to Newton. Cambridge, UK: Cambridge University Press; 1989:81-99.
 - Morrison, D. (1982). Voyages to Jupiter. NASA SP-439. National Aeronautics and Space Administration. [https://history.nasa.gov/SP-439/SP-439.htm](https://history.nasa.gov/SP-439/SP-439.htm)
 - Huygens, C. (1659). Systema Saturnium (J. E. McGuire, Trans.). University of Chicago Press (1985 reprint).
 - Hoskin, M. (2011). Discoverers of the universe: William and Caroline Herschel. Princeton University Press.
