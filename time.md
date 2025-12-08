@@ -1,3 +1,5 @@
+# Time
+
 Time awoke with [Space](/space.md) in the Big Bang, 13.8 billion years ago. From that primal moment to visions of eternity's end, scientists and storytellers have tried to comprehend time's vast arc.
 
 Carl Sagan crafted the Cosmic Calendar—a map compressing the universe's entire history into a single year. January 1st marks the Big Bang. December 31st is today. In this framework, all of recorded human history occupies the final seconds before midnight on New Year's Eve. Sagan's calendar, presented in _The Dragons of Eden_ and _Cosmos_, made deep time graspable by anchoring it to something familiar: the calendar year we all know. But it ends at the present, focused entirely on the past.
