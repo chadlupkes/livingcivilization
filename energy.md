@@ -1,6 +1,6 @@
 # Energy
 
-On the canvas of Space and Time, where <a href="time.md">Matter</a> stands as substance, Energy emerges as the capacity for change. It is the flow that transforms stillness into motion, potential into action, simplicity into complexity.
+On the canvas of Space and Time, where <a href="matter.md">Matter</a> stands as substance, Energy emerges as the capacity for change. It is the flow that transforms stillness into motion, potential into action, simplicity into complexity.
 
 Energy's story begins with the Big Bang—the universe's first surge of pure energy transforming into particles, then matter, then structure. In Year 1 of the Cosmological Century, energy manifested as the fundamental forces binding quarks into protons, protons into nuclei. By Year 8, it ignited the first stars—Population III giants fusing hydrogen into helium, releasing torrents of light before collapsing in supernova explosions that seeded space with heavier elements. Energy flowed through Population II and I stars, crafting the carbon, oxygen, and iron that would eventually enable life.
 
