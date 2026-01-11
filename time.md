@@ -12,7 +12,7 @@ I seek to build on these frameworks by reframing cosmic time for beings who meas
 
 Year 1 begins with the Big Bang at time zero. Year 100 arrives at 10^100 years, when the last black holes fade. Each Year represents an exponential leap through cosmic time—10^1, 10^2, 10^3 and onward—with months and days marking finer divisions within each year. This creates an unusual rhythm: the first day of Year 1 contains more cosmic events than all the remaining 364 days combined, as the early universe transforms at extraordinary speed before settling into slower epochs.
 
-We live in Year 14 of this cosmic century. The stelliferous era—the age of stars—stretches from roughly Year 10 to Year 15. We stand near its beginning, not its end. Trillions of years of star-forming, planet-building, civilization-creating time lie ahead. The universe is young. The opportunities are vast.
+We live in Year 11 of this cosmic century. The stelliferous era—the age of stars—stretches from roughly Year 10 to Year 15. We stand near its beginning, not its end. Trillions of years of star-forming, planet-building, civilization-creating time lie ahead. The universe is young. The opportunities are vast.
 
 This is the framework for understanding not just where we've been, but where we're going—and how much time we have to get there.
 
