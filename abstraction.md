@@ -1,6 +1,6 @@
 # Abstraction
 
-The universe operates through physical law. A photon travels at exactly the speed of light. An electron maintains precise charge. Chemistry follows thermodynamic necessity. Biology emerges from chemistry's constraints. <a href="evolution.md">Evolution proceeds through variation and selection operating on whatever substrate chemistry provides.
+The universe operates through physical law. A photon travels at exactly the speed of light. An electron maintains precise charge. Chemistry follows thermodynamic necessity. Biology emerges from chemistry's constraints. <a href="evolution.md">Evolution</a> proceeds through variation and selection operating on whatever substrate chemistry provides.
 
 But when minds capable of symbolic representation emerge from that evolutionary process, something unprecedented becomes possible: systems of coordination that operate through shared meaning rather than physical causation. A piece of paper becomes valuable not through its chemical composition but through collective agreement about what it represents. A sound becomes a word not through acoustic properties but through shared understanding of its referent. A gesture becomes a promise not through kinetic energy but through mutual recognition of commitment.
 
