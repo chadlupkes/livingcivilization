@@ -386,4 +386,4 @@ The Observer is not alone. That's not a weakness of the framework. It's a featur
 
 The framework was already there, trying to break through. I'm just writing it down.
 
-What happens next is up to all of us.  Let's explore the <a href="metaverse">Metaverse</a> with real depth.
+What happens next is up to all of us.  Let's explore the <a href="metaverse.md">Metaverse</a> with real depth.
