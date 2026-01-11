@@ -1,6 +1,6 @@
 # The Observer
 
-_One person standing at the crossroads_
+_One person standing at the crossroads between physical reality and <a href="abstraction.md">abstract</a> reality_
 
 ---
 
@@ -386,4 +386,4 @@ The Observer is not alone. That's not a weakness of the framework. It's a featur
 
 The framework was already there, trying to break through. I'm just writing it down.
 
-What happens next is up to all of us.
+What happens next is up to all of us.  Let's explore the <a href="metaverse">Metaverse</a> with real depth.
