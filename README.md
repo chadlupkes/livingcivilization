@@ -29,6 +29,8 @@ Systems operate through a cycle of inputs, processing, and outputs, each phase s
 
 Debt-based systems pull from the future to build the present. Wealth-based systems build from the present to create the future. We have traveled the path of control to power, but now we must choose collaboration to achieve peace.  The Purpose of the Living Civilization is to rebuild our systems on a wealth based foundation, securing our present resources and growing from those resources to reach for the stars.
 
+This book does not propose a new way to organize the world. Instead, it documents the way the world is already organized. Through a series of observations across cosmology, energy physics, and historical cycles, a recurring geometry emerges—a set of constraints I call Coordination Geometry. We haven't been failing to build a better world; we have been failing to read the map of the one we already inhabit.
+
 The Great Filter calls, summoning all civilizations to transcend their past. Can we shift from a debt-based system to one built on wealth? Can we choose collaboration over control? Our vision must expand beyond the false limits of the past, embracing a peaceful global civilization that includes all life. This is our path to the stars. Beyond the levels of abstraction, we are drawn to a realm that beckons to us from beyond the Great Filter.
 
 Other articles in this network:
