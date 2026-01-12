@@ -20,28 +20,29 @@
 ## Part Three: The Patterns
 
 ### Chapter Ten: <a href="metaverse.md">The Metaverse</a>
-### Chapter Eleven: Purpose
+### Chapter Eleven: Purpose (in progress)
 ### Chapter Twelve: <a href="capital.md">Capital</a>
-### Chapter Thirteen: Information
-### Chapter Fourteen: Innovation
-### Chapter Fifteen: Trust
-### Chapter Sixteen: The Political Spectrum
+### Chapter Thirteen: Information (in progress)
+### Chapter Fourteen: Innovation (in progress)
+### Chapter Fifteen: Trust (in progress)
+### Chapter Sixteen: The Political Spectrum (in progress)
 
 ## Part Four: The Choice
 
-### Chapter Seventeen: Power through Control
-### Chapter Eighteen: Debts
-### Chapter Nineteen: Vectors and Choices
-### Chapter Twenty: Wealth
-### Chapter Twenty One: Peace through Collaboration
+### Chapter Seventeen: Power through Control (in progress)
+### Chapter Eighteen: Debts (in progress)
+### Chapter Nineteen: Vectors and Choices (in progress)
+### Chapter Twenty: Wealth (in progress)
+### Chapter Twenty One: Peace through Collaboration (in progress)
 
 ## Part Five: The Invitation
 
-### Chapter Twenty Two: Towards Unity
-### Chapter Twenty Three: What I'm still struggling with
-### Chapter Twenty Four: The Journey Continues
+### Chapter Twenty Two: Towards Unity (in progress)
+### Chapter Twenty Three: What I'm still struggling with (in progress)
+### Chapter Twenty Four: The Journey Continues (in progress)
 
 ## Appendix
 
 ### Bibliography
+
 ### Glossary
