@@ -1,6 +1,6 @@
 # First Law of Coordination Dynamics
 
-**Formal Statement**
+**Formal Statement (Version 1.1)**
 
 ---
 
@@ -24,11 +24,15 @@ Compact form: **There is no free coordination.**
 - Enforcement and compliance
 - Adaptation to change
 
-**Field**: A domain of coordination in which conserved coordination costs manifest as constraints on agent action, independent of specific implementations, including:
-- **Economic**: Costs persist over time and can be displaced (e.g., inflation, externalities).
-- **Jurisdictional**: Rules accumulate, ossify, and displace costs into other fields when misaligned.
-- **Tribal**: Identity persists, accumulates cost, and constrains future coordination choices.
-- **Cultural**: Meaning systems carry inertia and offload enforcement costs from jurisdiction.
+**Field**: A domain of coordination in which conserved coordination costs can be **stored, displaced, and later released** as constraints on agent action, independent of specific implementations, including:
+
+- **Economic**: Costs persist over time and can be displaced (e.g., inflation, externalities)
+
+- **Jurisdictional**: Rules accumulate, ossify, and displace costs into other fields **through binding enforcement mechanisms** when misaligned
+
+- **Tribal**: Identity and affiliation persist, accumulate coordination debt, and constrain future coordination choices through inclusion, exclusion, and loyalty obligations
+
+- **Cultural**: Meaning systems **compress coordination rules into symbols and narratives**, carrying inertia and offloading enforcement costs from jurisdiction
 
 **Sufficiently Complex**: Systems where coordination cannot be achieved through direct observation alone, requiring mediation through abstractions (language, money, law, protocol). Operationally: systems involving more agents than can maintain stable direct relationships (typically >150, Dunbar's number).
 
@@ -42,8 +46,8 @@ This law applies to:
 - ✅ Systems where coordination costs can be measured or estimated across multiple fields
 - ✅ Time horizons long enough for displaced costs to manifest (typically >1 coordination cycle)
 
-This law does NOT apply to:
-- ❌ Systems operating purely through sustained coercion (though it predicts their unsustainability)
+This law does NOT directly apply to:
+- ⚠️ Systems operating primarily through sustained coercion (the law applies, but most costs manifest as instability, resistance, or eventual collapse)
 - ❌ Very small-scale coordination where social enforcement dominates (family/small group)
 - ❌ Single-agent decision-making (no coordination required)
 - ❌ Time horizons shorter than cost displacement dynamics
@@ -54,7 +58,7 @@ This law does NOT apply to:
 
 Coordination costs displace through three primary pathways:
 
-**1. Field Displacement**: Costs reduced in one field (e.g., economic) increase in others (e.g., cultural, epistemic)
+**1. Field Displacement**: Costs reduced in one field (e.g., economic) increase in others (e.g., cultural, tribal)
 - Example: Centralized authority reduces visible transaction costs but increases cultural enforcement costs
 
 **2. Temporal Displacement**: Costs reduced in present increase in future
@@ -63,7 +67,17 @@ Coordination costs displace through three primary pathways:
 **3. Layer Displacement**: Costs reduced at visible operational layer increase in hidden structural layer
 - Example: Platform efficiency creates hidden algorithmic bias and monopoly rent-seeking
 
+**Rate Effects (Epistemic)**:
+The speed at which displaced coordination costs become visible is governed by epistemic effort (verification rigor). Lower epistemic rates delay cost manifestation; higher rates surface costs earlier without reducing total work.
+
 **Conservation mechanism**: Total work required to maintain system coherence remains approximately constant. Apparent efficiency gains reflect measurement limitations, not actual work reduction.
+
+---
+
+## Conservation Tolerance
+
+**Conservation Tolerance**:
+Coordination cost conservation is expected to hold approximately rather than exactly, with deviations arising from measurement error, boundary selection, and unobserved fields. Persistent net reductions beyond tolerance bounds constitute a falsification.
 
 ---
 
@@ -78,10 +92,10 @@ If this law holds, we should observe:
 - Testable: Examine historical empire collapses, financial crises, platform brittleness for evidence of sudden cost manifestation
 
 **P3**: Systems claiming to eliminate coordination costs should show cost displacement proportional to claimed reduction
-- Testable: Track where "eliminated" costs reappear (cultural strain, epistemic debt, enforcement overhead)
+- Testable: Track where "eliminated" costs reappear (cultural strain, tribal exclusion, enforcement overhead)
 
-**P4**: Distributed systems with higher visible costs should show lower costs in other fields, with approximately conserved total work
-- Testable: Compare Bitcoin (explicit energy costs) vs. fiat banking (dispersed cultural/epistemic costs)
+**P4**: Systems with explicitly surfaced coordination costs should show lower costs in other fields, with approximately conserved total work
+- Testable: Compare systems with explicit vs. dispersed cost structures across economic, jurisdictional, cultural, and tribal fields
 
 ---
 
@@ -116,7 +130,7 @@ This law would be falsified if:
 - Economic goods require resource expenditure
 - Coordination requires work expenditure
 
-**Key distinction**: Unlike energy (which can be converted to heat and dispersed), coordination costs tend to accumulate when hidden, creating systemic fragility.
+**Key distinction**: Unlike energy (which can be converted to heat and dispersed), coordination costs tend to **compound nonlinearly** when hidden due to delayed feedback and suppressed error correction.
 
 ---
 
@@ -153,9 +167,9 @@ This law would be falsified if:
 
 ---
 
-**Version**: 1.0 (Draft)
-**Date**: January 2026
-**Author**: Chad Lupkes
+**Version**: 1.1 (Draft)  
+**Date**: January 2026  
+**Author**: Chad Lupkes  
 **Framework**: Living Civilization - Coordination Geometry
 
 ---
@@ -164,5 +178,22 @@ This law would be falsified if:
 
 - Needs operational definitions for measuring coordination work across fields
 - Requires empirical validation studies with quantitative data
-- Should define "conservation tolerance" (how close to exact conservation do we expect?)
-- May need second-order effects (why hidden costs compound faster than visible costs)
+- Should develop metrics for conservation tolerance thresholds
+- May need formalization of compounding rate for hidden costs (Second Law candidate)
+
+---
+
+## Key Changes from Version 1.0
+
+**Critical Additions:**
+1. **Field definition** now specifies that fields must be capable of storing, displacing, and releasing costs (thermodynamic completeness)
+2. **Rate Effects (Epistemic)** section clarifies that verification speed affects *when* costs appear, not total work
+3. **Conservation Tolerance** section addresses "approximate vs. exact" critique preemptively
+
+**Precision Improvements:**
+4. Jurisdictional field now specifies "binding enforcement mechanisms" (distinguishes from cultural norms)
+5. Tribal field operationalized as "inclusion, exclusion, loyalty obligations" (geometric not sociological)
+6. Cultural field now includes "compress coordination rules into symbols" (mechanism specification)
+7. Coercion reframed from exclusion to special case (law applies, costs manifest as instability)
+8. Prediction P4 de-biased (removed Bitcoin/fiat, kept structure)
+9. "Accumulate when hidden" → "compound nonlinearly when hidden" (causal not moral)
