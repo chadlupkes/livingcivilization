@@ -298,11 +298,13 @@ But by anchoring the definition to stock—to accumulated things rather than tra
 
 **The focus began shifting from "how fast can you convert resources into value" to "how much do you possess."**
 
-Karl Marx, writing nearly a century later in _Capital_ (1867), swung toward the other component. He distinguished "constant capital" (machinery, tools, materials—accumulated means of production) from "variable capital" (labor power—the active force driving transformation).
+Karl Marx, writing nearly a century later in _Capital_ (1867), analyzed capital's dual nature in production. He distinguished "constant capital" (machinery, tools, materials—accumulated means of production) from "variable capital" (labor power—the active force driving transformation).
 
-Marx grasped something vital: **machines alone do nothing.** A factory full of idle equipment creates no value. Output depends on labor activating the machinery, on transformation actually occurring at measurable rates. He saw accumulation without deployment as sterile, as a contradiction that would eventually tear the system apart.
+Marx grasped something vital about the operational dynamics: machines alone do nothing. A factory full of idle equipment creates no value. Output depends on labor activating the machinery, on transformation actually occurring at measurable rates. He recognized that accumulation without deployment was sterile—a contradiction that would eventually tear the system apart.
 
-Yet Marx still framed capital primarily through the stock lens—"dead labor" congealed in machinery, surplus value extracted from workers accumulating into capitalist holdings. He analyzed the velocity component (labor's transformative power) but described it in relation to stock (how much surplus it added to accumulated capital).
+Yet in his _analysis of production_, Marx still measured capital primarily through accumulated stock—"dead labor" congealed in machinery, surplus value extracted from workers building into capitalist holdings. He identified the velocity component (labor's transformative power) but quantified it in relation to stock accumulation (how much surplus value it added to constant capital).
+
+This analytical choice reflected his focus on _how capitalism extracts value through ownership of accumulated means_, rather than on capital as an independent velocity measure. For Marx, the crucial question was who owned the stock and who provided the labor—the social relation of production—not the geometric relationship between stock and velocity itself.
 
 **Between Smith and Marx, economic theory oscillated:**
 
