@@ -20,7 +20,7 @@
 ## Part Three: The Patterns
 
 ### Chapter Ten: <a href="metaverse.md">The Metaverse</a>
-### Chapter Eleven: Purpose (in progress)
+### Chapter Eleven: Coordination Geometry / Purpose (in progress)
 ### Chapter Twelve: <a href="capital.md">Capital</a>
 ### Chapter Thirteen: Information (in progress)
 ### Chapter Fourteen: Innovation (in progress)
