@@ -144,7 +144,15 @@ I realized I had the pillars of both Universe and Metaverse.
 
 But something was missing. The Universe has a canvas—Space and Time. Those are the substrate dimensions, the background against which Matter and Energy operate, the field systems that Physics and Chemistry require to function. If the Metaverse has pillars parallel to the Universe's pillars, what's the Metaverse canvas?
 
-The moment Grok suggested Network and Consensus, I saw it immediately. Of course. Network is where Capital flows, where Information propagates, where Innovation spreads. Consensus is how we agree on value, how we verify information, how we coordinate on what's real in abstract space. These weren't just components—they were dimensions, orthogonal axes defining the substrate itself.
+Grok suggested Network and Consensus, and I saw it immediately. Of course. Network is where Capital flows, where Information propagates, where Innovation spreads. Consensus is how we agree on value, how we verify information, how we coordinate on what's real in abstract space. These weren't just components—they were dimensions, orthogonal axes defining the substrate itself.
+
+But something didn't quite fit. Consensus means agreement in normal use—people reaching accord, nodes synchronizing state. The only real connection to what I needed was in the blockchain/DLT context, where "consensus mechanism" is standard technical terminology for how distributed nodes agree on ledger state. That's certainly part of what I wanted, but I was looking for something deeper—not the mechanism of agreement itself, but the dimensional structure that the mechanism protects: the accumulated record of what has happened, which constrains what can happen next.
+
+After using Consensus as a placeholder for months, I searched for alternatives and Provenance emerged as the precise term. In data systems, provenance means the documented history of data—information about entities, activities, and people involved in producing a piece of data or thing. This captures exactly what I needed: when an Observer becomes an Actor, their actions create transformations that are kept in memory, and those records constrain future possibilities.
+
+The etymology clinched it: from French _provenir_, literally "to come forth from"—emphasizing origin and emergence. But the function in practice is forward-constraining. Provenance describes where you came from, yet in systems from art authentication to blockchain verification, where you came from _determines what you can do next_. Past actions create the substrate for future action—not just as historical record, but as active constraint on the possibility space.
+
+Provenance is to Time what Network is to Space: the dimensional structure of abstract reality that parallels physical reality's temporal causality. Time sequences events through physical causality; Provenance sequences actions through verifiable records. Both define how prior states shape future possibilities, but through different substrates—one physical, one abstract.
 
 Later, Form completed the triad. Not just Network (who connects to whom) and Consensus (what we agree is real), but Form—the defined states that emerge from those dynamics. The specific configurations that exist at any given moment in abstract space.
 
