@@ -22,7 +22,7 @@ Understanding a system holistically begins by analyzing its components, connecti
 
 - Form: The structure and components of a system (e.g., people, objects, processes) and their characteristics.
 - Network: The relationships, interactions, and flows (e.g., information, resources) between components, mapping how parts connect and influence each other.
-- Consensus: The mechanisms or rules governing system operations, decisions, and coordination (e.g., decision-making, feedback loops, protocols).
+- Provenance: The mechanisms or rules governing system operations, decisions, and coordination (e.g., decision-making, feedback loops, protocols).
 - Purpose: The goals or objectives driving the system’s actions, clarifying its intent or design.
 
 Systems operate through a cycle of inputs, processing, and outputs, each phase shaping their growth and interaction. Inputs are the resources, data, or intentions fed into the system—goods bartered, data shared, or trust pledged. Processing is the transformation within the system—nodes exchanging value, verifying truths, or forging innovations through bonds. Outputs are the results—wealth created, knowledge disseminated, or communities strengthened.  
