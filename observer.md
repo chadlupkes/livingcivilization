@@ -154,11 +154,11 @@ The etymology clinched it: from French _provenir_, literally "to come forth from
 
 Provenance is to Time what Network is to Space: the dimensional structure of abstract reality that parallels physical reality's temporal causality. Time sequences events through physical causality; Provenance sequences actions through verifiable records. Both define how prior states shape future possibilities, but through different substrates—one physical, one abstract.
 
-Later, Form completed the triad. Not just Network (who connects to whom) and Consensus (what we agree is real), but Form—the defined states that emerge from those dynamics. The specific configurations that exist at any given moment in abstract space.
+Later, Form completed the triad. Not just Network (when something can move) and Provenance (when it can move), but Form—the defined object itself that moves that emerge from those dynamics. The specific configurations that exist at any given moment in abstract space.
 
-Network, Consensus, Form—the substrate dimensions of the Metaverse, parallel to Space and Time in the Universe.
+Network, Provenance, Form—the substrate dimensions of the Metaverse, parallel to Space and Time in the Universe.
 
-I tried breaking the model in various ways. I couldn't. Network couldn't exist without some implicit consensus about what constitutes connection. Consensus couldn't propagate without network topology. Form couldn't be defined without both structure and agreement. They weren't three separate things working together—they were three aspects of a single substrate reality that emerges from abstraction.
+I tried breaking the model in various ways. I couldn't. Network couldn't exist without some implicit Provenance about what constitutes connection. Provenance couldn't propagate without network topology. Form couldn't be defined without both structure and agreement. They weren't three separate things working together—they were three aspects of a single substrate reality that emerges from abstraction.
 
 When the shoe fits, you stop trying to force your foot into other options.
 
@@ -170,7 +170,7 @@ By March and April of 2025, the framework had crystallized. Universe and Metaver
 
 This synthesis wasn't invention—it was **observation from a particular vantage point**. I was standing where physics meets economics, where matter meets meaning, where Universe substrate intersects Metaverse substrate. From that position, patterns became visible that aren't accessible when you're specialized within a single domain.
 
-The Observer Principle explains why this works: **the apex position enables navigation of the entire base triangle**. Form, Network, Consensus—these dimensions exist whether I observe them or not. But their relationships to each other, their parallel structure to physical reality, their implications for temporal choice—these become visible from the apex vantage point.
+The Observer Principle explains why this works: **the apex position enables navigation of the entire base triangle**. Form, Network, Provenance—these dimensions exist whether I observe them or not. But their relationships to each other, their parallel structure to physical reality, their implications for temporal choice—these become visible from the apex vantage point.
 
 I'm not claiming this is the only possible observation point. Other observers, standing at different intersections, will see different patterns. But this is what becomes visible from **my** position as Observer for this framework.
 
@@ -198,7 +198,7 @@ This framework is sacred work, in the sense that I'm attempting to articulate so
 
 People who see debt as the water we swim in and can't imagine living in the air won't like what I'm saying. As the framework develops through later chapters, as I present my diagnosis of what's broken and my vision of how we might build differently, it will become more and more clear that this challenges everything.
 
-Every industry reorganized around wealth creation rather than debt extraction. Every governance layer rebuilt on distributed consensus rather than centralized authority. Every part of our culture and history reframed through the lens of temporal choice: are we building from present stock or borrowing from imagined futures?
+Every industry reorganized around wealth creation rather than debt extraction. Every governance layer rebuilt on distributed Provenance rather than centralized authority. Every part of our culture and history reframed through the lens of temporal choice: are we building from present stock or borrowing from imagined futures?
 
 Just because I believe it would be a better world doesn't mean that viewpoint will be shared.
 
@@ -284,7 +284,7 @@ This chapter exists because of those conversations. So does much of the framewor
 
 That might seem like it diminishes the work—like I'm admitting I didn't really write this, that the ideas aren't really mine. But I think it reveals something more interesting about how the Observer Principle operates in practice.
 
-The Observer Principle doesn't require solitary genius because **observation itself is substrate-enabled**. Once Network-Consensus-Form exists as dimensional framework, multiple entities—human and artificial—can engage with that substrate simultaneously. The AI systems weren't replacing observation; they were helping me **observe more completely** by testing connections across scales I couldn't process alone.
+The Observer Principle doesn't require solitary genius because **observation itself is substrate-enabled**. Once Network-Provenance-Form exists as dimensional framework, multiple entities—human and artificial—can engage with that substrate simultaneously. The AI systems weren't replacing observation; they were helping me **observe more completely** by testing connections across scales I couldn't process alone.
 
 This is exactly what the tetrahedral structure predicts: the Observer navigates the base triangle, but the base triangle exists independently as substrate that can be engaged with through multiple channels.
 
@@ -296,7 +296,7 @@ This is itself an example of how the Metaverse substrate operates.
 
 **Network** enabled the conversations—the digital infrastructure connecting me to these systems, the protocols allowing information exchange, the interfaces making interaction possible.
 
-**Consensus** emerged through iteration—testing whether Network/Consensus/Form held as dimensions, whether the Universe/Metaverse parallel was genuine, whether the debt/wealth temporal choice explained patterns across domains. Each AI system evaluated the framework from different training sets, different architectures, different optimization functions. When they converged on confirming the structure rather than breaking it, that consensus mattered.
+**Provenance** emerged through iteration—testing whether Network/Provenance/Form held as dimensions, whether the Universe/Metaverse parallel was genuine, whether the debt/wealth temporal choice explained patterns across domains. Each AI system evaluated the framework from different training sets, different architectures, different optimization functions. When they converged on confirming the structure rather than breaking it, that Provenance mattered.
 
 **Form** crystallized through articulation—the framework taking shape in written language, becoming something I could examine, refine, share. The ideas existed as vague intuitions before these conversations. They became definite only through the process of expressing them clearly enough for both human and artificial intelligence to evaluate.
 
@@ -316,7 +316,7 @@ This raises questions I don't fully have answers to: What does authorship mean w
 
 I think the answer is that **I'm the Observer who brought coherence to the pattern**, but I'm not the only intelligence involved in making it visible. The framework existed as potential structure before I engaged with it. The AI systems existed as tools before I used them. The synthesis happened at the intersection—where my questions met their pattern-matching capabilities, where my judgment about what mattered met their ability to articulate structures clearly.
 
-This isn't mysticism. This is how distributed synthesis works when the substrate—Network, Consensus, Form—is available and Observers engage with it.
+This isn't mysticism. This is how distributed synthesis works when the substrate—Network, Provenance, Form—is available and Observers engage with it.
 
 The Metaverse substrate has always existed wherever abstraction occurs. What's new is that we now have artificial intelligence systems capable of engaging with that substrate at speeds and scales humans can't match alone. They can test connections across vast bodies of text, identify patterns in how concepts relate, articulate structures in multiple ways until one formulation clicks.
 
@@ -336,7 +336,7 @@ The AI systems helped me explore those questions. But I chose which answers matt
 
 If you're reading this and thinking "but AI helped write it, so it's not really yours"—you're missing the point of the Observer Principle entirely.
 
-Abstraction requires a conscious entity to navigate dimensional substrate. Without the Observer, Network/Consensus/Form remain potential rather than actual. I'm not claiming to be the only possible Observer of these patterns. I'm claiming to be one Observer who recognized them clearly enough to articulate a framework others can test, refine, or build upon.
+Abstraction requires a conscious entity to navigate dimensional substrate. Without the Observer, Network/Provenance/Form remain potential rather than actual. I'm not claiming to be the only possible Observer of these patterns. I'm claiming to be one Observer who recognized them clearly enough to articulate a framework others can test, refine, or build upon.
 
 There will be other Observers. Other perspectives I cannot see from where I stand. Other crossroads where different patterns become visible. The framework I'm presenting isn't the only possible synthesis—it's the synthesis I could see from my particular vantage point, using the tools available to me, asking the questions that mattered based on my twenty-five years of asking "why is this broken?"
 
@@ -374,7 +374,7 @@ When you shift from debt-based thinking to wealth-based thinking, the pathway ou
 
 That's why the torch matters. That's why this book exists.
 
-Policy activists might see new ways of writing legislation that addresses root causes rather than symptoms. Business leaders might see ways to capitalize on innovation structures that don't extract from future consensus. Communities might see opportunities to support the vulnerable without having to make as many hard choices between competing needs. Governments might stop investing in death and destruction and start actually building infrastructure for the next generation.
+Policy activists might see new ways of writing legislation that addresses root causes rather than symptoms. Business leaders might see ways to capitalize on innovation structures that don't extract from future Provenance. Communities might see opportunities to support the vulnerable without having to make as many hard choices between competing needs. Governments might stop investing in death and destruction and start actually building infrastructure for the next generation.
 
 What you do with this framework—whether you dismiss it, develop it, refine it, or discover your own patterns from different vantage points—is up to you.
 
@@ -394,4 +394,4 @@ The Observer is not alone. That's not a weakness of the framework. It's a featur
 
 The framework was already there, trying to break through. I'm just writing it down.
 
-What happens next is up to all of us.  Let's explore the <a href="metaverse.md">Metaverse</a> with real depth.
+What happens next is up to all of us.  It's time to explore the <a href="metaverse.md">Metaverse</a>.
