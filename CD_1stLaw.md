@@ -1,14 +1,14 @@
 # First Law of Coordination Dynamics
 
-**Formal Statement (Version 1.1)**
+**Formal Statement (Version 1.2)**
 
 ---
 
 ## Definition
 
-**In any sufficiently complex coordination system, total coordination work is conserved across transformations. Apparent reductions in coordination cost achieved through structural, institutional, or technological means are offset by increased coordination costs in other fields, layers, or timescales.**
+**In any sufficiently complex coordination system, total coordination capacity is conserved across transformations. Coordination capacity may be expended as coordination work or stored as constraints, structure, or restricted freedom. Apparent reductions in coordination cost achieved through structural, institutional, or technological means are offset by increased coordination costs in other fields, layers, or timescales.**
 
-Compact form: **There is no free coordination.**
+Compact form: **There is no free coordination—only transformed coordination capacity**
 
 ---
 
@@ -16,7 +16,7 @@ Compact form: **There is no free coordination.**
 
 **Coordination System**: Any structure that aligns the actions of two or more independent agents toward shared or compatible outcomes. Examples: markets, organizations, protocols, institutions, networks.
 
-**Coordination Work**: The total effort required to achieve and maintain alignment, including:
+**Coordination Work**: The active expenditure of coordination capacity required to achieve and maintain alignment, including:
 - Signaling and communication
 - Verification and validation
 - Synchronization and timing
@@ -24,7 +24,7 @@ Compact form: **There is no free coordination.**
 - Enforcement and compliance
 - Adaptation to change
 
-**Field**: A domain of coordination in which conserved coordination costs can be **stored, displaced, and later released** as constraints on agent action, independent of specific implementations, including:
+**Field**: A domain of coordination in which conserved coordination capacity can be stored as constraints, displaced across domains, and later released as coordination work, independent of specific implementations, including:
 
 - **Economic**: Costs persist over time and can be displaced (e.g., inflation, externalities)
 
@@ -132,6 +132,13 @@ This law would be falsified if:
 
 **Key distinction**: Unlike energy (which can be converted to heat and dispersed), coordination costs tend to **compound nonlinearly** when hidden due to delayed feedback and suppressed error correction.
 
+**Equivalent Expressions of the First Law**:
+
+- Energetic form: coordination work is conserved
+- Geometric form: coordination freedom is conserved
+- Structural form: constraints store coordination capacity
+- Temporal form: deferred coordination accumulates as future work
+
 ---
 
 ## Implications
@@ -167,7 +174,7 @@ This law would be falsified if:
 
 ---
 
-**Version**: 1.1 (Draft)  
+**Version**: 1.2 (Draft)  
 **Date**: January 2026  
 **Author**: Chad Lupkes  
 **Framework**: Living Civilization - Coordination Geometry
@@ -176,12 +183,15 @@ This law would be falsified if:
 
 ## Notes for Refinement
 
-- Needs operational definitions for measuring coordination work across fields
+- Needs operational definitions for measuring coordination capacity across fields
 - Requires empirical validation studies with quantitative data
 - Should develop metrics for conservation tolerance thresholds
 - May need formalization of compounding rate for hidden costs (Second Law candidate)
 
 ---
+## Key Changes from Version 1.1
+
+1. Clarify that the conservation applies across all forms of **coordiation capacity**, with *work* identified as one form of that capacity.
 
 ## Key Changes from Version 1.0
 
