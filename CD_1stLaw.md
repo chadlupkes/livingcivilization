@@ -196,11 +196,13 @@ This law would be falsified if:
 ## Key Changes from Version 1.0
 
 **Critical Additions:**
+
 1. **Field definition** now specifies that fields must be capable of storing, displacing, and releasing costs (thermodynamic completeness)
 2. **Rate Effects (Epistemic)** section clarifies that verification speed affects *when* costs appear, not total work
 3. **Conservation Tolerance** section addresses "approximate vs. exact" critique preemptively
 
 **Precision Improvements:**
+
 4. Jurisdictional field now specifies "binding enforcement mechanisms" (distinguishes from cultural norms)
 5. Tribal field operationalized as "inclusion, exclusion, loyalty obligations" (geometric not sociological)
 6. Cultural field now includes "compress coordination rules into symbols" (mechanism specification)
