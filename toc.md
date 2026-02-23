@@ -20,7 +20,7 @@
 ## Part Three: The Patterns
 
 ### Chapter Ten: <a href="metaverse.md">The Metaverse</a>
-### Chapter Eleven: Coordination Geometry / Purpose (in progress)
+### Chapter Eleven: <a href="coordinationgeometry.md">Coordination Geometry</a>
 ### Chapter Twelve: Power through Control (in progress)
 ### Chapter Thirteen: Debts (in progress)
 ### Chapter Fourteen: Vectors and Choices (in progress)
