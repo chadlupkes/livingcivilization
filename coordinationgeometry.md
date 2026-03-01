@@ -6,7 +6,7 @@ _Where observation becomes action, where foundation becomes construction_
 
 We cannot begin building until we understand why anything moves at all.
 
-This chapter exists at the fulcrum of the entire narrative. The work to this point has been strictly descriptive: the physical substrate of the Universe, the coordination dimensions that evolution added through Form, Network, and Consensus, and the abstract Metaverse that consciousness learned to navigate. That foundation established the landscape. It does not explain why certain paths across it are paved while others remain overgrown.
+This chapter exists at the fulcrum of the entire narrative. The work to this point has been strictly descriptive: the physical substrate of the Universe, the coordination dimensions that evolution added through Form, Network, and Provenance, and the abstract Metaverse that consciousness learned to navigate. That foundation established the landscape. It does not explain why certain paths across it are paved while others remain overgrown.
 
 Description is not direction. Purpose is the mechanism that converts observation into action, and in this framework it is not a matter of emotion or intention. It is a geometric necessity, the precise moment when one possible future is inscribed into the provenance record and all others are discarded. When purpose is applied, possibility collapses into history. What could have happened is replaced by what did.
 
@@ -38,7 +38,7 @@ The scale varies enormously, but the category remains constant.
 
 A common misconception: that choosing not to act represents neutral ground.
 
-This is false. Once embedded in a coordination field, there is no neutral position. The system is already in motion—networks connecting, consensus accumulating, forms propagating. Choosing not to intervene is not neutrality; it is acceptance of the default trajectory.
+This is false. Once embedded in a coordination field, there is no neutral position. The system is already in motion—networks connecting, provenance accumulating, forms propagating. Choosing not to intervene is not neutrality; it is acceptance of the default trajectory.
 
 In a field with existing momentum, standing still means moving with the current. Purpose is not the initiation of motion but the selection of which dynamics are allowed to propagate and which are interrupted.
 
@@ -50,7 +50,7 @@ Purpose selects from available possibilities; it does not create them. The obser
 
 This surface is bounded by geometric realities. Your location in space determines where you can physically position influence. Your position in time sets when you can act relative to other events. Your network access defines which connections you can reach. Your consensus role determines what authority the shared record recognizes. Your form-ownership controls which resources you can manipulate.
 
-An actor cannot leap beyond their position. A person without network access to financial infrastructure cannot redirect capital flows. A person without recognized authority cannot alter jurisdictional consensus. A person without ownership of forms cannot redistribute resources in ways that endure.
+An actor cannot leap beyond their position. A person without network access to financial infrastructure cannot redirect capital flows. A person without recognized authority cannot alter jurisdictional consensus. A person without ownership of forms cannot redistribute resources in ways that endure.  Our consensus role is distinct from the other geometric constraints because it isn't fixed by position — it's conferred by the fields, and the field dynamics respond to how effectively you've rendered what provenance has already determined into descriptions that other observers can evaluate and weight.  Consensus role is the only geometric constraint that is socially conferred rather than physically imposed.
 
 Purpose operates within these constraints, not outside them. Two actors may share identical values yet face radically different choice surfaces because they occupy different positions within the same system.
 
@@ -1215,6 +1215,8 @@ Technology intensifies the risk. Infrastructure acceleration legitimately raises
 The fracture condition does not require the ratio to spike momentarily. It requires sustained imbalance beyond available slack. As the gap between interpretation and commitment widens, the sequence becomes structural: declarative stock expands faster than embodied stock can form, constraint surfaces lose coherence across domains, blame displaces explanation, and global coordination erodes. Fracture occurs not through sudden collapse but through the gradual loss of shared embodied stock capable of resolving conflict under stress.
 
 The remedy is not suppressing interpretation velocity. Cultural dynamism requires interpretive change. Stability requires proportionality. Commitment capacity expands through deliberate verification: pilot programs rather than sweeping mandates, staged reform rather than instant overhaul, distributed experimentation rather than centralized proclamation. Reducing inflated declarative stock requires its own verification event: publicly acknowledging when narratives failed, which is itself a high-cost act that rebuilds embodied credibility. Systems that cannot admit interpretive failure cannot deflate gracefully; they accumulate declarative debt until correction arrives through fracture rather than choice.
+
+The interpretation velocity / commitment capacity ratio measures the rate of consensus-layer reinterpretation relative to the rate of embodied re-anchoring to provenance. What this ratio ultimately measures is not the stability of truth but the stability of consensus around truth. Provenance remains unaffected by interpretive acceleration; events occur, consequences unfold, constraint surfaces assert themselves regardless of narrative velocity. Interpretation velocity operates entirely within the consensus layer — the space where observers attempt to describe, weight, and coordinate around what provenance has already determined. Commitment capacity is the mechanism by which consensus reconnects to substrate reality through verification and embodied cost. When that reconnection weakens, consensus begins to drift from provenance, and the Cultural field loses its ability to accurately map the geometric constraints that define future choice surfaces. The result is not the alteration of reality, but the degradation of coordinated response to it. Stability returns only when embodied verification restores alignment between what is said and what is sustained, allowing consensus once again to track provenance rather than decouple from it.
 
 A dynamic society is not one where meanings change slowly. It is one where the rate of meaning change and commitment capacity rise together. Coordination holds only when the weight of what we do can support the height of what we say.
 
