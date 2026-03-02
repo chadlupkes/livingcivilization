@@ -24,7 +24,7 @@
 ### Chapter Twelve: Power through Control (in progress)
 ### Chapter Thirteen: Debts (in progress)
 ### Chapter Fourteen: Vectors and Choices (in progress)
-### Chapter Fifteen: The Political Spectrum (in progress)
+### Chapter Fifteen: <a href="polis.md">The Political Spectrum</a> (in progress)
 
 ## Part Four: The Choice
 
