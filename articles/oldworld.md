@@ -1,6 +1,6 @@
-The Old World Was Just Weird
+## The Old World Was Just Weird
 
-by Chad Lupkes
+by Chad Lupkes<br>
 Living Civilization
 
 Everything was based on debt.  The break from the Gold Standard in 1971 was done because the United States no longer had the reserves necessary to support the global demand for US Dollars.  The entire decade was a bank run as the US and the world adjusted to the change in monetary system, one we had not seen since the debasement of the Roman Empire’s currency two thousand years before.  The foundation of everything was a promise that no matter how crazy things got, the Federal Government would always pay on the treasury bonds, with interest.  For decades, we hunted for investments that would give us a return on our capital that was higher than the constant increase in prices.  Some people threw their value into the Treasury Bonds, not recognizing that they were the source of the decay, not the secure foundation of a portfolio as they had been promoted and advertised for hundreds of years.  Other nations dispensed with the circus of raising a debt ceiling, but the US politicians used the clowns to keep the people both entertained and at each other's throats every few years. It was literally tearing the country apart, and the entire world suffered as a result.
