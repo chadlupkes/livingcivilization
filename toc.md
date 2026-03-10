@@ -32,11 +32,11 @@
 ### Chapter Seventeen: <a href="debts.md">Debts</a> (in progress)
 ### Chapter Eighteen: Vectors and Choices (in progress)
 ### Chapter Nineteem: <a href="polis.md">The Political Spectrum</a> (in progress)
-### Chapter Twenty: Wealth (in progress)
-### Chapter Twenty One: Our Future: Peace through Collaboration (in progress)
 
 ## Part Five: The Invitation
 
+### Chapter Twenty: Our Future: Peace through Collaboration (in progress)
+### Chapter Twenty One: Wealth (in progress)
 ### Chapter Twenty Two: Towards Unity (in progress)
 ### Chapter Twenty Three: What I'm still struggling with (in progress)
 ### Chapter Twenty Four: The Journey Continues (in progress)
