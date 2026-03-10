@@ -1,4 +1,4 @@
-**Chapter 13: Debts**
+# Chapter 13: Debts
 
 Chapter Twelve traced a pattern across five thousand years of civilizational history. Again and again, societies that shifted from coordination toward control produced the same geometry: capture, extraction, mounting fragility, and collapse. In that chapter we were observers, watching the pattern unfold across time and across cultures without exception. In this one, the vantage point changes. We are no longer watching from outside. We are standing inside the largest instance of that dynamic in human history, and this chapter is the accounting of the ground we now stand on.
 
