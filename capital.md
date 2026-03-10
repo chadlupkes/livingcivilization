@@ -2,245 +2,72 @@
 
 _Capital isn't just money—it's what moves information around. Here's the pattern I noticed..._
 
-## Capital: What Biology Knew First
+Ask someone what capital means and you will get a different answer depending on who you ask. A banker says accumulated wealth, assets, the pile. An economist says productive capacity, means of production. A venture capitalist says fuel, the resource you deploy. None of them are wrong. But none of them are describing the same thing.
 
-When you ask someone what "capital" means, you'll get different answers depending on who you ask.
+This is not sloppy usage. The word does triple duty because the reality it points at actually requires multiple components working in relationship. What we have called capital across centuries of economic thought is sometimes the stock of accumulated resources, sometimes the velocity of their deployment, and sometimes the work that emerges when both are present together. The conflation is not incidental. It is diagnostic. It tells us something important about what our measurement systems have been built to see, and what they have been systematically leaving out of the frame.
 
-A banker might say: money, wealth, assets, accumulated resources.
-An economist might say: productive capacity, means of production, investment funds.
-A venture capitalist might say: the fuel for growth, the resources we deploy.
-And they're all pointing at something real—but **not the same thing**.
+The Coordination Geometry chapter established the equation for the Economic Field: Stock times Velocity produces Work. Capital is not one term in that equation. Capital is the equation. Stock, Velocity, and Work are its components, but Capital is the name we give to the structure that emerges when all three operate together in functional relationship. Remove any term and you no longer have Capital; you have a fragment of it, inert until the missing pieces are restored.
 
-Sometimes "capital" clearly means accumulated stock—the pile of resources you have. Sometimes it means deployment velocity—how fast you're transforming resources into results. Sometimes it means both at once. The word does triple duty, and this isn't sloppy usage—it's because capital actually describes something that requires multiple components working together.
+This is not a new insight dressed in new language. It is an old truth that our current measurement instruments are too narrow to see. What we call the capital system, the dollar, the bond, the equity share, the treasury, the full constellation of financial instruments that denominate modern economic life, is not capital in this sense. It is a measurement system. It points at things. It is not the things.
 
-Here's the puzzle that's haunted economics for centuries:
+And it is a measurement system with a specific calibration problem. Every instrument in that constellation is calibrated to debt, to claims on future stock that has not yet been produced. Which means the system is structurally oriented toward imagined velocity rather than verified stock. It can tell you the price of a forest. It cannot tell you whether the forest is functioning.
 
-Why do resource-rich nations so often remain poor while resource-scarce nations thrive? Why can two companies with identical balance sheets produce radically different outcomes? Why does adding more money to a system sometimes accelerate growth and sometimes accomplish nothing?
+This matters because something else now exists. A monetary architecture designed not to denominate future claims but to anchor to verified present stock. Understanding what that distinction means, and why it changes the geometry of coordination, is one of this chapter's central tasks.
 
-The standard answers involve institutions, culture, technology, education—all true, all important. But what if there's something more fundamental?
-
-**What if we've been using one word for two geometrically distinct things that only produce results when properly related?**
-
-Here's what I'm proposing:
-
-**Capital is not stock alone.**  
-**Capital is not velocity alone.**  
-**Capital is transformation capacity—the product of stock and velocity working together.**
-
-**Stock × Velocity → Work**
-
-This isn't a metaphor. It's what every living cell has had to maintain for four billion years to survive.
-
-**Every living cell is a proof-of-concept.** For four billion years, life has had to convert accumulated resources (ATP, nutrients, structural proteins) into work fast enough to survive, reproduce, and evolve. Biology doesn't just track resources. It doesn't just measure transformation rates. It **maintains both in proper relationship**:
-
-- **Stock**: ATP reserves, stored nutrients, structural proteins
-- **Velocity**: Enzyme reaction rates, metabolic cycles per second, resource turnover frequency
-- **Work**: Cell division, movement, repair, reproduction
-
-A cell with abundant ATP but no enzymes to transform it dies just as surely as a cell with no ATP at all. A cell with blazing fast enzymes but no substrate produces nothing. **Both components must be present in the right relationship.**
-
-Biology never confused stock for the complete picture because survival depends on maintaining both components. The distinction isn't theoretical—it's life or death.
-
-And here's why this matters: **this multiplication is geometric necessity, not arithmetic tradeoff.**
-
-**Stock × Velocity = Capacity**
-
-If Stock = 0, capacity collapses to zero regardless of velocity.  
-If Velocity = 0, capacity collapses to zero regardless of stock.
-
-**You cannot compensate for missing stock by increasing velocity.**  
-**You cannot compensate for missing velocity by accumulating stock.**
-
-When systems confuse capital's components, they fall into predictable failure modes:
-
-**Hoarding**: Stock without velocity. Resources accumulate, nothing transforms, no work gets produced.
-
-**Thrashing**: Velocity without stock. Transformation cycles run fast, nothing sustains, resources burn faster than they replenish.
-
-**Work**: Stock × Velocity optimized. Resources and transformation rates maintained in proper relationship, work compounds over time.
-
-Biology figured out which one survives. Every living cell on Earth descended from lineages that optimized the relationship, not the components alone.
-
-This chapter explores what happens when we recognize capital as **Stock × Velocity** rather than conflating the components. We'll examine four types of capital—Physical, Financial, Human, and Natural—through this lens. We'll use Bitcoin as perhaps the clearest example of financial capital properly understood: fixed stock forcing explicit optimization of velocity. We'll trace how economic thinking oscillated between stock-focus and velocity-focus without recognizing they're components of a unified transformation. And we'll show how this distinction leads naturally to fundamental rights for Living Civilization.
-
-Why so much effort on one distinction?
-
-Because once you see capital as **Stock × Velocity → Work** rather than just "accumulated resources" or just "productive capacity," everything about how we organize human coordination changes.
-
-You can't optimize by maximizing stock alone (hoarding produces no work).  
-You can't optimize by maximizing velocity alone (thrashing without resources produces nothing).  
-You must optimize **the relationship** (both components in verified coordination).
-
-The debt versus wealth distinction becomes mechanically clear: debt systems extract from imagined futures by treating stock as if it alone determines capacity, wealth systems build by optimizing present Stock × Velocity into actual work.
-
-The Right to Exit becomes foundational: if your stock can't achieve velocity in current coordination structures, you need the right to move it to structures where the relationship can function.
-
-The path through the Great Filter becomes visible: survive by learning what biology knew from the beginning—transformation requires both components maintained in proper relationship, continuously verified, never imagined.
-
-Biology figured this out four billion years ago.
-
-Let's remember together.
-# Section 1: ATP and Cellular Economics
-
-## The Biological Proof That Capital = Velocity
-
-Every living cell is an economy.
-
-Not metaphorically. Literally.
-
-It acquires resources, stores reserves, converts potential into work, allocates output, manages risk, and collapses when conversion fails. Long before humans invented money, cells solved the more fundamental problem: How do you reliably turn potential into action, fast enough to survive?
-
-The answer is not "energy." The answer is **rate**.
-
-A cell full of glucose that cannot convert it into usable energy is not wealthy. It is dying.
+But before we examine any of it through the lens of human economic history, we should visit the place where the relationship between stock and velocity was first worked out, without theory, without instruments, without any choice in the matter at all. The cell did not philosophize about capital. It simply had to get the relationship right, or stop existing.
 
 ---
 
-## How Energy Becomes Work
+## ATP and Cellular Economics
 
-Let's strip this to essentials.
-
-Cells take in glucose and oxygen. Glucose carries chemical potential—about 720 kilocalories per mole, enough energy to power significant biological work. Oxygen serves as the electron acceptor that allows this potential to be released in controlled steps. These are resources. Stored potential. **Stock**.
-
-On their own, they do nothing.
-
-Glucose sitting in a cell does not cause movement. Oxygen present in a cell does not perform work. If that were enough, dead tissue would still function. A corpse contains glucose. A corpse contains oxygen. A corpse produces no ATP and accomplishes no work.
-
-The difference is conversion machinery.
-
-Inside living cells, glucose is processed through a three-stage system, each operating at measurable velocities. The first stage, glycolysis, happens in the cytoplasm and completes in milliseconds to seconds. It breaks one glucose molecule into two smaller pyruvate molecules, producing a net gain of two ATP molecules—investing two ATP upfront but yielding four. It also generates two NADH molecules, which are electron carriers that will prove crucial in later stages.
-
-The measured velocity of glycolysis during intense exercise reaches one to two millimoles of glucose per kilogram of tissue per minute. The key rate-limiting enzyme, phosphofructokinase-1, processes one hundred to five hundred substrate molecules every second. Think of this as the "flash market"—fast but inefficient, like a payday loan. It's useful for bursts of speed during sprinting or fight-or-flight responses, but unsustainable for long-term energy needs.
-
-The second stage, the Krebs cycle, occurs in the mitochondrial matrix. Here, pyruvate molecules are systematically dismantled to extract high-energy electrons, loading them onto carrier molecules. For each glucose molecule, this cycle produces six NADH molecules, two FADH₂ molecules, and two ATP molecules directly. The measured flux through this cycle ranges from ten to one hundred nanomoles per minute per milligram of mitochondrial protein, with individual enzymes completing fifty to two hundred reactions per second.
-
-The third stage is where velocity reaches its peak. The electron transport chain operates along the mitochondrial inner membrane, using oxygen to pull electrons "downhill" through a series of protein complexes. This electron flow pumps protons across the membrane, creating a gradient—a difference in concentration and electrical charge that represents stored potential energy. Protons flow back through a remarkable molecular machine called ATP synthase, which spins like a turbine at one hundred to fifty revolutions per second. This mechanical rotation drives the synthesis of ATP from ADP and phosphate.
-
-The electron transport chain produces roughly twenty-six to thirty ATP molecules per glucose—the bulk of the cell's energy yield. In highly active neurons, this system can generate up to one hundred million ATP molecules per cell per minute. The entire conversion pipeline exists for one reason: to transform stored chemical potential into usable energy at speed.
-
-That speed is measurable. That speed is capital.
+Every living cell is an economy, not metaphorically but literally. It acquires resources, stores reserves, converts potential into work, allocates output, manages risk, and collapses when conversion fails. Long before humans invented money, cells solved the more fundamental problem: how do you reliably turn potential into action, fast enough to survive? The answer is not simply having enough energy. The answer is maintaining the full structure, Stock, Velocity, and Work in functional relationship. A cell full of glucose that cannot convert it is not wealthy. It is dying.
 
 ---
 
-## Where Velocity Actually Lives
+**How Energy Becomes Work**
 
-ATP is not "energy." ATP is **energy delivery**.
+Cells take in glucose and oxygen. Glucose carries roughly 720 kilocalories per mole of free energy released during oxidation, and oxygen serves as the electron acceptor that allows this potential to be released in controlled steps. These are resources, stored potential, the stock side of the equation. On their own they accomplish nothing, which is why the distinction between a living cell and a dead one is not the stock it contains. A corpse contains glucose. A corpse contains oxygen. A corpse produces no ATP and accomplishes no work. The difference is the conversion machinery, the entire system that moves stock through velocity to produce work.
 
-It is a short-lived, rapidly recyclable molecule whose sole purpose is to move energy to where work happens. A single ATP molecule in your body is recycled five hundred to seven hundred fifty times per day. Your body produces approximately its own weight in ATP every twenty-four hours—not because you consume your weight in glucose, but because the ATP is being continuously regenerated. A single human cell can turn over millions of ATP molecules per second.
-
-Not because it has a lot of glucose. But because it has **conversion machinery**.
-
-That machinery is capital.
-
-Enzymes do not store energy—they set the rate at which energy becomes action. Some enzymes process ten thousand reactions per second, approaching the physical limit of molecular diffusion, the speed at which molecules can randomly encounter each other in solution. Mitochondria function as the factories where most ATP is made, their inner membranes folded into elaborate cristae that maximize surface area for the electron transport chain. Membrane gradients create the pressure differential that drives ATP synthase. Molecular transport systems shuttle substrates and products where they're needed.
-
-You can double the glucose concentration and get nothing if the machinery is impaired. You can halve the glucose and still function normally if conversion remains fast.
-
-That alone should unsettle traditional economic intuition.
+Inside living cells, glucose is processed through three stages operating at measurable rates. Glycolysis occurs in milliseconds, breaking one glucose molecule into two pyruvate molecules and yielding a net gain of two ATP, with the rate-limiting enzyme processing one hundred to five hundred substrate molecules per second. Fast but inefficient, it handles bursts rather than sustained function. The Krebs cycle then dismantles pyruvate systematically, loading high-energy electrons onto carrier molecules and yielding six NADH, two FADH₂, and two more ATP per glucose. The electron transport chain is where velocity reaches its peak, driving electrons through a series of protein complexes that pump protons across the mitochondrial inner membrane, creating a gradient whose stored potential energy drives ATP synthase, a molecular machine spinning at one hundred to one hundred fifty revolutions per second. In highly active neurons, this full pipeline produces up to one hundred million ATP molecules per cell per minute. The entire conversion infrastructure exists for one reason: to maintain the relationship between Stock, Velocity, and Work that makes biological function possible.
 
 ---
 
-## Healthy vs Damaged Capital
+**Where the Structure Lives**
 
-Now the proof sharpens.
+ATP is not energy. It is energy delivery, a short-lived, rapidly recyclable molecule whose sole purpose is moving energy to where work happens. A single ATP molecule in your body is recycled five hundred to seven hundred fifty times per day, and your body produces approximately its own weight in ATP every twenty-four hours, not because you consume your weight in glucose but because the conversion machinery regenerates it continuously. That machinery is not stock and it is not output. It is the middle term, the velocity infrastructure that holds the full equation together.
 
-Imagine two cells with identical environments. Same glucose availability—both bathed in solutions containing five to ten millimolar glucose. Same oxygen concentration—both experiencing twenty to fifty micromolar oxygen tension in the surrounding tissue. Same genetic instructions. Same basic structure.
-
-But one critical difference: one cell has healthy mitochondria, and the other has damaged mitochondria.
-
-What happens?
-
-The healthy cell produces ATP at rates of two hundred to four hundred picomoles of oxygen consumed per minute, translating to thirty to thirty-eight ATP molecules generated for each glucose molecule processed. Its membrane efficiency hovers around ninety percent—meaning nine out of every ten protons pumped across the membrane successfully drive ATP synthesis rather than leaking back uselessly. Energy waste as heat remains minimal.
-
-The damaged cell tells a different story. ATP production rates collapse to one hundred to two hundred picomoles of oxygen per minute. Each glucose molecule yields only fifteen to twenty-five ATP molecules—less than half the normal output. Membrane efficiency plummets to forty or fifty percent as protons leak across damaged membranes without performing useful work. Energy waste as heat increases two to five times above normal levels. Work output collapses.
-
-Same stock. Radically different work output.
-
-Why? Because capital degraded.
+Enzymes set the rate at which potential becomes action, with some processing ten thousand reactions per second, approaching the physical limit of molecular diffusion. Mitochondria fold their inner membranes into elaborate cristae to maximize conversion surface area. Molecular transport systems shuttle substrates and products precisely where they are needed. You can double the glucose concentration with impaired machinery and get nothing. You can halve the glucose with intact machinery and function continues. The full equation only holds when all three terms are present and in relationship. Optimizing any single term in isolation leaves the structure incomplete.
 
 ---
 
-## Aging Is Capital Decay
+**Healthy vs Damaged**
 
-This is not a theoretical concern. This is what aging looks like at the cellular level.
+Consider two cells with identical environments: same glucose, same oxygen, same genetic instructions, but one with healthy mitochondria and one with damaged. The healthy cell produces thirty to thirty-eight ATP molecules per glucose, holds membrane efficiency at roughly ninety percent, and sustains work output at the level its environment requires. The damaged cell produces fifteen to twenty-five ATP per glucose, less than half the normal yield, as membrane efficiency collapses to forty or fifty percent and protons leak without driving synthesis, increasing energy waste as heat by two to five times. Same stock, radically different work, because the full equation is only as strong as its least functional term.
 
-In elderly human muscle tissue, mitochondrial density drops twenty to thirty percent compared to youth. ATP production rates fall approximately fifty percent—from around two hundred nanomoles per minute per gram of tissue down to one hundred. The electron transport machinery develops leaks, producing reactive oxygen species that damage proteins, lipids, and DNA. Mitochondrial DNA accumulates mutations at rates of one to five percent, compared to less than a tenth of a percent in young, healthy cells. Conversion velocity slows despite adequate fuel availability.
+This is not a theoretical concern. In elderly human muscle tissue, mitochondrial density drops twenty to thirty percent and ATP production rates fall approximately fifty percent as the electron transport machinery develops leaks that produce reactive oxygen species damaging proteins, lipids, and DNA. In Alzheimer's disease, beta-amyloid plaques cut neuronal ATP yield by thirty to sixty percent, and the neurons do not die because glucose runs out. Glucose remains available, oxygen continues diffusing into tissue, but the conversion structure can no longer maintain the relationship between stock and velocity that work requires. In diabetes, cells respond to energy deficits by increasing glucose uptake, blood sugar rises, insulin resistance develops, and ATP production remains inadequate because the conversion machinery is damaged. More stock does not restore the equation when velocity infrastructure has failed.
 
-In Alzheimer's disease, the story becomes even more stark. Beta-amyloid plaques damage mitochondria in neurons, cutting ATP yield by thirty to sixty percent. Phosphocreatine-to-ATP ratios, measurable through specialized brain imaging, drop twenty to forty percent below normal. The neurons don't die because they "run out of energy" in any simple sense—glucose remains available in the bloodstream, oxygen continues to diffuse into tissue. They die because they can no longer convert potential into work fast enough to maintain ion gradients, synthesize neurotransmitters, repair damaged proteins, and perform the thousands of energy-intensive tasks required for survival.
-
-This is not a shortage of fuel. This is a collapse in velocity.
-
-That distinction matters.
-
-Consider what happens when cells try to compensate for damaged capital through increased stock. In diabetes, where mitochondrial function is often impaired, cells respond to energy deficits by increasing glucose uptake. Blood sugar rises, insulin resistance develops, but ATP production remains inadequate because the conversion machinery—the capital—remains damaged. More fuel doesn't solve the problem. The engine is broken.
-
-Cancer cells provide another instructive example. Facing damaged mitochondria, they shift toward glycolysis—the fast but inefficient pathway—running it at rates two to ten times higher than normal cells. This creates the Warburg effect, where cancer cells consume enormous amounts of glucose but produce ATP inefficiently. They're running the biological equivalent of a debt-based economy: short-term velocity boosts that create long-term vulnerabilities and require ever-increasing resource extraction.
+Cancer cells offer the sharpest example. Facing damaged mitochondria, they shift toward glycolysis and run it at two to ten times the normal rate, the Warburg effect: enormous glucose consumption, inefficient ATP production, short-term velocity gains that compound long-term structural damage. The stock gets consumed faster than the work produced can justify. The equation runs at a loss, and the cell's environment eventually pays the price.
 
 ---
 
-## Locking the Equation
+**The Evolutionary Leap**
 
-Now the abstraction clicks.
+The history of life reveals that the transition from simple to complex organisms was a structural revolution rather than a resource revolution. Prokaryotes generate ATP along their outer membrane, and as a prokaryotic cell grows, its volume increases with the cube of its radius while surface area increases only with the square. Past a certain size, resource needs outpace conversion capacity, and the ceiling is not fuel but velocity infrastructure. The resources were available. The equation could not be held at scale.
 
-In cells, we can map every component of the equation precisely. Stock consists of glucose with its chemical potential of roughly seven hundred twenty kilocalories per mole, oxygen serving as the terminal electron acceptor, and existing ATP reserves that prime the metabolic pumps. This stock represents potential—energy that could be released but isn't yet doing work.
-
-Capital consists of the metabolic pathways themselves: the enzymatic machinery that catalyzes each reaction, the mitochondrial density that determines how much conversion infrastructure exists per unit volume, and the membrane integrity that allows gradients to form and persist. We measure capital as flux rates—how many moles of substrate flow through the pathway per minute per milligram of protein. We measure it as enzymatic turnover—how many reactions each enzyme catalyzes per second. We measure it as oxygen consumption rates and proton pumping velocities.
-
-Work is the output: ATP molecules delivered to wherever cellular processes need them. This ATP drives muscle contraction through myosin motors, powers neuron firing through sodium-potassium pumps, enables protein synthesis through ribosome function, and maintains ion gradients that keep cells alive. We measure work as ATP production rates, as cellular work output, as the actual biological functions accomplished per unit time.
-
-The equation becomes concrete: Work equals Stock times Capital.
-
-If capital—the conversion velocity—goes to zero, work goes to zero, no matter how much stock remains. A dead cell can be full of glucose. It cannot produce ATP. It cannot contract muscles, fire neurons, or synthesize proteins. It cannot do work.
-
-This is not theory. This is life.
+Eukaryotes solved this by internalizing the conversion machinery. Early eukaryotic ancestors engulfed bacteria and formed a symbiotic relationship rather than digesting them, and these internalized bacteria became mitochondria, organelles with their own membranes folded into elaborate cristae that multiply conversion surface area by orders of magnitude. The energy budget available per gene expressed increased approximately two hundred thousand fold, and suddenly cells could afford to express thousands of genes simultaneously, maintain complex internal structures, develop specialized organelles, and eventually form multicellular organisms with differentiated tissues. Every tree, insect, bird, and mammal on Earth runs on this architecture. Complexity itself is downstream of velocity infrastructure, the middle term of the equation scaled to a new order of magnitude. The resources were present before this transition. What changed was the capacity to hold all three terms of the equation in functional relationship at scale.
 
 ---
 
-## The Evolutionary Leap in Capital
+**Before Language**
 
-The history of life on Earth reveals that the transition from simple to complex organisms was fundamentally a capital revolution, not a resource revolution.
+In cells every component of the equation maps precisely. Stock is the free energy stored in glucose and oxygen and existing ATP reserves. Velocity is the enzymatic machinery, mitochondrial density, and membrane integrity that determine how fast and how completely that potential is converted. Work is ATP delivered to wherever cellular processes require it, driving muscle contraction, powering neuron firing, enabling protein synthesis, maintaining the ion gradients that keep cells alive. Capital names the maintained relationship among these three terms, Stock, Velocity, and Work operating together as a single system, and if any term degrades toward zero, the structure collapses regardless of how healthy the other terms appear.
 
-Prokaryotes—bacteria and archaea—generate ATP along their outer membrane. As a prokaryotic cell grows larger, its volume increases with the cube of its radius, while its surface area increases only with the square. Volume represents resource needs—more cytoplasm requires more ATP to maintain. Surface area represents ATP production capacity—the available membrane for energy generation. The mathematics is unforgiving: past a certain size, resource needs grow faster than energy production capacity can support.
+The cell did not arrive at this understanding through theory or debate. It simply could not survive any other way. For four billion years, in every organism, billions of times per second, the full equation has been maintained not because anyone understood it but because failing to maintain it meant ceasing to exist. The structure was never in question at the cellular level, Stock and Velocity and Work held in continuous verified relationship, with no capacity for illusion about which term was failing when function collapsed.
 
-Prokaryotes hit a scaling ceiling not because they lack access to glucose or oxygen, but because they lack velocity infrastructure. They cannot build enough membrane surface area to support the ATP production rates that larger size would demand.
-
-Eukaryotes—the domain that includes all plants, animals, fungi, and protists—solved this problem not by finding more fuel but by internalizing capital. The prevailing theory holds that early eukaryotic ancestors engulfed bacteria and, instead of digesting them, formed a symbiotic relationship. These internalized bacteria became mitochondria, organelles with their own membranes folded into elaborate cristae that multiply surface area many times over.
-
-This increased the internal "velocity surface area" by orders of magnitude. The energy budget available per gene expressed increased approximately two hundred thousand fold. Suddenly, cells could afford to express thousands of genes simultaneously, maintain complex internal structures, develop specialized organelles, and eventually form multicellular organisms with differentiated tissues.
-
-Every complex organism on Earth—every tree, every insect, every bird, every mammal—runs on this capitalized system. You are reading these words because your ancestors underwent a capital revolution roughly two billion years ago. Complexity itself is downstream of velocity infrastructure.
-
-The resources—glucose and oxygen—were available before this transition. What changed was the conversion rate.
+Then we arrived. We began naming what we saw. And the fragmentation began.
 
 ---
 
-## Why This Matters
-
-Humans did not invent capital. We inherited it.
-
-Every system that produces sustained output—from the molecular machinery in your cells to the economic systems organizing civilization—obeys the same fundamental rule: potential without velocity is dead weight.
-
-Biology never confused these concepts. A cell with enormous glucose reserves but damaged mitochondria is a dying cell. A cell with modest glucose reserves but highly efficient mitochondrial machinery thrives. The difference is always, inevitably, conversion rate. Life has been proving this equation for four billion years, in every organism, in every cell, billions of times per second.
-
-The tragedy of modern economics is not that it misunderstands money. The tragedy is that it forgot biology.
-
-Capital was never wealth. It was never accumulation. It was never stockpiles of resources waiting to be deployed.
-
-Capital was always the speed at which life turns possibility into reality.
-
-Cells understood this first.
-
-We forgot.
-
-And in forgetting, we built economic systems that optimize for accumulation while letting conversion infrastructure decay. We measure wealth in stock while ignoring velocity. We mistake glucose for ATP synthase and wonder why, despite abundant resources, so little work gets done.
-
-The next sections will trace how this confusion emerged in human economic thought, demonstrate the velocity framework across four types of capital, and show how Bitcoin represents a return to biology's clarity. But everything that follows builds on this foundation:
-
-If you don't understand that capital is rate, not quantity, nothing else makes sense.
-
-Biology proved it.
-
-Now we need to remember.
 # Section 2: Language Evolution
 
 ## How Economic Vocabulary Lost the Distinction
