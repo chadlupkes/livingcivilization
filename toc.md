@@ -21,19 +21,19 @@
 
 ### Chapter Ten: <a href="metaverse.md">The Metaverse</a>
 ### Chapter Eleven: <a href="coordinationgeometry.md">Coordination Geometry</a>
-### Chapter Twelve: Power through Control (in progress)
-### Chapter Thirteen: <a href="debts.md">Debts</a> (in progress)
-### Chapter Fourteen: Vectors and Choices (in progress)
-### Chapter Fifteen: <a href="polis.md">The Political Spectrum</a> (in progress)
+### Chapter Twelve: <a href="capital.md">Capital</a> (draft)
+### Chapter Thirteen: Information (in progress)
+### Chapter Fourteen: Innovation (in progress)
+### Chapter Fifteen: Trust (in progress)
 
 ## Part Four: The Choice
 
-### Chapter Sixteen: Wealth (in progress)
-### Chapter Seventeen: Peace through Collaboration (in progress)
-### Chapter Eighteen: <a href="capital.md">Capital</a> (draft)
-### Chapter Nineteen: Information (in progress)
-### Chapter Twenty: Innovation (in progress)
-### Chapter Twenty One: Trust (in progress)
+### Chapter Sixteen: History: Power through Control (in progress)
+### Chapter Seventeen: <a href="debts.md">Debts</a> (in progress)
+### Chapter Eighteen: Vectors and Choices (in progress)
+### Chapter Nineteem: <a href="polis.md">The Political Spectrum</a> (in progress)
+### Chapter Twenty: Wealth (in progress)
+### Chapter Twenty One: Our Future: Peace through Collaboration (in progress)
 
 ## Part Five: The Invitation
 
