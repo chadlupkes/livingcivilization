@@ -1,6 +1,6 @@
 # Chemistry
 
-<a href="physics.md">Physics</a> describes the fundamental rules by which matter moves and interacts—the forces that bind quarks, curve spacetime, and set the speed limit of causality. Yet these rules alone describe a stark, mechanical cosmos: predictable, isolated, governed by equations that offer no hint of the richness we observe. If Physics is the book of universal rules, then Chemistry is the first draft of the story.
+<a href="physics.html">Physics</a> describes the fundamental rules by which matter moves and interacts—the forces that bind quarks, curve spacetime, and set the speed limit of causality. Yet these rules alone describe a stark, mechanical cosmos: predictable, isolated, governed by equations that offer no hint of the richness we observe. If Physics is the book of universal rules, then Chemistry is the first draft of the story.
 
 Chemistry occupies the crucial middle ground where rules become structures and structures acquire consequences. It reveals how the universe evolves from the inert to the interactive, transforming the electromagnetic forces of Physics into the scaffolding of complexity. Here, forces stop being merely pulls and pushes—they become molecular architecture. Atoms cease being isolated points in space and become building blocks with specific shapes, "hands" to hold, and "slots" to fill. By sharing or trading electrons, atoms form bonds that create stable structures—the first instances of "form" in a universe that was previously just energy and plasma.
 
@@ -513,7 +513,7 @@ The universe taught chemistry to itself through the forging of elements in stell
 
 > _"Chemistry is the melody played by the instruments of Physics. Biology is the symphony."_
 
-We now turn to that symphony—to <a href="evolution.md">Evolution</a>, where chemistry's self-replicating molecules become biology's adapting organisms, where selection refines what replication produces, and where life begins its four-billion-year journey from single cells to the consciousness capable of contemplating its own origins.
+We now turn to that symphony—to <a href="evolution.html">Evolution</a>, where chemistry's self-replicating molecules become biology's adapting organisms, where selection refines what replication produces, and where life begins its four-billion-year journey from single cells to the consciousness capable of contemplating its own origins.
 
 ---
 
