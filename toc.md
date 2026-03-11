@@ -1,6 +1,6 @@
 # Living Civilization
 
-<a href="README.md">Back Cover</a>
+- <a href="README.md">Back Cover</a>
 
 ## Table of Contents
 
