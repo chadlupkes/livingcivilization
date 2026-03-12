@@ -23,7 +23,7 @@
 
 ### Chapter Ten: <a href="metaverse.md">The Metaverse</a>
 ### Chapter Eleven: <a href="coordinationgeometry.md">Coordination Geometry</a>
-### Chapter Twelve: <a href="capital.md">Capital</a> (draft, in progress)
+### Chapter Twelve: <a href="capital.md">Capital</a>
 ### Chapter Thirteen: Information (in progress)
 ### Chapter Fourteen: Innovation (in progress)
 ### Chapter Fifteen: Trust (in progress)
