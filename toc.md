@@ -4,6 +4,8 @@
 
 ## Table of Contents
 
+### Chapter Zero: <a href="preface.md">The Path through Shadow</a>
+
 ## Part One: The Universe
 
 ### Chapter One: <a href="space.md">Space</a>
