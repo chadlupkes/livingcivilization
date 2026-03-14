@@ -1,7 +1,5 @@
 # Chapter Zero - The Path through Shadow
 
-_Preface_
-
 You already know something is wrong.
 
 You can feel it in the conversations that go nowhere, in the elections that leave you choosing between exhaustion and desperation, in the headlines that arrive faster than you can absorb them and recede into the background noise before anything changes. You can feel it in the yoga studio, in the dinner table arguments that challenge or end friendships, in the silence of people who used to talk about the future with hope but now retreat to despair.
