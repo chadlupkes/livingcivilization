@@ -535,7 +535,85 @@ Every attempt to extend human civilization beyond Earth reveals how much invisib
 
 This same challenge applies on Earth, where we are already operating within closed-loop systems at the scale of continents and have mostly not recognized them as such. Every city is a metabolic system with flows in and out. Every watershed is cycling water through soil, plant, animal, and atmosphere and back. The engineering challenge is not different in kind from designing a Mars habitat. It is designing human systems that function as productive subsystems within larger metabolic networks, maintaining the velocity of the biological processes they depend on while generating the work that human civilization requires.
 
-### Conclusion
+## The Four Capital Types: A Cross-Capital Summary
+
+### The View Over Four Types
+
+The Capital pillar uses the equation Stock x Velocity -> Work. The equation has held without modification across every domain this chapter examined, and it is worth pausing to see the structure whole.
+
+|                                       | Physical Capital                                                                         | Financial Capital                                                                                 | Human Capital                                                                                    | Natural Capital                                                                                                      |
+| ------------------------------------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------- |
+| **Capital Substrate**                 | Built infrastructure: roads, grids, ports, facilities                                    | Monetary stock: currency, credit instruments, reserve assets                                      | Knowledge stock: skills, patterns, mental models, expertise                                      | Biological stock: species populations, habitat, soil carbon, genetic diversity                                       |
+| **Velocity Mechanism**                | Throughput rate: maintenance condition, utilization, access                              | Transmission infrastructure: payment rails, settlement systems, monetary architecture             | Deployment speed: myelinated neural pathways, pattern recognition, practiced execution           | Ecological integrity: species relationships, biodiversity, regeneration rates, connectivity                          |
+| **Natural Timescale**                 | Years to decades: infrastructure degrades and requires scheduled maintenance             | Seconds to years: transactions settle instantly, monetary systems evolve across generations       | Years to decades: skills build through practice, expertise compounds across careers              | Decades to centuries: ecosystems regenerate slowly, old-growth complexity requires centuries                         |
+| **Form of Capital Debt**              | Deferred maintenance: visible stock persists while conversion capacity silently degrades | Monetary expansion: stock denominated in future promises rather than verified present capacity    | Burnout and extraction: velocity borrowed from future capacity through sustained overutilization | Ecosystem degradation: velocity infrastructure collapses while visible biological stock temporarily persists         |
+| **Output of Wealth-Based Management** | Sustained throughput compounding across generations of use and maintenance               | Reliable coordination anchored to verified present capacity, enabling long-term exchange          | Expertise compounding across careers and generations through mentorship and transmission         | Sustained service delivery: pollination, filtration, sequestration, nutrient cycling, maintained indefinitely        |
+| **Characteristic Extraction Pattern** | Infrastructure neglect: maximum utilization without maintenance until threshold failure  | Monetary debasement: expanding stock denominations while velocity infrastructure quietly degrades | Productivity extraction: maximum output without recovery until both components collapse          | Overharvest: extraction exceeding regeneration velocity until population or ecosystem crosses irreversible threshold |
+
+The pattern visible in this table is not coincidence. It is the same geometry expressing through four different substrates. Every capital type has a stock layer that accumulates slowly and a velocity layer that converts it into work. Every capital type has a debt form that borrows from future velocity while appearing to maintain present output. Every capital type has a wealth-based form that maintains both components and allows the multiplication to compound across time.
+
+The four capital types are not parallel categories. They are nested layers of the Economic Field, each dependent on the ones beneath it. Natural capital is the foundation. Physical capital is the built interface. Human capital is the observational and adaptive layer. Financial capital is the coordination layer the culture has learned to name. When all four layers maintain both components of their equation, civilization compounds. When any layer allows either component to degrade, the failure propagates upward through every layer that depends on it.
+
+But these four are not the whole inventory. They are the four this chapter examined in depth because they reveal the geometric structure most clearly, and because their nested dependency relationship gives the framework its load-bearing architecture. The culture has identified many other forms of capital: social capital in the networks of relationship and mutual aid that bind communities, intellectual capital in the ideas and knowledge repositories that accumulate through creative work, cultural capital in the shared heritage and meaning that orient collective purpose, political capital in the governance structures through which decisions are made and authority is distributed, digital capital in the data and computational infrastructure that increasingly mediates coordination, and others beyond these.
+
+Each one, when examined through the Stock times Velocity lens, reveals the same structure. Each has a stock layer that accumulates through investment and maintenance and a velocity layer that converts that stock into work. Each has a debt-based form that borrows from future capacity while appearing to maintain present output: social capital depleted through polarization and eroded trust, intellectual capital hoarded behind proprietary barriers that slow the compounding of ideas, cultural capital commodified until the living tradition it carried stops transmitting. And each has a wealth-based form that maintains both components and allows the multiplication to compound: social networks that strengthen through use, knowledge that grows faster when shared freely, cultural inheritance that deepens across generations when it remains alive rather than archived.
+
+The principles derived from examining Physical, Financial, Human, and Natural capital are not specific to those four types. They are properties of the equation itself. Any form of capital that violates the seven requirements will drift toward extraction. Any form that maintains them will compound. The substrate changes. The geometry does not.
+
+---
+
+### Seven Requirements for Wealth-Based Capital Infrastructure
+
+The Financial Capital section derived seven requirements for wealth-based monetary systems from first principles, then demonstrated that Bitcoin satisfies all seven. But these requirements did not originate in financial capital. They are structural necessities that emerge from the Stock times Velocity equation itself, which means they apply across every capital type in that type's native terms.
+
+What follows is not a new set of requirements. It is the same seven requirements expressed through four different substrates, arriving at the same conclusion each time: these are not design preferences. They are what the equation requires to remain functional rather than extractive.
+
+**Requirement 1: Verified Present Stock**
+
+Physical capital requires accurate inventory of existing infrastructure capacity before any investment or utilization decision. Financial capital requires monetary stock anchored to verified present capacity rather than imagined future output. Human capital requires honest assessment of actual knowledge and skill levels rather than credential proxies. Natural capital requires measurement of actual ecosystem stock, species populations, soil health, and aquifer levels, before any harvest or development decision.
+
+In every case, the requirement is the same: know what you actually have before deciding how fast to convert it. Debt-based systems in every domain substitute assumed abundance for verified inventory, and the gap between assumption and reality is where extraction begins.
+
+**Requirement 2: Prohibitive Cost of Extraction Beyond Regeneration**
+
+Physical capital maintenance must cost less than replacement, making neglect visibly expensive before threshold failure. Financial capital falsification must be thermodynamically expensive, as Bitcoin's proof of work demonstrates, making monetary debasement structurally detectable. Human capital extraction must carry visible cost in burnout, turnover, and productivity collapse, making perpetual overutilization economically self-defeating. Natural capital overharvest must face regeneration limits that make extraction beyond those limits visibly destructive before populations collapse.
+
+The requirement is the same across all four: the cost of consuming future capacity must be legible in the present, before the debt becomes irreversible.
+
+**Requirement 3: Transparent Position Accounting**
+
+Physical capital requires complete maintenance records and condition assessments so that infrastructure debt is visible to decision-makers rather than hidden in deferred line items. Financial capital requires complete transaction provenance so that monetary positions are verifiable rather than obscured through layered instruments. Human capital requires honest skill assessment and feedback so that deployment velocity is measured accurately rather than proxied through credentials. Natural capital requires comprehensive ecosystem monitoring so that velocity degradation is detected before it crosses irreversible thresholds.
+
+The requirement is the same: the actual state of both components must be visible to those making decisions about how fast to convert them.
+
+**Requirement 4: Distributed Transformation Rights**
+
+Physical capital functions best when maintenance and utilization decisions are distributed to those with direct knowledge of local conditions, rather than centrally managed by those too distant to detect degradation early. Financial capital requires distributed access to monetary transformation so that no single institution can capture the velocity infrastructure and extract rents from its position. Human capital requires distributed access to education and mentorship so that velocity infrastructure is not artificially constrained by credential gatekeeping. Natural capital requires distributed stewardship so that communities with direct observational relationships to ecosystems retain the authority to maintain them.
+
+The requirement is the same: concentration of transformation rights enables rent-seeking and prevents the feedback that distributed operation provides.
+
+**Requirement 5: Objective Allocation Rules**
+
+Physical capital investment must follow verified condition assessments rather than political allocation, so that maintenance resources flow toward actual degradation rather than toward visible constituencies. Financial capital must settle according to cryptographic rules rather than institutional discretion, so that monetary positions are determined by verified history rather than by whoever controls the ledger. Human capital development must reward demonstrated skill rather than credential acquisition, so that velocity infrastructure is built rather than proxied. Natural capital harvest must follow verified regeneration rates rather than political quotas, so that extraction stays within what the velocity infrastructure can sustain.
+
+The requirement is the same: allocation rules must be objective and verifiable, not subject to capture by those who benefit from misallocation.
+
+**Requirement 6: Conductivity Over Control**
+
+Physical infrastructure must maximize throughput for all participants rather than optimizing access for those who control the infrastructure. Financial capital must maximize coordination flow rather than positioning whoever controls the payment rails to extract from every transaction. Human capital transmission must maximize velocity diffusion through mentorship and open knowledge rather than gatekeeping expertise behind institutional barriers. Natural capital must be managed to maximize ecosystem service delivery for all dependent systems rather than optimizing extraction for current claimants.
+
+The requirement is the same: the purpose of the velocity infrastructure is to enable conversion, not to enable control of who gets to convert.
+
+**Requirement 7: No Temporal Extraction**
+
+Physical capital cannot be maintained by consuming future maintenance capacity in the present. Financial capital cannot be expanded by borrowing from future productive output. Human capital cannot sustain high performance by consuming future velocity through present burnout. Natural capital cannot be harvested beyond current regeneration rates without consuming the future productivity that current extraction depends on.
+
+The requirement is the same across all four capital types, and it is the bedrock principle from which all six others derive: the system must be anchored exclusively to verified present capacity. No component of the multiplication may be borrowed from a future that has not yet been earned.
+
+These seven requirements are not a checklist. They are the geometry of the equation itself, expressed as operating conditions. Any capital system that violates any of them is not a wealth-based system that has made a design error. It is a debt-based system that has found a way to make extraction look like maintenance, for a time, until the borrowed velocity runs out.
+
+
+## Conclusion
 
 **Capital: Stock x Velocity -> Work**
 
