@@ -1,4 +1,4 @@
-# Innovation
+# Information
 
 ## Section 1: The Oldest Coordination Problem
 
