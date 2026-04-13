@@ -69,3 +69,5 @@ The book you are holding exists because I believe that clear perception, given e
 _Ineo. Inspirare. Educare. Potestatem Dare._ _Engage. Inspire. Educate. Empower._
 
 _The path begins here._
+
+<a href="space.md">Space</a>
