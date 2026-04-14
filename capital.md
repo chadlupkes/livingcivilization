@@ -625,4 +625,4 @@ But the equation cannot run on its own. Every term requires verification. Stock 
 
 This is what the four capital types converge on. Natural capital makes it impossible to ignore: we cannot maintain what we cannot measure, and what we have been measuring, stock in dollar terms, is the wrong thing. The verification problem runs through all four layers simultaneously. It is not a problem capital can solve from within itself. It requires its own pillar, its own infrastructure, its own equation.
 
-That is where we go next.
+That is where we go next.  The next pillar is <a href="information.md">Information</a>.
