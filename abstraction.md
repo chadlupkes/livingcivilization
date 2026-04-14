@@ -134,7 +134,7 @@ In the physical tetrahedron, three energy flows—kinetic, thermal, radiant—fo
 
 **Form** is embryonic at this stage. The neuroscience shows that shapes and features begin to stabilize as recognizable patterns—an owl's silhouette means danger, a certain scent profile means food—but these aren't yet fully dimensional. They're proto-abstractions, patterns stabilizing toward symbolic representation but not yet arbitrary or transmissible.
 
-**Consensus** does not yet exist. There's no mechanism to validate patterns across time beyond individual memory, no way to synchronize truth between observers beyond immediate social learning. The dimension that will enable shared validation hasn't emerged.
+**Provenance** does not yet exist. There's no mechanism to validate patterns across time beyond individual memory, no way to synchronize truth between observers beyond immediate social learning. The dimension that will enable shared validation hasn't emerged.
 
 At the apex sits the Observer—not yet reflective consciousness as humans will develop, but what the research suggests is a biological locus where experience unifies. The animal doesn't merely sense the world passively; it occupies a position from which relationships become visible, from which patterns can be recognized and held.
 
@@ -230,7 +230,7 @@ First, evolution had to learn not just to map, but to agree.
 
 # 2: TIME'S ARROW REMEMBERED
 
-## Mental Time Travel: How Primates Generated Consensus
+## Mental Time Travel: How Primates Generated Provenance
 
 When I moved from early mammals to primates, the setting changed dramatically.
 
@@ -250,13 +250,13 @@ Primates did not merely map space. They began to map _outcomes_.
 
 What struck me while reading studies on primate episodic memory was that these were not stored as abstract facts. They were stored as validations. The memory mattered because it had been tested against reality and survived.
 
-This is where the Consensus dimension begins.
+This is where the Provenance dimension begins.
 
-## Consensus Is Temporal Validation
+## Provenance Is Temporal Validation
 
-It's tempting to think of consensus as agreement between individuals. But reading across neuroscience and evolutionary theory, a deeper pattern emerged—one the researchers document but don't explicitly frame dimensionally.
+It's tempting to think of provenance as agreement between individuals. But reading across neuroscience and evolutionary theory, a deeper pattern emerged—one the researchers document but don't explicitly frame dimensionally.
 
-The first consensus is not social. It is temporal.
+The first provenance is not social. It is temporal.
 
 A mind holds a pattern, acts on it, and observes the result. If the pattern continues to hold—the branch supports weight again, the fruit ripens on schedule, the social partner reciprocates—it gains strength in memory. If it fails, it weakens or disappears. Over time, the mind accumulates not just memories, but _validated expectations_.
 
@@ -318,7 +318,7 @@ One individual's successful behavior could be observed, remembered, and copied. 
 
 "I know how this individual behaves over time."
 
-This is consensus becoming collective—but notice it remains fundamentally temporal. The validation is still "this pattern held in the past, holds now, will likely hold in the future." What changes is that multiple observers can contribute evidence, strengthening or weakening the pattern's position in consensus space.
+This is provenance becoming collective—but notice it remains fundamentally temporal. The validation is still "this pattern held in the past, holds now, will likely hold in the future." What changes is that multiple observers can contribute evidence, strengthening or weakening the pattern's position in provenance space.
 
 Frans de Waal's decades of research on chimpanzee politics, beginning in the 1970s, documents this vividly. Chimpanzees remember who supported them in conflicts, who betrayed alliances, who shares food consistently. They adjust their behavior based on accumulated histories, not just immediate circumstances.
 
@@ -326,9 +326,9 @@ The Consensus dimension becomes interpersonal without ceasing to be temporal. Mu
 
 This accelerates the evolutionary mechanisms:
 
-**Variation:** Individuals differ in memory capacity, impulse control, and social sensitivity. Mutations affecting frontal cortex development, dopamine regulation, or neural plasticity create variation in the ability to generate and navigate consensus space.
+**Variation:** Individuals differ in memory capacity, impulse control, and social sensitivity. Mutations affecting frontal cortex development, dopamine regulation, or neural plasticity create variation in the ability to generate and navigate provenance space.
 
-**Selection:** Those better at temporal validation—remembering which individuals are trustworthy, which foods ripen when, which territories are safe at what times—survive and reproduce more successfully. The selective pressure isn't for intelligence generally, but specifically for consensus-generating capacity.
+**Selection:** Those better at temporal validation—remembering which individuals are trustworthy, which foods ripen when, which territories are safe at what times—survive and reproduce more successfully. The selective pressure isn't for intelligence generally, but specifically for provenance-generating capacity.
 
 **Collaboration:** Validated patterns spread through social learning. When one primate discovers a new food source and others observe and remember, the entire troop benefits. The Consensus dimension stabilizes through collective use, much as Network did through social transmission of spatial knowledge.
 
@@ -358,7 +358,7 @@ Consensus can only validate what has been encountered. A primate can remember th
 
 Network can only connect what has been perceived or experienced. Consensus can only validate what has been tried or observed.
 
-A primate cannot reason about a fruit it has never seen, a place it has never visited, or an event no one in its social group has experienced. Absent things remain unreachable. Imagined things have no position in consensus space because they've never been validated.
+A primate cannot reason about a fruit it has never seen, a place it has never visited, or an event no one in its social group has experienced. Absent things remain unreachable. Imagined things have no position in provenance space because they've never been validated.
 
 Reading this literature—the studies on primate memory, social learning, future projection—I began to see the fundamental constraint:
 
@@ -518,11 +518,11 @@ The three dimensions of the abstract base triangle are complete. You can now spe
 - _How does it connect?_ (Network: relationships to other forms)
 - _Does it persist?_ (Consensus: temporal validation, social agreement)
 
-A word has form (its phonetic or written structure), network (grammatical relationships, semantic connections), and consensus (shared meaning validated through use).
+A word has form (its phonetic or written structure), network (grammatical relationships, semantic connections), and provenance (shared meaning validated through use).
 
-A law has form (its text), network (connections to other laws, to institutions), and consensus (collective acceptance, repeated enforcement).
+A law has form (its text), network (connections to other laws, to institutions), and provenance (collective acceptance, repeated enforcement).
 
-A scientific theory has form (its mathematical or conceptual structure), network (relationships to evidence, other theories), and consensus (peer validation, experimental confirmation).
+A scientific theory has form (its mathematical or conceptual structure), network (relationships to evidence, other theories), and provenance (peer validation, experimental confirmation).
 
 The Metaverse—that realm of Capital, Information, Innovation, and Trust that will occupy Part Three of this book—can now exist. The dimensional substrate is in place.
 
@@ -879,7 +879,7 @@ They are inevitable consequences of the substrate itself.
 
 With this framework in place, modern technology begins to look less like disruption and more like acceleration of processes already underway.
 
-Gene editing manipulates biological forms, networks of genes, consensus of traits—blurring the line between physical and abstract manipulation.
+Gene editing manipulates biological forms, networks of genes, provenance of traits—blurring the line between physical and abstract manipulation.
 
 Neural networks explore abstract spaces algorithmically, tracing patterns humans couldn't find, validating them through outcomes.
 
@@ -897,7 +897,7 @@ What is not determined is temporal direction.
 
 The ability to model futures is power. The choice of how to act on those models is fate.
 
-Civilizations can extract from imagined positions not yet validated, borrowing against consensus not yet earned, building on networks not yet forged. When imagined futures materialize, systems stabilize. When they don't, collapse follows.
+Civilizations can extract from imagined positions not yet validated, borrowing against provenance not yet earned, building on networks not yet forged. When imagined futures materialize, systems stabilize. When they don't, collapse follows.
 
 Or civilizations can compound from actual positions—building from validated sequences, strengthening established connections, transforming well-defined forms. Growth slower but sustainable because it never outpaces reality.
 
