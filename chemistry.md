@@ -513,7 +513,7 @@ The universe taught chemistry to itself through the forging of elements in stell
 
 > _"Chemistry is the melody played by the instruments of Physics. Biology is the symphony."_
 
-We now turn to that symphony—to <a href="evolution.html">Evolution</a>, where chemistry's self-replicating molecules become biology's adapting organisms, where selection refines what replication produces, and where life begins its four-billion-year journey from single cells to the consciousness capable of contemplating its own origins.
+We now turn to that symphony—to <a href="evolution.md">Evolution</a>, where chemistry's self-replicating molecules become biology's adapting organisms, where selection refines what replication produces, and where life begins its four-billion-year journey from single cells to the consciousness capable of contemplating its own origins.
 
 ---
 
