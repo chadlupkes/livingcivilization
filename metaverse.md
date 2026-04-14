@@ -899,4 +899,4 @@ Before we can examine how these pillars function individually, we must first und
 
 And at the heart of Coordination Geometry lies a fundamental choice—a decision point that determines whether the four pillars reinforce resilience or compound fragility. That choice is **Purpose**: the directional vector that transforms observation into action, that determines whether we draw from debt's imagined futures or wealth's verified presents, that sets our trajectory spiraling toward collapse or helixing toward flourishing.
 
-Understanding this choice, and the geometric patterns it creates, is the work of the next chapter.
+Understanding this choice, and the geometric patterns it creates, is the work of the <a href="coordinationgeometry.md">next chapter</a>.
