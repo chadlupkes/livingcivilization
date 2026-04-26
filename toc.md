@@ -27,7 +27,7 @@
 ### Chapter Eleven: <a href="coordinationgeometry.md">Coordination Geometry</a>
 ### Chapter Twelve: <a href="capital.md">Capital</a>
 ### Chapter Thirteen: <a href="information.md">Information</a>
-### Chapter Fourteen: Innovation (in progress)
+### Chapter Fourteen: <a href="innovation.md">Innovation</a>
 ### Chapter Fifteen: Trust (in progress)
 
 ## Part Four: The Choice
