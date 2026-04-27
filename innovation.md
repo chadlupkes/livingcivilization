@@ -237,7 +237,7 @@ The Innovation pillar's architecture is not independent of the Capital pillar's 
 
 ---
 
-Section 9: Protocols, Platforms, and Combinatorial Acceleration
+### Section 9: Protocols, Platforms, and Combinatorial Acceleration
 
 Solutions that survive long enough to become infrastructure undergo a phase transition: they stop being recognized as solutions and start being treated as substrate for the next round of ideas. This is the Möbius twist operating at the civilizational level. The stabilized solution becomes the inherited platform from which new variations emerge.
 
