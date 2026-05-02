@@ -32,10 +32,10 @@
 
 ## Part Four: The Choice
 
-### Chapter Sixteen: History: Power through Control (in progress)
-### Chapter Seventeen: <a href="debts.md">Debts</a> (in progress)
-### Chapter Eighteen: Vectors and Choices (in progress)
-### Chapter Nineteem: <a href="polis.md">The Political Spectrum</a> (in progress)
+### Chapter Sixteen: <a href="polis.md">The Political Spectrum</a> (in progress)
+### Chapter Seventeen: History: Power through Control (in progress)
+### Chapter Eighteen: <a href="debts.md">Debts</a> (in progress)
+### Chapter Nineteem: Vectors and Choices, Where we stand today (in progress)
 
 ## Part Five: The Invitation
 
