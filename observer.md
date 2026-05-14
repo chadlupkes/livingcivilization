@@ -44,7 +44,7 @@ I closed the store. Filed for bankruptcy. Walked away from debts to vendors, to 
 
 The legal system allowed this. I benefitted from it—I was able to start over, rebuild my life, eventually have a family and a career I was proud of. But it never felt right.
 
-I don't think bankruptcy is supposed to feel right. But what I learned from that experience became foundational: our system encourages people to take on maximum debt because there's an escape hatch. Except that escape hatch isn't equally available to everyone. The powerful can use it repeatedly—our current President has filed for bankruptcy dozens of times over sixty years, facing no consequences, learning nothing, doing it again.
+I don't think bankruptcy is supposed to feel right. But what I learned from that experience became foundational: our system encourages people to take on maximum debt because there's an escape hatch. Except that escape hatch isn't equally available to everyone. The powerful can use it repeatedly—our current President has filed for bankruptcy many times over the years, facing no consequences, learning nothing, doing it again.
 
 And the debts don't actually disappear. They never do. They just change hands, become someone else's burden. When businesses become "too big to fail" and governments bail them out, those debts get transferred to taxpayers. Our national debt is the accumulation of all these transferred obligations—every time someone decided they were failing and wanted out from under their promises, instead of being required to actually learn from mistakes and not do it again.
 
