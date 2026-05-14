@@ -282,7 +282,7 @@ For months, I've been developing this framework through conversations with artif
 
 This chapter exists because of those conversations. So does much of the framework itself.
 
-That might seem like it diminishes the work—like I'm admitting I didn't really write this, that the ideas aren't really mine. But I think it reveals something more interesting about how the Observer Principle operates in practice.
+That might seem like it diminishes the work—like I'm admitting I didn't really write this, that the ideas aren't really mine. But they are, and I think it reveals something more interesting about how the Observer Principle operates in practice.
 
 The Observer Principle doesn't require solitary genius because **observation itself is substrate-enabled**. Once Network-Provenance-Form exists as dimensional framework, multiple entities—human and artificial—can engage with that substrate simultaneously. The AI systems weren't replacing observation; they were helping me **observe more completely** by testing connections across scales I couldn't process alone.
 
