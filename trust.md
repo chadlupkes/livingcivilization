@@ -139,3 +139,83 @@ At sufficient scale, coordination systems become trapped inside reputation archi
 
 The equation appears social on the surface. Section 2 maps the three terms of this equation onto the Metaverse substrate and shows how the substrate generates the six orthogonal dimensions along which Trust Debt can accumulate.
 
+## Section 2: The Metaverse Substrate
+
+The Trust equation appears social on the surface. Structurally, it is geometric.
+
+The geometry begins with the substrate itself. The Metaverse framework defines four substrate dimensions: Form, Network, Provenance, and Observer. None operate independently. Purpose activates each dimension into a coordination field.
+
+|Substrate Dimension + Purpose|Coordination Field|Question Answered|
+|---|---|---|
+|Form + Purpose|Economic|What actually gets done?|
+|Network + Purpose|Tribal|Who will stand by whom?|
+|Provenance + Purpose|Jurisdictional|What is enforceable?|
+|Observer + Purpose|Cultural|What is meaningful?|
+
+The fields are not separate worlds layered beside one another. They are activated perspectives emerging from the same substrate. Form becomes Economic when physical structure is oriented toward productive transformation. Network becomes Tribal when relational connectivity is oriented toward coordinated obligation and loyalty. Provenance becomes Jurisdictional when the temporal record is activated into enforceability and persistent accountability. Observer becomes Cultural when perception and interpretation stabilize shared meaning across a population.
+
+Trust's native field is Tribal. The equation's output, Commitment, is behavioral stabilization within networks of actors who must coordinate under uncertainty. But the equation itself does not live entirely inside the Tribal field. It draws on all four substrate dimensions simultaneously, because reliable behavior cannot emerge from relationship alone.
+
+Every Trust failure is therefore multidimensional before it becomes visible socially.
+
+---
+
+### The Three Terms in the Substrate
+
+Agreements live primarily in Network. They are relational structures connecting actors through shared behavioral expectations. Even explicit agreements, such as laws and contracts, are still fundamentally Network phenomena: they define how participants are expected to behave toward one another across coordination space. The four agreement types established in Section 1 each validate primarily through a different field, but all originate from the Network substrate.
+
+Validation requires Provenance. For an agreement to be genuinely tested, the record of what actually happened must be verifiable and persistent. Provenance is the append-only temporal record that constrains future possibilities from verified past positions. Validation that leaves no Provenance record cannot compound. Each test of an agreement that produces no traceable result is coordination history that cannot be cached. Without Provenance, every interaction starts from zero.
+
+Commitment emerges when Purpose activates the Tribal field through validated agreements. Once actors possess enough validated behavioral history to compress uncertainty into assumption, coordination costs decline because future interactions no longer require complete re-validation from first principles.
+
+A handshake between strangers contains almost no Trust by itself. Trust emerges only if the agreement enters Provenance through repeated validation events, and those validations survive long enough for Purpose to stabilize them into behavioral expectation. Remove any component and the system collapses back into uncertainty.
+
+This sequence matters because it reveals that Trust is not emotional confidence. It is a substrate process. Reputation systems that lack Provenance fidelity are easily manipulated precisely because they attempt to project a signal across the Network dimension while ignoring the temporal grounding that Validation requires. A reputation record built on performed rather than genuine validation is corrupted Provenance distributed at scale.
+
+---
+
+### The Six-Axis Failure Geometry
+
+The substrate structure generates six orthogonal dimensions along which Trust can fail. These axes are not designed categories. They emerge from the substrate itself.
+
+The derivation is 6 = 1 + 1 + 4.
+
+**One raw substrate axis: Provenance.**
+
+The Provenance dimension exists before Purpose activates it. This is the recording layer itself. Form and Network can be probed through field-level interaction. Provenance must be probed directly, because every field-level test depends on the validation record being accurate and attributable. If Provenance becomes corrupted, fragmented, or falsified, every downstream test inherits the corruption. A failure at this level cannot be corrected from within any single field.
+
+**One master temporal axis: Debt versus Wealth.**
+
+This axis is orthogonal to the substrate dimensions. It cuts across all four fields simultaneously and asks whether Commitment is built from verified present positions or borrowed from states that no longer reflect current validated capacity. Backward persistence treats past validation as still valid when conditions have changed. Forward projection treats future validation as already earned. Both are temporal violations. The Debt versus Wealth axis is the master dimension because it governs whether the system's apparent coordination savings are genuine or deferred.
+
+**Four field axes.**
+
+Each activated field generates its own independent dimension of possible Trust failure. A system can fail on any one while passing all others. This makes them irreducible.
+
+The Tribal axis concerns relational reliability under stakes. Failures here are visible as betrayal, factionalism, and collapse of behavioral confidence precisely when the agreement most needs to hold.
+
+The Jurisdictional axis concerns continuity, enforceability, and accountability across time. Failures appear as selective enforcement, procedural capture, and institutional amnesia that breaks accountability continuity.
+
+The Cultural axis concerns shared validation standards. Trust cannot stabilize when participants no longer share interpretive frameworks about legitimacy or obligation. Failures appear as legitimacy collapse and the inability to maintain shared meaning across groups.
+
+The Economic axis concerns present material grounding. A system fails here when maintaining an agreement becomes structurally irrational under real incentive conditions, producing extraction pressures that reward exactly the behavior the agreement prohibits.
+
+---
+
+### The Substrate Signals Before the Collapse Appears
+
+The practical consequence of this geometry is that Trust failures are detectable long before they become visible socially. The substrate always signals before the collapse surface appears.
+
+If Economic incentives increasingly reward behavior that Cultural systems publicly condemn, Trust Debt is accumulating whether participants acknowledge it or not. A financial panic may appear Economic but originate in Provenance corruption. Institutional collapse may appear Jurisdictional while the actual accumulation has been running across all four fields simultaneously.
+
+Civilizations misdiagnose Trust failures by focusing on the visible fracture point rather than the substrate incoherence producing it. The geometry makes the incoherence visible earlier and more precisely than social observation alone allows.
+
+This is the structural consequence of the derivation. Requirements are not designed. They are the minimum constraints that block each axis along which the substrate can fail.
+
+A system missing a requirement has left a failure dimension unprotected.
+
+The full derivation of each requirement appears in Section 9. Trust is not mystical. It is not reducible to sentiment, branding, patriotism, or interpersonal warmth. It is the emergent stability produced when Agreements survive Validation coherently across the activated substrate dimensions over time. The pillars do not share a list of requirements. They share a substrate, and the substrate generates the requirement count.
+
+---
+
+The substrate did not begin with civilization. Civilization inherited it. Section 3 grounds this geometry in biological history, showing that organism-scale coordination solved the same six-axis failure problem long before symbolic coordination made it explicit.
