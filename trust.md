@@ -219,3 +219,67 @@ The full derivation of each requirement appears in Section 9. Trust is not mysti
 ---
 
 The substrate did not begin with civilization. Civilization inherited it. Section 3 grounds this geometry in biological history, showing that organism-scale coordination solved the same six-axis failure problem long before symbolic coordination made it explicit.
+
+## Section 3: The Evolutionary Foundation
+
+The Trust geometry did not originate with civilization. Civilization inherited it from biological coordination systems that solved simpler versions of the same problem long before symbolic language, institutions, or formal agreements existed. The six-axis geometry of Trust failure predates civilization itself. The Metaverse substrate extended and formalized a geometry that selection pressure had already discovered.
+
+---
+
+### Hardwired Coordination
+
+The oldest coordination mechanisms require no modeling of other actors at all. Bacteria coordinate through quorum sensing, detecting chemical signals that indicate population density and adjusting collective behavior accordingly. Schooling fish maintain formation through local rules about proximity and velocity, with no individual fish modeling what any other fish intends. The coordination is real and effective.
+
+Coordination exists, but only inside a shared present.
+
+These systems work because the sensory environment is largely synchronized across participants. All actors occupy the same physical space, encounter the same signals, and react within compressed time horizons. Validation is immediate because behavior remains directly observable. The system cannot coordinate across large temporal gaps because the validation state disappears once direct observation ends. It cannot coordinate with absent actors because no durable Provenance layer exists connecting past behavior to future expectation.
+
+The coordination surface collapses once shared observation disappears. Trust begins where direct observability stops being sufficient.
+
+---
+
+### The Primate Transition
+
+The critical biological shift occurred when social organisms, particularly primates, developed the capacity to model other minds. The actor was no longer responding only to visible behavior. The actor was responding to predicted behavior generated from remembered validation history. This was an early biological form of the Tribal field. It is also the biological emergence of the Observer substrate dimension: the first coordination systems in which an actor's internal model of another actor's perspective, not just their observable behavior, becomes operationally real.
+
+A primate that can model another's internal state can do three things that pure reaction cannot. It can predict behavior in novel situations by extrapolating from a model of the other actor's goals. It can recognize deception, because modeling another's intentions includes modeling the possibility that they are misrepresenting those intentions. And it can reason about third parties, anticipating how actors who are not present will respond under future conditions.
+
+The modeling capacity that enables Trust also enables its mimicry. A primate that understands how the validation record is built can stage the behaviors that generate a favorable record without genuine commitment behind them. Deception at the primate level is the biological origin of performed validation.
+
+A primate remembering which group member shared food during a prior scarcity event is not merely storing information. The organism is compressing past behavioral validation into a future coordination assumption. This is the Tribal field's native form of Provenance: a traceable record of past validation events that constrains what can be reasonably expected in the future. An actor with a long record of honored commitments under costly conditions has produced genuine Provenance. An actor with no such record raises the coordination cost of every subsequent interaction.
+
+The relationship itself begins functioning as cached coordination.
+
+---
+
+### Cached Effort and the Coordination Cost Gradient
+
+A tribe, in the framework's structural sense, is a compression of past coordination into present assumption. What appears as shared belief, shared identity, or shared loyalty is actually cached effort: the group no longer negotiates the terms of cooperation from scratch on every interaction because the Validation has already occurred. Before validation history exists, every interaction carries high uncertainty. The organism must continuously monitor behavior, evaluate threat potential, and remain prepared for defection. Coordination is expensive because uncertainty remains unresolved.
+
+Repeated successful interactions reduce that cost. The validated relationship caches past coordination so future interactions cost less. This compression is the evolutionary origin of the coordination cost gradient.
+
+The cache has two independent properties even at the primate scale: how much validated history exists, and whether that history still applies to present conditions. A coalition partner who has repeatedly maintained loyalty under pressure becomes a lower-cost coordination target in future conflicts because the prior validation events reduced uncertainty about future behavior. But a troop that has cached successful coordination patterns for one ecological environment does not automatically hold valid patterns for a different one. The cache depends both on the amount of validated history and on whether that history still applies to present conditions. A coalition whose hierarchy formed under resource abundance and that attempts to enforce the same cached dynamics during scarcity is applying coordination assumptions to conditions that no longer validate them. That is Trust Debt at the biological level. Section 4 develops this two-axis structure formally. The primate substrate already carries it.
+
+Betrayal carries disproportionate biological impact in highly social organisms for this reason. Betrayal does not merely damage a single interaction. It destroys cached coordination history. The organism must either rebuild validation from scratch or absorb permanently elevated uncertainty around future coordination with that actor. The coordination cost returns sharply and often catastrophically.
+
+When the cache is accurate, the compression is efficient. When actors are extending the coordination discount to parties who have not validated their commitments, or to validations that no longer apply to present conditions, the system is operating on Trust Debt. This dynamic is biological before it is institutional.
+
+---
+
+### The Abstraction Problem
+
+The primate Trust system was built for face-to-face coordination within groups where validation events were directly observable. Human symbolic coordination extended the reach of Trust across distances, time horizons, and population scales that direct observation cannot span. Each extension solved a scaling problem. Each extension also widened the gap between the original validation event and the actor who must rely on its record.
+
+The moment coordination extends across large populations, long time horizons, and anonymous exchange networks, direct observation ceases to scale. A merchant accepting currency does not personally validate every prior exchange supporting its legitimacy. A citizen obeying law does not directly observe every institutional process preserving legal continuity. Modern civilization functions primarily through inherited validation chains transmitted symbolically rather than personally observed.
+
+Every major institutional form in human history is an attempt to re-close the gap that abstraction opens. The credit letter extended Trust across geographic distance by transmitting validated reputation through symbolic record. The legal contract preserved agreements in durable form connected to enforcement pathways. The reputation system compressed validation history into accessible public signals. The cryptographic protocol automated the Validation term so it cannot be subverted by narrative alone. A legal contract is an attempt to formalize the Agreement term so it persists beyond the memory of the participants. A cryptographic protocol is an attempt to make the Validation term tamper-resistant by construction.
+
+The pattern repeats continuously because the underlying problem remains identical. Abstraction increases coordination scale while simultaneously weakening direct validation visibility.
+
+When symbolic systems remain tightly coupled to genuine behavioral consequence, coordination costs fall dramatically. Trade expands, institutions stabilize, and long-range cooperation becomes possible because participants safely inherit validated assumptions they did not personally produce. When symbolic systems drift away from genuine validation, abstraction becomes dangerous. Reputation detaches from behavior. Institutions preserve procedural appearance while losing functional reliability. The abstraction layer begins manufacturing performed validation faster than genuine validation can replace it.
+
+At that point, coordination costs rise. Networks fragment toward smaller groups where validation remains directly observable. The system falls back toward lower-scale coordination because the abstraction layer no longer successfully compresses uncertainty. This regression is not irrational. It is the biological Trust system responding to degraded Provenance reliability.
+
+---
+
+The coordination cost gradient is the Tribal field's operating mechanism. Section 4 develops its full mechanics.
