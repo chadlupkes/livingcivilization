@@ -552,3 +552,89 @@ Cultural distortion is especially dangerous because meaning systems mediate perc
 Trust appears differently across all six fields because each field anchors Commitment to a different dimension of reality. Spatial systems anchor place. Temporal systems anchor sequence. Tribal systems anchor behavioral reliability. Jurisdictional systems anchor consequence. Economic systems anchor value. Cultural systems anchor meaning. The distortions differ. The geometry does not. Each field fails when Validation and applicability drift apart while inherited coordination discounts continue being extended as though the underlying assumptions still hold.
 
 Section 6 returns to the four-pillar cycle and shows where Trust fits as the closing joint that converts validated coordination history into the stable foundation on which Capital, Information, and Innovation can build.
+
+## Section 6: Trust in the Pillar Feedback Cycle
+
+The four pillars form a closed generative loop. The direction matters: Capital → Innovation → Information → Trust → Capital.
+
+Each pillar's output is the substrate the next pillar requires to function. Without Trust, every cycle begins from zero.
+
+---
+
+### The Closed Generative Loop
+
+Capital provides the material capacity required for coordinated Work to occur. Innovation transforms Work into adaptive Solutions capable of responding to changing conditions. Information validates whether those Solutions actually correspond to reality. Trust converts validated history into reliable Commitment that can propagate through coordination networks without requiring continuous re-verification. That reduced coordination cost then allows Capital formation to occur at larger scale and lower friction, restarting the cycle at a higher level of complexity.
+
+The four-pillar dependency is not merely sequential. Each pillar's output is what makes the next pillar's function possible, and each pillar constrains the others from drifting into performed rather than genuine coordination. The loop is therefore simultaneously generative and corrective. It produces new civilizational capacity while continuously testing whether the assumptions supporting that capacity still remain valid.
+
+Work without adaptive Solutions becomes brittle and eventually collapses under changing conditions. Solutions without reliable Proof cannot scale because actors cannot distinguish functional adaptation from noise. Proof without Commitment cannot propagate because validated knowledge that cannot travel through coordination networks remains locally trapped. Commitment without Work eventually consumes the material substrate sustaining it and collapses into symbolic debt. The cycle closes at Trust because validated coordination history is what allows the outputs of prior cycles to become reusable infrastructure rather than isolated events.
+
+---
+
+### The Stability Triangle
+
+Three of the four pillars combine to determine how much error a system can tolerate before it loses coherence. These are three independent variables, not three descriptions of the same thing.
+
+Trust sets the coordination cost floor. When Trust is strong, actors can coordinate on cached validation without continuous re-verification, lowering the minimum cost of any coordinated action and leaving productive slack available for use.
+
+Slack is the surplus capacity left over after coordination costs are paid.
+
+Innovation determines the rate of slack consumption. Every adaptive process requires experimentation under uncertainty. Some experiments fail. The pace and scale of that experimentation draws down the available slack.
+
+Information determines the detection latency of misuse. When the verification infrastructure functions well, errors surface before their consequences compound. When detection latency is long, misuse accumulates invisibly and corrective calibration arrives only after the damage has propagated.
+
+The stability condition is that these three rates remain compatible. Detection must be fast enough relative to consumption. Consumption must be bounded by what the floor can support. The floor must remain low enough that slack is actually available. When Trust is weak, the floor rises and slack thins, leaving the system little tolerance for Innovation's consumption. When Information latency is long, misuse compounds before correction occurs. A civilization with weak Trust, high Innovation pressure, and slow Information correction faces accelerating instability. The system simultaneously increases adaptation pressure while reducing its capacity to safely metabolize adaptation.
+
+This is a stability condition, not a description of equilibrium. The system is continuously generating slack, consuming it, and surfacing the consequences of misuse, with each pillar contributing a distinct rate.
+
+---
+
+### Four Constraints
+
+Each pillar provides one irreducible constraint on whether any given coordination event has actually been validated.
+
+Capital imposes the existence constraint. Did the agreement actually express as Work under present material conditions?
+
+Information imposes the truth constraint. Does the Provenance record correspond accurately to reality?
+
+Innovation imposes the boundary constraint. Does the agreement still hold at the edges of its validation envelope?
+
+Trust imposes the continuity constraint. Does the agreement hold over time and under varying stakes?
+
+These are not stages a validation event passes through. They are independent dimensions along which coordination can fail. A bridge may materially exist while the engineering assumptions describing its stress tolerances are false: the existence constraint holds, the truth constraint fails. A scientific model may accurately describe present conditions while failing outside the range where testing occurred: the truth constraint holds, the boundary constraint fails. A technology may function correctly under test conditions while the organizations deploying it cannot maintain reliable operational behavior around it over time: boundary and truth hold, continuity fails. A financial institution may possess genuine social Trust while the underlying productive activity it claims to represent no longer materially exists: continuity holds, existence fails.
+
+No pillar can see all four dimensions simultaneously from within its own geometry. The pillars therefore function as reciprocal blindness constraints. Each prevents the others from mistaking local validation for global coherence. A pillar that attempts to certify its own validation without the others' constraints will produce false confidence precisely on the dimension it cannot observe.
+
+This is why the loop is irreducible.
+
+---
+
+### The Degradation Cascade
+
+When Commitment fails, the other pillars lose the cached coordination assumptions on which their efficiency depends. Section 1 previewed this cascade in compressed form. The structural argument in full:
+
+Capital degrades first. Investment depends on predictable agreements and confidence that future obligations will remain binding. When Commitment becomes unreliable, enforcement overhead rises. Actors divert productive capacity into monitoring, litigation, redundancy, and defensive positioning. The energy previously available for Work is consumed by coordination maintenance. Capital formation slows because the system must continuously pay verification costs that high-Trust environments cache automatically.
+
+Information then becomes adversarial. A low-Trust environment transforms every claim into a potential manipulation attempt. Verification costs spike because actors can no longer safely inherit assumptions from the Provenance record. Proof degrades into noise because participants no longer share enough baseline Trust to distinguish genuine signal from strategic signaling without exhausting coordination resources in the process. As Information reliability degrades, actors become even less willing to extend Trust assumptions, which further increases verification cost. The failure feeds itself.
+
+Innovation collapses next. Genuine experimentation requires sustained honest iteration across failed attempts. When Commitment fails, the incentives surrounding experimentation change. Actors optimize for appearing adaptive rather than being adaptive because performed innovation becomes safer than genuine experimentation under adversarial conditions. Institutions prioritize visibility over applicability. Metrics substitute for learning. The innovation surface transforms into theater.
+
+The degradation cascade is not moralistic. It is geometric. When Trust fails, the other pillars lose access to cached coordination and must operate at full verification cost on every interaction. More energy is consumed maintaining coherence. Less remains available for productive Work, truthful Measurement, and adaptive experimentation.
+
+Civilizational stagnation is therefore often a coordination problem before it becomes a resource problem.
+
+---
+
+### Trust's Closing Role
+
+Trust performs a function no other pillar can perform: it converts validated history into reliable forward prediction without requiring continuous re-verification. That conversion is what allows civilizations to compound.
+
+No actor personally revalidates the full Provenance chain supporting modern coordination systems. The cost would be impossible. Trust compresses that cost. When the compression remains applicable, coordination accelerates because actors can safely build on validated assumptions produced by others across previous cycles. When Trust fails, the inherited compression unravels. The system must reopen assumptions that had become invisible infrastructure. Every interaction once again requires direct inspection rather than inherited confidence.
+
+Capital creates capacity. Innovation explores possibility. Information validates reality. Trust determines whether the resulting validated patterns can survive long enough to become reusable civilizational structure.
+
+Without that closure mechanism, the loop continues, but at escalating cost. It can sustain isolated coordination events, but it can no longer compound them.
+
+---
+
+Section 7 develops the participant-level mechanisms that keep the pathway from observation to consequence open so that the closure condition can be maintained at scale. Those mechanisms are the four rights.
