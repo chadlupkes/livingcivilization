@@ -638,3 +638,125 @@ Without that closure mechanism, the loop continues, but at escalating cost. It c
 ---
 
 Section 7 develops the participant-level mechanisms that keep the pathway from observation to consequence open so that the closure condition can be maintained at scale. Those mechanisms are the four rights.
+
+## Section 7: The Four-Right Dependency Chain
+
+The four rights are not independent political preferences or separately derived liberties. They are four projections of a single civilizational invariant, each expressed in the native language of its pillar.
+
+A civilization must remain able to perceive reality, preserve agency, adapt under change, and compound capacity across time without hidden extraction.
+
+Each pillar expresses this invariant as the closing of a specific gap. Capital expresses it as the closing of the temporal extraction gap: preserve and compound real slack, do not allow productive capacity to be borrowed from futures that have not yet been earned. Information expresses it as the closing of the speculation gap: ground claims in verified present reality so that coordination does not build on unverified assertions. Innovation expresses it as the closing of the embodiment gap: ensure that solutions are absorbed before the next wave, so that experimentation compounds rather than replaces itself. Trust expresses it as the closing of the commitment gap: ensure that Commitments compound from verified capacity rather than accumulating as debt against futures that Validation has not yet earned.
+
+The invariant they each express, stated at its most compressed: know what we have, and know what we can do with it without destroying the foundations that make future coordination possible.
+
+---
+
+### The Defensive and Constructive Forms
+
+Each right carries both a defensive and a constructive form. The defensive form is where the immediate failure mode appears. The constructive form is what makes a healthy civilization possible. All four are bidirectional.
+
+| Right | Pillar | Defensive Form | Constructive Form |
+|---|---|---|---|
+| Exit | Capital | I am not trapped | I retain adaptive optionality |
+| Verify | Information | I am not deceived | I can orient to reality |
+| Fork | Innovation | I am not stuck | I can evolve alternatives |
+| Sustain | Trust | My foundations are not invisibly degraded | I can compound capacity across time |
+
+Civilizations often preserve the defensive shell of a right while quietly suppressing its constructive form. A population may formally possess the right to speak while lacking meaningful access to reliable verification infrastructure. Exit may exist legally while material dependence makes departure operationally impossible. Forking may technically remain permitted while capital concentration prevents new institutional pathways from surviving long enough to validate themselves. Sustain may exist rhetorically while extraction remains structurally embedded in the incentive architecture of the civilization itself. The rights are therefore not symbolic declarations. They are operational guarantees that the corresponding civilizational capacities remain materially possible.
+
+---
+
+The first three rights were each derived in full within their home pillar chapters: Exit from the failure modes of Capital, Verify from the failure modes of Information, and Fork from the failure modes of Innovation. They appear here as structural references rather than redevelopments. The Right to Sustain receives its full structural development in this chapter because Trust is its home pillar and this is where it emerges from the equation.
+
+### The Developmental Dependency Sequence
+
+The four rights form a developmental sequence. The order is not arbitrary. Each level depends on what the prior level has established.
+
+Exit establishes survival autonomy. The first question any participant must be able to answer is whether they can leave a coordination arrangement that has failed them. Without Exit, every subsequent right is exercised under the shadow of coercion: a participant who cannot leave cannot choose freely. Compliance can be coerced. Commitment cannot. Exit establishes consequence: coordination arrangements must face the competitive pressure of participants who can withdraw. Without that pressure, there is no mechanism for failing systems to experience the costs they impose on those they serve.
+
+Verify establishes epistemic autonomy. Without Verify, Exit and Fork are exercised blind: a participant who cannot orient to reality cannot evaluate whether an exit is necessary or where a fork should lead. Exit requires knowing when to leave. Fork requires knowing where to go. Both require the capacity to see what is actually happening rather than inheriting others' representations of it. Verify establishes visibility: the participant can observe the coordination system they are navigating rather than depending on the narrations of those who benefit from particular interpretations.
+
+Fork establishes evolutionary autonomy. Without Fork, exit produces fragmentation rather than adaptation: the participant can leave but carries nothing forward that addresses the failure they are leaving. Fork establishes possibility: the space of alternatives is open, buildable, and testable rather than closed by the architecture of the current system. A civilization able to perceive breakdown and capable of leaving failing structures but unable to generate genuine alternatives is in a more dangerous position than a civilization in early-stage ignorance: it has visibility without capacity.
+
+Sustain establishes civilizational autonomy. Without Sustain, the adaptive capacity that Exit, Verify, and Fork preserve cannot accumulate into durable coordination infrastructure. Sustain establishes continuity: the capacity that has been built does not quietly erode underneath the systems that depend on it. Exit lets you leave. Verify lets you see. Fork lets you try differently. Sustain is what makes the trying compound rather than dissipate.
+
+The dependency chain is developmental moving forward. It is operationally reversed moving backward.
+
+A civilization may declare sustainability goals symbolically while suppressing Forkability in practice. The result is not sustainability but enforced continuity: existing systems preserve themselves by blocking adaptive alternatives capable of exposing their extraction patterns. A civilization may preserve adaptive experimentation while suppressing Verify. The result is innovation theater: systems generate endless variation disconnected from reliable Calibration against reality. A civilization may preserve visibility while suppressing Exit. The result is transparent coercion: participants correctly perceive extraction while remaining materially incapable of refusing it.
+
+The rights form a dependency chain rather than a list of independent protections. Later rights collapse operationally when earlier rights degrade beneath the threshold required to sustain them.
+
+Operationally, the dependency reverses: Verify first, Exit second, Fork third, because a participant must first perceive extraction, then retain the capacity to withdraw from it, before alternative coordination systems can successfully emerge.
+
+---
+
+### The Right to Exit
+
+Exit is the structural property of wealth-based Capital systems that lets participants leave coordination arrangements that have failed them. Exit establishes consequence: a system that cannot lose participants cannot be held to account by them, and without that accountability pressure, no competitive incentive exists to serve participants rather than extract from them.
+
+---
+
+### The Right to Verify
+
+Verify is the structural property of wealth-based Information systems that gives any actor who depends on Proof for coordination access to the verification processes that produce it. Verify establishes visibility: without visibility, all four rights operate blind, because Exit requires knowing when to leave and Fork requires knowing where to go.
+
+---
+
+### The Right to Fork
+
+Fork is the structural property of wealth-based Innovation systems that allows any participant to copy, modify, and redeploy the solutions, protocols, and governance structures of their current coordination system. Fork establishes possibility: Exit without Fork produces fragmentation, and Fork without Exit produces suppression of the alternatives generated, so both must function for evolutionary autonomy to be real.
+
+---
+
+### The Right to Sustain
+
+Sustain is the participant's power to enter, build, or fork into coordination protocols that encode regenerative constraints on shared capital, including natural, public, and human capital, as invariant rules of the system rather than policies delegated to authority.
+
+Verification stops lying. It does not stop ruin. The Right to Verify gives participants the ability to see that foundations are being eroded. It does not give them the structural capacity to prevent the erosion from within the system's own architecture. Sustain closes that gap.
+
+The distinction between invariant rules and delegated policies matters structurally. A policy can be revised, suspended, or selectively enforced by whoever holds authority at a given moment. An invariant rule is encoded in the architecture: it applies regardless of who holds positions, and the system cannot function without it. The Right to Sustain is not the right to demand that those in authority make better policies. It is the right to build and participate in systems where the regenerative constraints are architectural rather than administrative.
+
+What the Right to Sustain protects is not a particular definition of what should be sustained. This is the forkability refinement that prevents the right from collapsing into ideology. Any definition of what counts as regenerative is itself contestable, improvable, and subject to the changing understanding of what shared capital systems actually require. What the Right to Sustain protects is the conditions under which competing definitions remain visible, testable, attributable, and forkable: the structural guarantee that no single definition of what should be sustained can be imposed as the only permissible one.
+
+Visible means participants can inspect actual consequences rather than rely on narrative claims alone. Testable means alternative sustainability models can operate under real conditions rather than remain permanently theoretical. Attributable means the relationship between decisions and consequences remains legible across time. Forkable means participants retain the ability to build alternative coordination pathways when existing systems become extractive.
+
+The framework does not decide what must be sustained. It decides that degradation cannot be hidden, externalized, or imposed without consequence on those who cannot meaningfully opt out. The transition is from shared truth to shared accountability under disagreement.
+
+---
+
+### Substrate-Based Community
+
+The Right to Sustain requires a structural redefinition of community. The community within which Sustain applies is not defined by political borders or cultural identity. It is defined by shared consequence coupling.
+
+A watershed illustrates the structural claim. Populations distributed across multiple political jurisdictions may constitute a single sustainability community if they depend on the same water system. Pollution introduced upstream alters downstream agricultural viability, public health, and ecological stability regardless of political affiliation. The consequence structure ignores the symbolic border because the substrate coupling remains continuous. You can fork institutions. You cannot fork the watershed.
+
+The same principle applies wherever consequences are physically coupled: aquifers, atmospheric systems, energy grids, supply chains, shared digital infrastructure. Wherever shared consequences exist without voluntary mediation, a shared governance domain exists, regardless of what the map says. Civilization is a multi-species coordination system sharing coupled capital substrates across time. The Right to Sustain applies wherever that coupling applies.
+
+Fork has a domain boundary. Fork works for meaning systems, cultural systems, organizational architectures, and governance protocols. Fork breaks down when one protocol's actions alter another protocol's operating substrate without that substrate being partitionable. The shared capital cannot be forked. The resolution is not procedural but geometric: the community is defined by the scope of the consequence coupling, not by the preferences of any party within it.
+
+---
+
+### Purpose Drift as the Directional Violation
+
+The four rights operating individually in their defensive forms catch most of the ways a coordination system can fail its participants: trapping, deception, suppression of alternatives, and visible erosion of foundations. But they do not individually catch the orthogonal failure mode.
+
+Purpose drift is the condition in which the Trust equation runs correctly on all its terms while Commitment is being applied to a different Purpose than the one under which Validation was established. Valid Agreements, genuine Validation, real Commitment: all three terms in the equation are functioning. And yet the vector of the Commitment has been redirected. No imbalance appears in the equation. No single right, operating defensively, catches this.
+
+The civilization inherits genuine Trust generated under previous Purpose alignment and spends that inherited coordination surplus accelerating trajectories no longer grounded in regenerative continuity. Institutions become more efficient while simultaneously consuming the substrate on which their own future legitimacy depends. The equation runs. The vector has been redirected.
+
+Catching Purpose drift requires all four rights operating as an integrated system with their constructive forms active.
+
+Verify, constructively active: the participant detects that the system is producing outcomes different from what the original Validation established. This requires more than the absence of deception. It requires active orientation to reality: the capacity to compare current outputs to validated expectations and notice the divergence.
+
+Exit, constructively active: the participant retains adaptive optionality in response to the detected divergence. They are not compelled to remain in coordination arrangements whose Purpose has drifted from the one they Validated.
+
+Fork, constructively active: the participant can generate alternatives oriented to the original or deliberately revalidated Purpose rather than simply departing the drifted system.
+
+Sustain, constructively active: the participant can build or enter coordination protocols that encode the regenerative constraints the original Purpose required as invariant rules, ensuring that the Purpose alignment they build cannot itself be administratively drifted.
+
+The defensive forms protect against violations that are visible as violations. The constructive forms enable detection of the violation that produces no visible signal in any single equation: the redirection of a functioning system toward a Purpose its participants did not validate. The four rights are the participant-level expression of the system's capacity to maintain its own Purpose integrity.
+
+---
+
+Section 8 examines the measurable signal Trust Debt produces. The commitment gap is the Trust pillar's diagnostic, and it measures not the presence of error but the distance between declared Commitment and Commitment that survives real Validation over time.
+
