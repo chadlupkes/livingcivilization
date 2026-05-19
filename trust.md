@@ -760,3 +760,135 @@ The defensive forms protect against violations that are visible as violations. T
 
 Section 8 examines the measurable signal Trust Debt produces. The commitment gap is the Trust pillar's diagnostic, and it measures not the presence of error but the distance between declared Commitment and Commitment that survives real Validation over time.
 
+## Section 8: The Diagnostic Signal — The Commitment Gap
+
+A Trust system measures not belief, but the distance between declared Commitment and validated behavior across time, then feeds that distance back into future Commitments.
+
+Each pillar produces a characteristic diagnostic signal when its capstone requirement is being violated. Capital's signal is contracting slack: the gap between what productive capacity should be generating and what it actually generates after coordination overhead consumes it. Information's signal is a widening speculation gap. Innovation's signal is a widening integration gap. Trust's signal is the widening commitment gap. All four are structural opacity measures. They do not tell you that failure happened. They tell you how much hidden distance exists between the stated coordination assumptions and the substrate conditions required to sustain them.
+
+| Pillar | Capstone Violation | Diagnostic Signal | Cultural Signature |
+|---|---|---|---|
+| Capital | No Temporal Extraction | Contracting slack | Maintenance deferred, infrastructure hollowed |
+| Information | Present from Verified Past | Widening speculation gap | Authority replacing process, narrative replacing evidence |
+| Innovation | No Innovation Debt | Widening integration gap | Solutions accumulate without absorption |
+| Trust | No Trust Debt | Widening commitment gap | Blame replaces explanation |
+
+---
+
+### What the Gap Is and Is Not
+
+The commitment gap is the distance between declared Commitment and Commitment that survives real Validation over time, under consequence, and across changing conditions. It is not a failure rate. It is not a count of broken promises. It is a structural opacity measure: the degree to which a coordination system's visible commitments can still be treated as reliable predictive infrastructure.
+
+Systems with high experimentation rates may produce many visible failures while remaining highly trustworthy if Calibration occurs rapidly and applicability assumptions stay current. The frequency of visible failure is not the signal. The signal is the hidden distance between what is declared and what would hold if the declaration were tested under conditions it has not yet encountered.
+
+This distinction matters because opacity is the mechanism through which Trust Debt accumulates invisibly. A system with zero recorded commitment failures may have an enormous commitment gap if none of its commitments have been tested under conditions that would expose the gap. A system with frequent visible commitment failures and rapid correction may have a small commitment gap precisely because the testing is occurring and the gaps are closing.
+
+The gap is not visible in normal operation. It becomes visible when conditions change enough that the untested distance between declaration and reality is forced into the open simultaneously across many actors. The bank-run signature from Section 4 is the commitment gap becoming visible all at once.
+
+One further marker: systems loudly emphasizing their own reliability are often compensating for degraded predictive trust by increasing symbolic declarations faster than genuine Validation can regenerate applicability. Public confidence assertions are not evidence of a narrow commitment gap. They are sometimes evidence of the opposite.
+
+---
+
+### The Three-Gap Taxonomy
+
+The commitment gap as a single measure obscures three structurally distinct failure modes, each corresponding to a different phase of the Möbius validation lifecycle. Conflating them produces confused diagnosis and ineffective reform.
+
+The support gap appears at the Declaration and Activation stages. It is the distance between what participants declare they support and the conditions under which that support would actually hold. Actors state their commitments sincerely in the sense that they believe them to be true. The gap exists not because they are misrepresenting their intentions but because the Declaration has never been exposed to the conditions under which it would be tested. A political coalition that commits to a policy without modeling what would happen to that commitment under adverse economic conditions is carrying a support gap. The validation substrate required to sustain the commitment under real conditions is insufficient or missing beneath the declaration.
+
+The commitment gap proper appears at the Activation and Measurement stages. It is the distance between declared Commitment and Commitment that survives real Validation under real stakes. The system genuinely attempts activation. The failure emerges because the behavioral continuity implied by the Commitment does not survive validation once conditions change or stakes become real. A supply chain partnership that honors agreements under favorable conditions but breaks under the first supply shock demonstrates the commitment gap precisely: the declaration was genuine, the Validation envelope was not wide enough. This is the primary diagnostic signal for Trust Debt accumulation.
+
+The calibration gap appears at the Calibration stage and the return to the next Declaration. It is the distance between what the system claims to be measuring and what it is actually measuring. The system may correctly observe failure while remaining structurally incapable of incorporating the resulting signal into future Declarations. An organization that collects performance data but whose leadership remains unchanged despite consistent underperformance against declared goals is accumulating a calibration gap. Measurement occurs. Calibration does not complete. Each subsequent cycle begins from a distorted starting point.
+
+| Gap | Möbius Stage | Failure Mode | Typical Wrong Intervention |
+|---|---|---|---|
+| Support | Declaration, Activation | Activating wrong agreements | "Demand better promises" |
+| Commitment | Measurement | Delivery shortfall | "Increase participation thresholds" |
+| Calibration | Calibration, return to Declaration | No learning from results | "Improve metrics without changing incentives" |
+
+Increasing participation thresholds for Commitment addresses entry criteria rather than delivery failures: it selects for actors willing to make higher declarations without addressing whether those declarations survive Validation.
+
+The three gaps also compound recursively. A widening support gap eventually widens the commitment gap because unsupported commitments predictably fail under Validation. A widening commitment gap eventually widens the calibration gap because repeated visible failures create institutional pressure to suppress or reinterpret Measurement rather than revise assumptions. A widening calibration gap feeds back into larger support and commitment gaps because outdated assumptions continue generating increasingly inapplicable Declarations. Trust Debt accelerates once all three gaps begin reinforcing one another simultaneously.
+
+---
+
+### The Möbius Lifecycle Applied to Measurement
+
+Section 4 established the Möbius lifecycle: Declaration → Activation → Measurement → Calibration → next Declaration. Applied to the commitment gap, the lifecycle reveals how the gap accumulates across cycles if it is not measured and closed.
+
+At Declaration, the support gap is set. The breadth and depth of stated commitments establishes the starting surface. A Declaration that exceeds what genuine Validation would support begins the cycle already carrying hidden debt.
+
+At Activation, the commitment gap proper becomes visible, but only to actors present at the testing.
+
+The gap only becomes observable where Commitment encounters conditions capable of producing falsifiable outcomes.
+
+A financial institution claiming solvency without exposure to liquidity stress has not yet entered meaningful Measurement. A political institution claiming legitimacy while indefinitely avoiding accountability pathways has not yet entered meaningful Measurement. An organization claiming innovation capacity while suppressing the visibility of failed experiments has not yet entered meaningful Measurement. The gap only becomes observable where commitment encounters conditions capable of producing falsifiable outcomes.
+
+At Measurement, the commitment gap is recorded. The Provenance record captures whether the divergence between declared and actual behavior enters the system. The calibration gap becomes relevant here: if Measurement is biased or incomplete, the Calibration that follows produces predictions that do not correspond to validated reality.
+
+At Calibration, the prediction model is updated. If Measurement was accurate, Calibration closes the commitment gap by producing a more accurate Declaration for the next cycle. If the calibration gap is wide, Calibration compounds the inaccuracy: the next Declaration is made from a distorted model, producing a new support gap that exceeds even the prior cycle's.
+
+The lifecycle compounds gaps if they are not measured and closed. It compounds closed gaps into reduced coordination cost if they are. The direction of compounding is determined by whether the measurement and calibration stages function honestly.
+
+---
+
+### Bounded Evaluation Windows in the Measurement Context
+
+The commitment gap cannot be measured if the Measurement stage never occurs. Section 4 introduced Bounded Evaluation Windows as the structural response to the lifecycle's vulnerability to indefinite deferral. Their diagnostic role becomes fully visible in the measurement context.
+
+Without temporal boundaries, the commitment gap remains invisible as debt because unresolved assumptions remain perpetually extendable through narrative maintenance. Actors can always claim that validation remains pending somewhere in the future. Debt systems exploit this by borrowing future validation capacity into present coordination assumptions while postponing the Measurement stage that would expose the divergence.
+
+Bounded Evaluation Windows solve this by forcing commitments into observable resolution states within predefined temporal constraints. The critical property is not the specific duration of the window. It is the impossibility of indefinite extension without explicit renegotiation of the agreement surface itself. A commitment that cannot be extended without reopening the Declaration stage must be measured. The gap must be calculated, even if inconveniently large, before the next cycle begins.
+
+Without Bounded Evaluation Windows, the chapter's capstone requirement of No Trust Debt is unenforceable in time. Actors can sustain the appearance of non-debt status indefinitely by deferring the moment when declared Commitment must be compared against observed behavior.
+
+The cross-pillar equivalents operate on the same mechanism. Bond maturity dates force Capital's Measurement stage. Replication requirements force Information's Measurement stage. Iteration deadlines force Innovation's Measurement stage. Evaluation windows force Trust's Measurement stage. Systems that routinely request window extensions are structurally signaling that their gap calculation is expected to be unfavorable. Genuine Measurement requires visibility infrastructure, which is exactly what debt systems progressively redirect toward narrative maintenance rather than evaluation.
+
+---
+
+### Two Temporal Violations and One Directional Violation
+
+The commitment gap accumulates through three distinct violation modes: two temporal, one orthogonal to the temporal axis.
+
+Forward projection is the temporal violation in the Declaration direction. An agreement is treated as validated before the Activation stage has produced observable outcomes. Commitment is borrowed from futures that have not yet been tested. The declared state of Commitment exceeds what the Validation record actually supports. The support gap is being treated as if it were already closed.
+
+Backward persistence is the temporal violation in the Calibration direction. Past Validation is treated as still applicable when conditions have changed enough that the prior testing no longer predicts current behavior. The commitment gap accumulates silently as the Provenance record's applicability decays without triggering a new Activation cycle. The stated commitment remains unchanged while the behavioral reality drifts.
+
+Purpose drift is the directional violation, orthogonal to both temporal axes. The Agreements × Validation → Commitment equation runs correctly on all terms. Valid Agreements, genuine Validation, real Commitment. The equation still runs. The vector changes. Commitment is being applied to a different Purpose than the one under which Validation was established, without revalidation by those whose commitments are affected. What is borrowed is legitimacy, not validation. No imbalance appears in any single equation. No commitment gap is detectable through temporal measurement alone. This is why Purpose drift requires the four rights operating as an integrated system with their constructive forms active, as Section 7 established.
+
+---
+
+### Trust Debt Propagates into Capital Debt
+
+When the commitment gap widens, actors begin discounting the value of new agreements before those agreements have been tested. The discount precedes the failure. Investment requires commitment, and commitments that have lost their predictive reliability cannot anchor investment.
+
+This is how Trust Debt propagates into Capital Debt. As the commitment gap widens, the enforcement overhead required to sustain any given level of coordination rises. Resources previously available for productive Work are redirected toward monitoring, verification redundancy, legal hedging, and defensive positioning. Capital's contracting slack begins to widen: the gap between what productive capacity could generate and what it actually generates after coordination overhead consumes it.
+
+The cascade is recursive. Contracting slack further widens the commitment gap because stressed systems become more likely to defer Calibration, preserve symbolic continuity artificially, and consume inherited Trust rather than regenerate applicable Validation. Actors observing the cascade interpret it as a resource problem when it is actually a coordination problem. The commitment gap is what is contracting the productive capacity, but the visible signal is that Work is becoming more expensive and less reliable.
+
+The cross-pillar debt pattern is now complete. Capital borrows future resources. Information borrows unverified meaning. Innovation borrows unintegrated consequences. Trust borrows future loyalty. The substrate changes. The constraint does not.
+
+---
+
+### The Cultural Signature
+
+The commitment gap does not appear as a gap to participants inside the system experiencing it. It appears as a distribution of failures that seem to originate with individuals. The cultural response is to attribute each instance of visible failure to the personal shortcoming of the specific actor whose Commitment broke at that moment.
+
+Blame replaces explanation. Blame is epistemically cheaper than explanation under degraded Trust conditions because explanation requires shared confidence that surfacing contradiction will improve coordination rather than merely redistribute vulnerability. Where calibration pathways are weak, exposing failure becomes dangerous. Actors shift from collaborative diagnosis toward defensive attribution. Who failed becomes more important than what failed.
+
+This narrows the Measurement surface. Systems increasingly personalize contradiction instead of examining structural applicability drift. Participants optimize for avoiding visible association with failure rather than improving the calibration process. Symbolic loyalty signaling increases. Tolerance for ambiguity decreases. The distinction between criticism and betrayal erodes.
+
+Blame is the final refuge of an architecture that has lost the capacity to resolve its own equations.
+
+---
+
+### The Trust Health Metric Restated
+
+Trust is not the absence of error. It is the speed at which error becomes visible and correctable.
+
+Restated in the measurement context: a healthy Trust system is not one with zero commitment gap. It is one where the gap is continuously visible across the support, commitment, and calibration dimensions, where the gap feeds back into improved Declarations, and where actors whose Commitments are affected retain access to the validation pathways that generate the gap signal.
+
+The decisive variable is not how often error occurs. The decisive variable is whether the civilization remains capable of converting observed contradiction into updated coordination assumptions before debt compounds beyond recovery. A system capable of rapidly surfacing and correcting failed Commitments may appear unstable from the outside precisely because the diagnostic pathways are functioning. A system preserving apparent stability by suppressing those pathways is accumulating Trust Debt regardless of how stable it appears.
+
+---
+
+Section 9 derives the seven requirements that any Trust infrastructure must satisfy by construction. Each requirement blocks one specific dimension along which the commitment gap can widen invisibly. The requirements are not a list. They are the minimum constraints that keep the gap measurable and correctable.
