@@ -892,3 +892,176 @@ The decisive variable is not how often error occurs. The decisive variable is wh
 ---
 
 Section 9 derives the seven requirements that any Trust infrastructure must satisfy by construction. Each requirement blocks one specific dimension along which the commitment gap can widen invisibly. The requirements are not a list. They are the minimum constraints that keep the gap measurable and correctable.
+
+## Section 9: The Seven Requirements
+
+The seven requirements of the Trust pillar are not designed. They are derived.
+
+Each requirement blocks a specific pathway through which the commitment gap can widen invisibly. Remove the pathway and the corresponding requirement becomes unnecessary. Preserve the pathway and the requirement emerges automatically. The Trust system is not built from requirements. It is built from dimensions of possible failure. The requirements are the minimum constraints that block each dimension. This is why the number converges, why it maps to geometry, and why the same pattern appears across all four pillars.
+
+The derivation structure is 6 = 1 + 1 + 4, plus one capstone.
+
+One raw substrate axis: Provenance itself, before Purpose activates it. The Provenance dimension exists beneath all four field activations. If the record is corrupted at the substrate level, every field-level test that follows inherits the corruption. Provenance must be probed directly rather than inferred from field-level behavior.
+
+One master temporal axis: the Debt versus Wealth dimension, orthogonal to the substrate. This axis cuts across all four fields simultaneously. It asks whether Commitment is being built from verified present positions or borrowed from past or future states that no longer reflect current validated capacity. The temporal axis generates two distinct violation modes: forward projection and backward persistence. Both are temporal. A single requirement must block both.
+
+Four field axes: one per abstract field, corresponding to the four fields that Purpose activates from the substrate. Each field represents an independent dimension along which an agreement can fail to achieve coherent validation. Each field failure requires a distinct blocking requirement because the fields are genuinely orthogonal: a Tribal field failure cannot be repaired by additional Jurisdictional enforcement, and a Cultural field failure cannot be repaired by additional Economic grounding.
+
+The geometry generates the count.
+
+---
+
+### Axis 1: Provenance — Attributable Provenance
+
+The Provenance dimension is the append-only record of what has actually happened. It constrains what can be reasonably claimed about the future by grounding those claims in verified accounts of the past. For Trust specifically, Provenance stores the validation events that establish the behavioral history from which Commitment is derived.
+
+The failure mode on this axis: the validation record is corrupted, falsified, selectively edited, or structurally impossible to attribute to specific actors and events. When this happens, every subsequent test that draws on the record produces results that inherit the corruption. A Jurisdictional enforcement mechanism working from corrupted Provenance enforces a false reality. A Tribal network extending coordination discounts based on corrupted Provenance extends them to actors whose actual validation record would not support them. The damage propagates through all four fields because the substrate beneath all four fields is corrupt.
+
+This is why Provenance is a substrate axis rather than a field axis. Form and Network can be probed through field-level interaction: you can observe actors' behaviors within a field and draw conclusions about the field's health. Provenance must be probed directly, because the record is what all field-level tests draw on. A corrupted record that appears valid under field-level inspection will produce systematically false results.
+
+The requirement that blocks this axis: **Attributable Provenance**. All Commitments must rest on accurate, attributable, tamper-resistant validation history. Every validation event must be linked to the specific actor whose behavior it describes, under the specific conditions in which it was tested, at the specific time it occurred.
+
+Trust cannot compound across invisible history.
+
+---
+
+### Axis 2: Temporal Validity — Temporal Integrity
+
+The master temporal axis is orthogonal to the substrate. It does not correspond to any single field but cuts across all four simultaneously. The failure mode on this axis takes two forms, both temporal violations.
+
+Forward projection: an agreement is treated as validated before the required validation has occurred under present conditions. Commitment is projected into a future that the Validation record does not support. Actors coordinate on the basis of Commitments that have been declared but not earned through genuine Activation and Measurement.
+
+Backward persistence: past Validation is treated as still applicable when conditions have changed enough that the prior testing no longer predicts current behavior. The coordination discount continues to be extended based on a validation record that has decayed in applicability without triggering a new validation cycle.
+
+The problem is not duration itself. Some Validation remains highly predictive across decades. The problem is inherited applicability without recalibration. Systems continue consuming coordination discounts generated under previous conditions while postponing the Activation and Measurement cycles necessary to determine whether the assumptions still hold.
+
+The requirement that blocks this axis: **Temporal Integrity**. Validation must remain applicable to current conditions. Commitments must be periodically re-exposed to real stakes when conditions change. The validation record cannot be extended beyond its tested applicability without a new Activation cycle. This requirement does not mandate that all prior validation be discarded when conditions change. It mandates that the portion of the validation record whose conditions have shifted be re-tested rather than assumed to carry forward unchanged.
+
+---
+
+### Axis 3: Jurisdictional Access — Distributed Validation Pathways
+
+The Jurisdictional field is the enforcement substrate: where Provenance binds to Purpose, where what happened constrains what is permitted, and where Commitments become consequential in ways that persist beyond the original actors. Trust's relationship to the Jurisdictional field turns on whether the validation pathway from observation to consequence remains accessible to those whose Commitments are affected.
+
+The failure mode on this axis: validation pathways are captured, blocked, or rendered inaccessible. This appears in three distinct configurations: Openness failure (the pathway is formally closed), Binding failure (the pathway is open but produces no consequence), and Legibility failure (the pathway exists and binds but is comprehensible only to specialized actors). All three block the whistleblowing triad: truth cannot be visible, speakable, and actionable simultaneously when the validation pathway is captured on any of these three dimensions.
+
+A civilization that loses distributed validation pathways loses the capacity to close its commitment gap, because the actors benefiting from the gap acquire the ability to suppress its measurement.
+
+The requirement that blocks this axis: **Distributed Validation Pathways**. Validation pathways must be open, binding, and legible to those they govern simultaneously. The three constraints are orthogonal: satisfying any one or two while failing the third produces a different but equally dysfunctional system. The structural invariant beneath all functional validation systems is the same: the pathway from observation to consequence must remain accessible even when the observations threaten existing power structures.
+
+A coordination body that formally accepts input from affected participants while structuring its deliberation to insulate enforcement outcomes from those submissions satisfies Openness while failing Binding. Signals enter the system. They do not constrain outcomes. The pathway appears functional. The gap continues widening invisibly.
+
+---
+
+### Axis 4: Tribal Consent — Voluntary Association
+
+The Tribal field is Trust's native field. The failure mode on the Tribal axis is not the absence of Commitment but the presence of Commitment that was coerced rather than validated.
+
+Coerced Commitment is structurally different from genuine Commitment even when the observable behavior is identical. A participant who honors an agreement because the cost of non-compliance is imposed by external constraint will defect the moment the constraint is removed or relaxed. A participant who honors an agreement because the validation record confirms it is worth honoring will continue to honor it under conditions where defection is available. This is the Commitment-versus-compliance distinction established in Section 1. Compelled participation produces performed stability rather than genuine coordination.
+
+The failure mode produces Trust Debt by building a Provenance record of apparent validation events that are actually compliance performances. Compliance masks the widening commitment gap temporarily, but the underlying Validation substrate continues degrading until the bank-run signature appears.
+
+The requirement that blocks this axis: **Voluntary Association**. Participation in any Trust relationship must be consensual. The coordination discount must be earned through genuine agreement, not imposed through power asymmetry or structural coercion. The requirement is deeper than formal legal freedom: Exit that exists symbolically while material dependence makes departure operationally impossible does not preserve voluntary association.
+
+A participant whose credentials are non-portable, whose savings are insufficient to sustain a transition, and whose geographic options are constrained may be formally free to exit a failing coordination relationship while being operationally trapped inside it. The Agreements term in the equation contains no genuine choice. Compliance continues. Commitment cannot.
+
+---
+
+### Axis 5: Cultural Meaning — Shared Validation Standards
+
+The Cultural field is where shared meaning stabilizes: where the interpretive frameworks that make validation events legible to network participants are maintained, evolved, and tested. The failure mode on the Cultural axis is not moral disagreement about values. It is the structural condition in which actors using the same vocabulary to describe their Commitments are operating from incompatible validation standards about what constitutes honoring them.
+
+When this happens, Measurement collapses into narrative competition rather than Calibration against shared reality. Participants continue using shared symbolic language while attaching increasingly incompatible operational meanings to the symbols. Validation pathways remain formally open, but the system loses the capacity to converge on what the Validation process is actually measuring.
+
+Scientific reproducibility standards illustrate the requirement clearly. Competing hypotheses remain possible because the participants share enough methodological agreement to recognize when a claim has or has not survived Validation.
+
+Without Shared Validation Standards, Calibration becomes impossible because no common interpretive substrate remains through which the commitment gap can be measured coherently. The civilization continues communicating symbolically while losing the capacity for collective epistemic correction.
+
+The requirement that blocks this axis: **Shared Validation Standards**. Commitments must be defined and interpreted through shared, invariant validation standards anchored in observable and repeatable interaction with reality. Meaning that cannot be tested cannot be shared. Meaning that cannot be shared cannot coordinate.
+
+When the parties to an agreement define compliance through interpretive frameworks that produce incompatible assessments of the same outcome, the Measurement stage cannot produce a legible signal. Both parties may report honestly by their own standards. Calibration still fails. The commitment gap accumulates not because anyone is lying but because the shared test for what counts as honoring the commitment has fragmented.
+
+---
+
+### Axis 6: Economic Materialization — Material Grounding
+
+The Economic field is where Capital converts productive capacity into Work. Trust's relationship to the Economic field turns on whether Commitments are grounded in verified present material capacity rather than projected future capacity that has not yet been earned.
+
+The failure mode takes two forms. At entry: actors commit without present material capacity. The stake they place at Declaration exceeds the productive base that currently exists to support it. At exit: outcomes are not traceable back to the Commitments that generated them, or the consequences of failure do not fall on the actors responsible.
+
+The problem is not aspiration. Civilizations must project beyond current conditions in order to coordinate complex futures. The problem is when future Commitments are consumed as though the material Validation supporting them already exists.
+
+The requirement that blocks this axis: **Material Grounding**. Two constraints operate simultaneously. At entry: Stake-Backed Commitment. Actors must commit with present verified capacity rather than future projections. At exit: Attributable Yield with consequence. Outcomes must be traceable to the Commitments that produced them, and the actors responsible must face real consequence when outcomes diverge from declarations. You cannot enter without stake. You cannot exit without attribution and consequence.
+
+A long-term obligation system that honors current commitments from present reserves while recording future liabilities at valuations calibrated to demographic and economic assumptions that no longer hold enters each successive commitment cycle with a widening gap between declared capacity and material grounding. The entry side appears sound. The exit attribution is systematically misrepresented. The commitment gap accumulates invisibly until conditions force the recalculation.
+
+---
+
+### The Capstone: No Trust Debt
+
+The seventh requirement is not a seventh axis. It is a constraint that operates across two dimensions simultaneously: the temporal axis and the directional axis. It catches what the six non-capstone requirements individually cannot.
+
+A system can satisfy all six axes while still accumulating Trust Debt through Purpose drift: the Trust equation runs correctly, producing valid Agreements, genuine Validation, and real Commitment, while the Commitment is being applied to a different Purpose than the one under which Validation was established, without revalidation by those whose Commitments are affected. The math is correct. The vector is wrong.
+
+Debt is premature compression of reality. Each pillar produces a different kind of premature compression. Capital compresses future production into present spending. Information compresses uncertainty into certainty. Innovation compresses possibility into deployment. Trust compresses unvalidated assumption into Commitment. The structure is identical. The domain differs.
+
+The critical qualification: controlled, explicit, and visible forms of compression are legitimate. Credit, hypothesis, experimentation, and provisional Trust are not violations. The violation is unbounded or hidden excess.
+
+**No Trust Debt**: Commitment must not exceed validated Agreement, nor deviate from validated Purpose. The first clause catches temporal violations: Commitment that exceeds present validated Agreements is Trust Debt regardless of how genuine the individual validation events were. The second clause catches directional violations: Commitment that serves a Purpose other than the one under which Validation was established is Trust Debt regardless of how current the temporal relationship is.
+
+Trust may only compound from Validation that remains both temporally applicable and directionally aligned with the Purpose under which the Validation originally occurred.
+
+The stress test for the capstone: construct a coordination system that satisfies all six non-capstone requirements while still accumulating Trust Debt. The system's Provenance record is accurate and attributable. Validation is temporally current. Pathways are open, binding, and legible. Participation is genuinely voluntary. Interpretive standards are shared and observable. Commitments are materially grounded at both entry and exit. All six requirements pass. By every non-capstone measure the system is healthy. And yet over time, the Purpose toward which the validated Commitments are being applied has shifted from the one under which the validation was originally established. The shift has occurred without revalidation by those whose Commitments are deployed. The Provenance record accurately reflects what happened. What it does not reflect is that the accumulated Commitment is now serving a different Purpose. No individual equation shows an imbalance. No axis signals a violation. The six requirements are all satisfied locally. Trust Debt is accumulating globally. The capstone catches this because it evaluates not only whether Commitment exceeds the equation's terms but whether the vector of that Commitment remains aligned with the Purpose its participants originally validated. That is why No Trust Debt is not a repetition of the first six requirements. It is the constraint that closes the geometry.
+
+---
+
+### Seven Requirements: Final Form
+
+| # | Requirement | Axis | Failure Mode Blocked |
+|---|---|---|---|
+| 1 | Attributable Provenance | Provenance substrate | Corrupted validation record |
+| 2 | Temporal Integrity | Master temporal | Forward projection and backward persistence |
+| 3 | Distributed Validation Pathways | Jurisdictional field | Pathway capture, closure, or opacity |
+| 4 | Voluntary Association | Tribal field | Coerced participation, compliance substituting for Commitment |
+| 5 | Shared Validation Standards | Cultural field | Incompatible validation frameworks, semantic drift |
+| 6 | Material Grounding | Economic field | Symbolic decoupling at entry or exit |
+| 7 | No Trust Debt | Temporal + directional (capstone) | Remaining temporal violations and Purpose drift |
+
+The requirements are not a list assembled from institutional wisdom or policy preference. They are the minimum constraints that block the six substrate axes along which Trust can fail, plus the two-dimensional capstone that catches what the six individually cannot. A Trust infrastructure that satisfies all seven by construction has no remaining unprotected failure dimension.
+
+The collapse appears sudden. The debt accumulated gradually.
+
+The framework does not guarantee that systems satisfying all seven requirements will succeed. Environments change. Actors fail. Unforeseen pressures emerge. What the seven requirements guarantee is different: that systems satisfying all seven have no unprotected failure dimension through which Trust Debt can accumulate invisibly. A system failing any one of them leaves a specific pathway through which the commitment gap can widen without triggering a visible signal. The requirements do not close the commitment gap. They ensure it cannot hide.
+
+---
+
+### The Cross-Pillar Pattern
+
+The same six-axis derivation structure applies to Capital, Information, and Innovation when their requirements are examined against the substrate. The vocabulary of the requirements differs because each pillar's activation term, native field, and equation produce different specific failure modes. But the dimensional structure is identical: one substrate requirement, one temporal requirement, four field requirements, one capstone.
+
+The full per-axis derivation for each prior pillar belongs to the Part Three revision pass. The Trust chapter establishes that the substrate generates the requirement structure, and that the six-axis derivation in this section is one expression of a universal pattern. The pillars do not share a list of requirements. They share a substrate, and the substrate generates the requirement count.
+
+The cross-pillar pattern is visible in the equation imbalance structure:
+
+| Pillar | Equation | Debt Form | Reality Test |
+|---|---|---|---|
+| Capital | Stock × Velocity → Work | Work > (Stock × Velocity) | Did it actually happen materially? |
+| Information | Data × Verification → Proof | Proof > (Data × Verification) | Was it actually verified? |
+| Innovation | Ideas × Experimentation → Solutions | Solutions > (Ideas × Experimentation) | Was it actually tested? |
+| Trust | Agreements × Validation → Commitment | Commitment > (Agreements × Validation) | Was it actually lived and upheld? |
+
+The invariant across all four: output cannot exceed what the pillar's native reality test has confirmed. The capstone requirements are four expressions of one structural constraint, stated in four different pillar-native vocabularies. No Temporal Extraction, Present from Verified Past, No Innovation Debt, and No Trust Debt are not four separate ideas. They are one principle: the system cannot borrow from futures that have not yet been earned.
+
+Different signals. Same structure.
+
+---
+
+### The Native Vocabulary Note
+
+The requirements rhyme structurally. They do not rhyme linguistically. Trust uses Validation, Commitment, and Agreement. Capital uses Velocity, Work, and Stock. Information uses Verification, Proof, and Data. Innovation uses Experimentation, Solutions, and Ideas. The activation terms are not interchangeable because they name different operations on different substrates in different fields.
+
+The cross-pillar pattern is not "Trust and Capital and Information and Innovation all have the same requirements." The pattern is "Trust and Capital and Information and Innovation all have requirements generated by the same substrate geometry." The substrate generates the structure. The pillar's native vocabulary names what that structure means in the pillar's own domain.
+
+---
+
+The requirements describe what any Trust infrastructure must satisfy to prevent Trust Debt from accumulating on any of the seven failure dimensions. Section 10 examines what becomes structurally possible when infrastructure satisfying all seven exists: the coordination substrate that makes wealth-based Trust compounding achievable at civilizational scale.
