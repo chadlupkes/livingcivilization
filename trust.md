@@ -1065,3 +1065,121 @@ The cross-pillar pattern is not "Trust and Capital and Information and Innovatio
 ---
 
 The requirements describe what any Trust infrastructure must satisfy to prevent Trust Debt from accumulating on any of the seven failure dimensions. Section 10 examines what becomes structurally possible when infrastructure satisfying all seven exists: the coordination substrate that makes wealth-based Trust compounding achievable at civilizational scale.
+
+## Section 10: The Trust Infrastructure — Design Requirements and the Everything DAO
+
+The previous three pillars each converged toward a recognizable architectural center. Capital converged toward Bitcoin. Information converged toward IPFS-Sats. Innovation converged toward composable, fork-native systems built on the same substrate. Trust does not converge toward a single architecture in the same way. The reason is structural. Trust is not a single-domain coordination problem. Commitments bind across the Tribal, Jurisdictional, Cultural, and Economic fields simultaneously. Any infrastructure capable of supporting wealth-based Trust at civilizational scale must operate as a coordination substrate spanning all four domains at once.
+
+The result is not one canonical technology satisfying the requirements the way Bitcoin satisfies Capital's. Many implementations are possible. The field will produce more.
+
+What this section offers is a design requirements framework plus a structural pattern that satisfies those requirements. The framework specifies what any Trust infrastructure must do. The pattern, the Everything DAO, is a structural primitive that IPFS-Sats already enables and is designed to generalize. The framework does not claim that the Everything DAO must exist. It claims that any infrastructure attempting to satisfy all seven Trust requirements simultaneously will converge toward similar structural properties. The architecture described here is therefore not a utopian prescription. It is a derivation from the requirements established in Section 9.
+
+---
+
+### From Content DAO to Everything DAO
+
+The origin point was not governance. It was content.
+
+The initial structural insight behind the Content DAO emerged from the IPFS-Sats architecture: content in the IPFS-Sats sense is anything addressable by hash that humans have agreed about. A mortgage agreement is content. Bylaws are content. A contract is content. A treaty is content. A watershed agreement, a community protocol, a creative work, a research dataset: all of these are content in exactly the same structural sense. All of them can be expressed as hashable documents with encodable governance rules.
+
+Once content is read this way, the Content DAO concept generalizes. The Content DAO handles attribution, governance, and capital flows for creative work and is the protocol's current specification in IPFS-Sats v0.4.1. The Mortgage DAO applies the same structural pattern to a real estate financing agreement: payment flows, equity tracking, and amendment governance encoded in the agreement structure rather than delegated to institutional intermediation. The Governance DAO applies it to an organization's bylaws. The Contract DAO applies it to any bilateral or multilateral agreement. The Everything DAO is the general pattern: any human agreement addressable by hash, wrapped with governance and capital-flow rules, executed without dependence on a specific institution.
+
+The current protocol specification centers on the Content DAO. The generalization from Content DAO to broader categories of agreement is on the protocol's roadmap rather than in the current specification. But the underlying primitive does not change as the scope expands: the same three components handle every case.
+
+---
+
+### The Everything DAO as Structural Primitive
+
+A corporation is an organization. A nation-state is an organization. A nonprofit is an organization. A cooperative is an organization. The Everything DAO is structurally prior to organizational form.
+
+It is a substrate through which organizational forms can encode Agreements, Validation, and Commitment into attributable coordination surfaces. This distinction matters because the framework is not arguing that existing organizational categories disappear. The Everything DAO is not the claim that all human activity should become algorithmically governed. It is the claim that any agreement requiring persistent coordination can become attributable, inspectable, and forkable at the substrate level. The claim is that organizations operating on opaque provenance systems accumulate unavoidable Trust Debt because the commitment gap cannot remain continuously measurable. The name is descriptive rather than aspirational: anything humans can coordinate around can enter the architecture if it can be represented as attributable state, linked to validation pathways, bound to consequence, and addressed through shared provenance.
+
+The architecture does not erase institutions. It changes the substrate through which institutions coordinate.
+
+---
+
+### The Three-Component Architecture
+
+Every IPFS-Sats agreement has three cryptographic components: the Content CID, which is the immutable hash of what was agreed to; the dao_cid, which is the hash of the rules governing it; and the Bundle Hash, which binds them together into the single value committed to the Bitcoin blockchain.
+
+The Content CID is generated by chunking the content into 256 KB blocks, hashing each, and constructing a Merkle DAG whose root hash is the Content CID. Any change to the bytes produces a different CID. This guarantees content immutability: the specific agreed text at the moment of anchoring cannot be altered after the fact. Without it, the thing being governed could change without the governance changing. An agreement whose content can be altered after signing is not an agreement. The CID is what makes "what was agreed" a precise statement rather than a contestable interpretation.
+
+The dao_cid is the content-addressed hash of the DAO Configuration Object: a structured document specifying membership, voting rules, allowed actions, yield distribution, and lifecycle parameters. The dao_cid is stored as a field inside the Metadata Wrapper rather than as a freestanding sibling of the Content CID. Changing the governance rules produces a new dao_cid, a new Metadata Wrapper, and a new Bundle Hash. Governance cannot drift silently from the rules participants originally accepted. Without this, an entity controlling storage could rewrite the terms without producing a visible new version. The dao_cid ensures that the rules participants accepted are the rules that apply until a visible, anchored replacement arrives.
+
+The Bundle Hash is computed as Hash(Content CID + serialized Metadata Wrapper). The Metadata Wrapper contains the dao_cid along with creator identity, signature, Lightning Yield Wallet address, and provenance fields. The Bundle Hash therefore binds what was agreed and how it is governed into a single 32-byte commitment. This is the value committed to the Bitcoin blockchain. What was agreed and how it is governed cannot be separated after the fact. The governance configuration is inside the wrapper. The wrapper is inside the hash. The hash is inside Bitcoin.
+
+A participant who accepted the original agreement can prove later, to anyone, that they accepted those specific rules over that specific content, and nothing else. Without this binding, content and governance could be recombined arbitrarily after the fact. The Bundle Hash makes such recombination impossible: the exact binding participants validated is the one Bitcoin remembers.
+
+---
+
+### Bitcoin Anchoring and Lightning Execution
+
+The Bundle Hash is anchored to the Bitcoin blockchain by being embedded as an OP_RETURN output in a Bitcoin transaction, typically one the participant's Lightning Yield Wallet is already performing for its own reasons. Once that transaction is confirmed in a Bitcoin block, the Bundle Hash exists at a specific block height, and that height is the timestamp. Every Bundle Hash is ordered against every other Bundle Hash by Bitcoin consensus, giving the system a global temporal ordering that any participant can verify and no one can rewrite. Priority disputes over prior claims are resolved by querying the block height of the earliest Bundle Hash referencing the relevant content. No jurisdiction to apply. No court to convene.
+
+Capital flows are managed by the Execution Key of the protocol's three-key architecture. The Execution Key executes. It does not decide. Decisions are made by the Actor Authority Key through the proposal and voting process specified in the DAO Configuration Object. When a vote passes and the execution delay elapses, the Execution Key carries out the resulting state change automatically. Vote-driven conditions and threshold-driven conditions encoded in the DAO Configuration Object both trigger execution without discretion. Within the current protocol, all flows on the Lightning layer are denominated in sats. Non-sats settlement requires an additional layer not currently specified in v0.4.1.
+
+---
+
+### The Seven-for-Seven Test
+
+The Everything DAO is designed to satisfy all seven Trust requirements. Three are satisfied cleanly by construction. Two are satisfied by construction with structural caveats worth acknowledging. Two require a distinction between what the protocol specifies and what requires application-layer discipline.
+
+**Attributable Provenance: satisfied by construction.** The Content CID plus creator identity signature plus Bitcoin-anchored Bundle Hash produces accurate, attributable, tamper-resistant validation history. A work anchored through IPFS-Sats carries its creator's signature, the exact Content CID of the version that was published, and a Bitcoin block height establishing when that version existed. Any later claim of prior authorship can be tested against the timestamp record. The attribution is not asserted. It is verifiable. Trust cannot compound across invisible history. The architecture attempts to eliminate invisible history. This is the strongest of the seven.
+
+**Temporal Integrity: partial.** Every Bundle Hash carries a Bitcoin block height, and amendments, revalidation events, and forks each generate new Bundle Hash records with their own timestamps. The temporal applicability of past validation is always visible and updatable. What the protocol does not currently specify at the protocol level are Bounded Evaluation Windows: mandatory resolution points that force the Möbius lifecycle to complete. Agreement-level revalidation cycles are currently application-layer policy. The system cannot prevent actors from extending inappropriate commitments. It can make the extension legible. That distinction is critical to maintaining the honest framing this section requires.
+
+**Distributed Validation Pathways: satisfied by construction.** The Records Database is permissionless. Anchor Records are public. Bitcoin verification is open to anyone with a node. There is no institutional gatekeeper. The DAO structure defines who can validate, but the pathway itself is open, binding through the Lightning execution layer, and legible from outside. A validation pathway comprehensible only to specialists is structurally drifting toward capture regardless of formal openness. The framework therefore treats human legibility as part of the Trust substrate itself, not as a design preference.
+
+**Voluntary Association: substantially satisfied, one distinction required.** Participation requires explicit cryptographic signing into the DAO structure. No party can be coerced into commitment without the action that anchors their participation. Exit through forking is a foundational protocol commitment: the Right to Fork is available to any participant. Under traditional institutional structures, leaving an organization often requires abandoning accumulated reputation, validation history, contractual continuity, and social graph position simultaneously. The Everything DAO attempts to preserve portable provenance: the participant can leave the governance surface without necessarily losing the attributable validation history accumulated within it. A creator departing a collective content DAO can fork their participation, route their contribution into a new DAO Configuration, and carry their validation record forward without identity annihilation. Exit no longer requires identity annihilation. Exit through DAO membership offboarding involves a buyout mechanism whose terms are set in the DAO Configuration Object, which is application-layer policy rather than a protocol guarantee of friction-free exit.
+
+**Shared Validation Standards: satisfied by construction.** The DAO Configuration Object is content-addressed and public. Anyone can read the rules. Rule changes produce new dao_cids and are auditable. The standards by which validation events are judged are explicit, public, and testable. A validation standard hidden inside institutional ambiguity cannot be meaningfully contested because participants cannot clearly identify what they are disagreeing about. The architecture shifts from hidden disagreement masked by symbolic consensus toward visible disagreement structured through attributable governance. Different DAOs may adopt incompatible validation standards. The architecture does not eliminate pluralism. It preserves explicitness.
+
+**Material Grounding: satisfied by construction, with a known structural concern.** The Lightning Yield Wallet funded at entry is the Stake-Backed Commitment. The Lightning yield distributed continuously is the Attributable Yield, settled in sats and attributable to specific payments. In systems where governance is decentralized and settlement is atomic, Trust Debt is no longer an invisible, multi-generational accumulation. It is a visible, measurable, and correctable error. The known structural concern is that routing-fee yield must materialize at scale for the yield side of this requirement to be structurally robust. This is an honest risk to acknowledge, not a protocol-level failure.
+
+**No Trust Debt: satisfied at the protocol layer, dependent on application discipline.** The Bundle Hash binding ensures governance cannot drift from the rules participants accepted without producing a visible, anchored new version. Constitutional proposal categories require supermajority for changes that would alter voting weights, providing the structural defense against a majority extracting value from a minority. When a DAO votes to amend its governance structure, the amendment produces a new dao_cid, a new Metadata Wrapper, and a new Bundle Hash committed to Bitcoin. The original Bundle Hash remains in the blockchain permanently, representing the state participants originally validated. Any participant can compare the current governance to the original. Purpose drift becomes visible as the delta between Bundle Hashes rather than accumulating invisibly behind unchanged vocabulary. Whether a given DAO actually configures these protections is a policy decision. The protocol provides the mechanisms. The DAO chooses whether to use them.
+
+The honest summary: the architecture is designed to satisfy all seven requirements and provides the structural primitives for each. The chapter can fairly describe it as structurally capable of satisfying all seven while distinguishing what the protocol specifies from what depends on application-layer discipline.
+
+---
+
+### Full Suffrage and the Three Layers
+
+Full suffrage is not a guarantee that everyone gets a periodic vote. It is the structural condition that the pathway from observation to consequence cannot be blocked for participants whose Commitments are affected. In practice, this requires voice at three distinct layers of coordination, not voice compressed into infrequent proxy events.
+
+The Agreements layer is where Commitments take their initial form. Design requirements: commitments must be accessible to consequence-scoped participants at the point of formation, forkable before finalization so alternatives can be proposed and compared, legible without specialist intermediaries, and structured for continuous rather than episodic participation. Consequence-scoped participation means voice must map to consequence exposure: if a decision affects your water, your labor, your land, your capital, or your community substrate, you belong inside the agreement surface. A watershed agreement governing upstream water use can define participant scope by downstream consequence rather than political membership. Communities whose agricultural or potable water supply draws from the river are inside the agreement surface regardless of jurisdiction. In the Everything DAO, CID-anchored agreements with metadata-defined governance rules satisfy these requirements. The agreement surface remains accessible and amendable throughout its lifetime rather than becoming closed after initial authorization.
+
+The Validation layer is where Commitments are tested against reality. Design requirements: any architecture must accept observation inputs from any consequence-scoped participant, anchor all validation events in Provenance, make the standards by which observations are judged explicit and shared, and prohibit hiding critical measurements from affected participants. A community recording water quality measurements below the agreed thresholds can attach a Lightning payment to the observation, establishing both attribution and material stake in the signal. The observation is public, stackable by other participants who support the same record, and available to the calibration process without requiring institutional permission to surface. In the Everything DAO, the DAO Configuration Object makes validation standards explicit, public, and testable. Voting records anchor validation events in Provenance. Zaps, the protocol's Lightning-denominated micropayments, provide an economic signal mechanism for attaching real stakes to observations and attestations. The protocol currently describes zaps as an economic signal of perceived value that translates into content availability through the yield engine. Using zaps as formal validation inputs is a design pattern the architecture enables but does not yet formally specify as a protocol guarantee.
+
+The Commitment layer is where validated Commitments become structurally operational. Design requirements: all execution flows must be traceable across capital types, challenge and amendment pathways must be preserved after commitment, execution outcomes must connect back to originating agreements and validation evidence, and the commitment gap must be measurable and exposed. When a threshold of validation events establishes that upstream water use has exceeded agreed parameters, the Execution Key routes a consequence flow automatically according to the terms encoded in the DAO Configuration Object. The execution trail is Bitcoin-anchored. The originating agreement and the validation events that triggered the execution are traceable through the Bundle Hash chain. In the Everything DAO, the on-chain execution records produce Provenance-anchored commitment trails. The DAO Configuration Object defines amendment pathways that remain open after commitment. This is the layer modern representative systems most commonly fail: authorization occurs and commitment follows, but the pathway from observation to consequence is not preserved structurally after the initial authorization event. The Everything DAO is designed to keep that pathway open throughout the Commitment's lifecycle.
+
+---
+
+### The Civilization Dashboard as Visibility Substrate
+
+The Civilization Dashboard is not a product the Everything DAO produces. It is the visibility substrate required for full suffrage to exist operationally.
+
+When active Everything DAOs expose their agreement, validation, and commitment surfaces consistently through a shared addressing scheme, the aggregate of those surfaces becomes a real-time view of the coordination state of any community or civilization using the protocol. The commitment gap that Section 8 identified as Trust's diagnostic signal becomes measurable across specific agreement instances, visible to the participants whose Commitments are at stake, and actionable through the same amendment pathways the Agreements layer keeps open.
+
+Without visibility infrastructure, provenance abundance becomes indistinguishable from opacity: no participant can integrate the coordination surface at meaningful scale without an interpretive layer that aggregates the signal. The Dashboard fills this role. Its purpose is not centralized control. It is legibility. Different dashboards may interpret the same provenance differently. The invariant is not interpretive uniformity. It is attributable visibility.
+
+The condition required for the Dashboard to exist is that sufficient coordination happens through the Everything DAO architecture. The Dashboard is not engineered separately. It emerges from the substrate when the substrate is in use.
+
+---
+
+### Wave and Other Application Layers
+
+The chapter's Trust architecture does not depend on any specific application layer. The Everything DAO is the structural primitive. Application layers that build on top of it can take many forms.
+
+Google Wave anticipated aspects of this architecture in 2009: threaded conversation as agreement formation, real-time editing as continuous validation, replay as Provenance. That implementation arrived fifteen years too early and on the wrong substrate. The structural patterns it gestured at are recoverable on the current substrate. Whether the social and deliberative layer that emerges resembles Wave, evolves out of Nostr, or takes a form not yet visible is an empirical question about implementation. The structural argument does not depend on which specific application embodies it first.
+
+Substrates evolve slowly. Interfaces evolve rapidly. Civilizations encounter structural risk when interface incentives become detached from substrate constraints. The Everything DAO therefore attempts to preserve substrate continuity while allowing application-layer experimentation and adaptation.
+
+---
+
+The framework specifies what becomes structurally possible when all seven Trust requirements can be satisfied simultaneously by infrastructure rather than by institutional goodwill alone. It does not claim that such systems automatically produce justice, wisdom, or social harmony. A transparent system can still make catastrophic decisions. A forkable system can still fragment destructively. A voluntary system can still produce unequal outcomes. The architecture does not remove politics, conflict, or human failure. What changes is the visibility and correctability of coordination.
+
+The Everything DAO represents one attempt to build infrastructure where the commitment gap remains continuously measurable. Whether civilizations choose to respond intelligently to the signal remains a separate question.
+
+---
+
+Section 11 applies the Trust equation to the historical arc of democratic forms, tracing how civilizations repeatedly attempted to solve the commitment gap through increasingly scalable governance architectures while accumulating new forms of Trust Debt in the process.
