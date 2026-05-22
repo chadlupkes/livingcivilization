@@ -1481,3 +1481,35 @@ The invariant: output cannot exceed what the pillar's native reality test has co
 ---
 
 **Closing reminder:** Trust is not the absence of error. It is the speed at which error becomes visible and correctable. A healthy Trust system is not one with zero commitment gap. It is one where the gap is continuously visible across the support, commitment, and calibration dimensions, where the gap feeds back into improved declarations, and where actors whose commitments are affected retain access to the validation pathways that generate the gap signal. A system with hidden commitment gap is operating on Trust Debt regardless of how stable it appears.
+
+# Bridge to Part Four: The Choice
+
+Part Three has established the structural vocabulary. The four pillar chapters were not four separate subjects. They were four expressions of the same underlying geometry, each derived from the same substrate, each facing the same fundamental failure mode, each requiring the same structural response.
+
+Capital established what it means to build from verified present positions rather than borrowing from imagined futures. Stock × Velocity → Work. The existence constraint: did it actually happen materially? The capstone: No Temporal Extraction.
+
+Information established what it means to ground coordination in verified reality rather than accumulated speculation. Data × Verification → Proof. The truth constraint: was it actually verified? The capstone: Present from Verified Past.
+
+Innovation established what it means to absorb genuine solutions rather than accumulate unintegrated consequences. Ideas × Experimentation → Solutions. The boundary constraint: was it actually tested? The capstone: No Innovation Debt.
+
+Trust established what it means to compound capacity through validated commitments rather than perform coordination on borrowed legitimacy. Agreements × Validation → Commitment. The continuity constraint: was it actually lived and upheld? The capstone: No Trust Debt.
+
+The same six-axis derivation generates each pillar's requirements. The same Möbius lifecycle governs each pillar's validation cycle. The same cross-pillar invariant closes each pillar's capstone: output cannot exceed what the pillar's native reality test has confirmed. The equations do not share vocabulary. They share geometry.
+
+Four structural vocabularies. One substrate.
+
+Part Three also established what debt-based coordination looks like in each domain. Temporal extraction in Capital. Speculation in Information. Integration overflow in Innovation. Commitment gap in Trust. The failure modes are geometrically parallel: each is the same violation in a different domain. Each is the system claiming output it has not yet earned. Each accumulates invisibly until conditions force the accounting event that converts hidden debt into visible collapse.
+
+The collapse appears sudden. The debt accumulated gradually.
+
+Part Four is where the framework meets political and civilizational decision. The structural vocabulary is now sufficient to locate any coordination system, any political position, any institutional arrangement on a common map. Chapter 16 applies that vocabulary to the political terrain: examining the historical trajectories of political movements through the wealth/debt lens, mapping their geometric positions, tracing their vectors, and showing what the framework reads beneath the vocabulary each movement uses to describe itself.
+
+What follows in Part Four is not the derivation of new structural claims. The derivation is complete. What follows is the encounter between the derived geometry and the decisions that civilizations, communities, and individuals actually face: how to allocate productive capacity, what governance structures to build, which coordination systems to participate in, and what to sustain across time.
+
+The fundamental structural choice that runs through all of them is the same.
+
+Build from verified present positions, compounding capacity through genuine Validation across each pillar's native reality test. Or extract from imagined futures, borrowing legitimacy that has not yet been earned and deferring the accounting event that will eventually arrive.
+
+The framework describes both geometries. It reads both in the historical record. It predicts both in the coordination systems being built now.
+
+Which geometry are we building?
