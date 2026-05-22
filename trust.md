@@ -1183,3 +1183,101 @@ The Everything DAO represents one attempt to build infrastructure where the comm
 ---
 
 Section 11 applies the Trust equation to the historical arc of democratic forms, tracing how civilizations repeatedly attempted to solve the commitment gap through increasingly scalable governance architectures while accumulating new forms of Trust Debt in the process.
+
+## Section 11: The Democracy Arc
+
+The history of democratic governance can be read as the history of how civilizations generate, validate, and maintain Commitment at scale. Different democratic forms are not primarily distinguished by ideology, geography, or institutional branding. They are distinguished by how Agreements are formed, how Validation occurs, and how Commitment is maintained across populations large enough that direct interpersonal trust no longer scales naturally.
+
+The Trust equation provides the structural lens: Agreements × Validation → Commitment. The four stages of the democracy arc are four different configurations of that equation, each solving a scaling problem created by the previous stage and each generating new forms of Trust Debt that eventually force another transformation. The arc is not linear improvement. It is a record of partial implementation, gradual capture, and the structural conditions under which the equation can re-ground.
+
+The framework does not evaluate these stages morally. It reads them structurally. The political work of evaluating tradeoffs belongs to the Political Spectrum chapter. The structural work of identifying what the Trust equation requires belongs here.
+
+---
+
+### Stage 1: The Greek Citizen Assembly
+
+The earliest democratic systems solved the Trust equation by keeping all three terms direct.
+
+Agreements were formed through immediate participation by citizens physically present within a shared civic space. No delegation, no representation, no mediating layer between the stake-holder and the agreement surface. Validation was immediate and consequence-coupled: the speaker argued before the people who would live with the outcome. The same crowd that heard the argument bore the result. Commitment emerged because the participants who validated the Agreements were themselves exposed to the consequences those Agreements produced.
+
+These properties produced a system that was highly trust-dense. The validation surface was small enough for human-scale observation to operate. The Möbius lifecycle could close: when outcomes diverged from expectations, the same actors who validated the original Declaration could recognize the divergence and participate in the next Calibration. The commitment gap remained small.
+
+The stage's structural limit is scale. Direct validation requires physical presence, sufficient numbers for deliberation, and sufficient social proximity to evaluate the actors making the commitments. The Greek assembly model achieved its low commitment gap precisely by keeping the agreement surface narrow. Citizenship was itself a filtering mechanism that preserved validation legibility by excluding large portions of the population from participation. Women, enslaved people, resident non-citizens, and most of the laboring population remained outside the validation structure.
+
+This is not a moral observation. It is a structural one. The exclusion that maintained the system's internal coherence was the same mechanism that prevented it from scaling. The costs of the assembly's agreements were borne substantially by populations who had no access to the validation surface that produced those agreements. The commitment gap was small for participants in the assembly precisely because those participants controlled the scope of who counted as a participant. The model worked for those inside it by externalizing consequences onto those outside it. Its core achievement was demonstrating that durable Commitment could emerge from participatory validation rather than purely coercive hierarchy. Its structural failure was that it could sustain this only by keeping the agreement surface small enough to remain legible to direct human observation.
+
+---
+
+### Stage 2: Representative Democracy
+
+As populations expanded beyond the range of direct interpersonal visibility, democratic systems substituted mediated Validation for direct Validation. Citizens who could not all be physically present in deliberation would choose representatives to carry their validation function on their behalf.
+
+All three terms of the equation shifted simultaneously.
+
+Agreements moved from direct participation toward delegated authorization. The citizen no longer formed most Agreements personally. They authorized institutional actors to form Agreements within bounded legitimacy windows. Validation moved from direct consequence visibility toward institutional mediation. Most participants could no longer observe the majority of governance activity directly. Validation increasingly depended on journalism, courts, bureaucratic reporting, and symbolic institutional processes capable of compressing complexity into legible narratives. Commitment moved from interpersonal civic continuity toward institutional continuity: citizens needed confidence that the institutional system itself remained sufficiently trustworthy that its mediated outputs could still anchor coordination.
+
+The transformation was historically extraordinary. It enabled democratic coordination at nation-state scale across populations and geographies that Stage 1 could not approach.
+
+But the scaling mechanism introduced a structural vulnerability: the larger the system became, the more mediation was required; the more mediation was required, the more Validation drifted away from direct consequence visibility. The representative model carried this intrinsic tension from its inception.
+
+The vulnerability is clearest at the moments when scale requires another layer of mediation. A legislative body of a few hundred members can still deliberate with some directness. When committee structures intermediate between the floor and the agreement surface, the distance between affected populations and agreement formation grows again. When party leadership intermediates above the committee structure, the distance grows further. Each additional mediation layer introduced to manage scale also introduces another opportunity for the mediation layer itself to become a locus of capture. An actor who controls which agreements reach the floor for deliberation effectively controls the agreement surface, regardless of what deliberation then occurs. The system still functioned as long as institutional trust remained sufficiently strong to bridge the distance between represented populations and the agreements formed on their behalf. But the commitment gap had begun to widen structurally. The distance between those who bear consequences and those who validate agreements had grown, and it would grow further as the system scaled. As coordination systems expanded beyond nation-state scale, the mediation overhead required to preserve legibility became the very mechanism through which debt-based drift emerged. Stage 3 is not simply a moral failure of the Stage 2 model. It is the structural price of scaling an inherently mediated system beyond the point where mediation can remain transparent.
+
+---
+
+### Stage 3: Debt-Based Democratic Drift
+
+Stage 3 emerges when representative systems continue scaling while the Validation layer becomes progressively decoupled from consequence. This is not the collapse of democracy into dictatorship. It is something structurally subtler and historically more common: democratic forms persist while the underlying Trust equation increasingly operates through debt dynamics rather than wealth dynamics.
+
+Agreements become captured before they are formed. Institutional complexity, capital concentration, administrative opacity, and coordination cost barriers progressively narrow who can realistically shape agreement formation. Participation remains symbolically universal while operational influence becomes increasingly concentrated in actors whose interests may not align with those who bear the consequences of the agreements being formed.
+
+Validation becomes narrative-centric rather than consequence-centric. Institutional narration substitutes for direct accountability feedback. Participants experience governance increasingly through interpretation layers rather than observable consequence coupling. The systems that are supposed to test agreements against real conditions and feed the results back into Calibration have progressively evolved toward preserving the appearance of Validation rather than its consequence-corrective function.
+
+The structural mechanism is visible in how authority funnels form. In a major legislature, a committee structure that once provided distributed validation nodes can be collapsed under centralized leadership authority, regardless of which ideological position holds the majority at a given moment. When one majority brings committee agenda-setting under direct Speaker control, the opposing majority, when it takes the chamber, will typically keep that authority structure intact. Changing leadership did not change the validation geometry. The vector was fixed by the geometry, not by the occupancy. This is why so many democracies feel politically dynamic while remaining structurally static: a debt-based system can survive ideological rotation indefinitely if authority funnels remain intact, Validation remains centralized, and participants lack structural access to agreement formation and consequence accounting.
+
+Commitment becomes enforced compliance rather than validated coordination. The system still generates Commitment behaviorally. But more of that Commitment is now sustained through inertia, dependency, polarization, identity attachment, or fear of collapse rather than through continuously regenerated Validation. The cultural signature from Section 8 is visible: blame replaces explanation. Moralizing substitutes for diagnosis. The calibration stage of the Möbius lifecycle cannot complete because the measurement infrastructure is insufficient or captured.
+
+Debt-based democracy does not fail because participants stop caring about democracy. It fails because the Trust equation becomes progressively less visible and less correctable. The democratic shell survives. The Validation substrate underneath it erodes.
+
+---
+
+### The Three Transformations
+
+The movement from Stage 3 to Stage 4 is not a return to Stage 1. It is structurally different from all prior stages and requires three transformations of the equation's terms simultaneously.
+
+The first transformation is Agreement from authorization to participation. Under representative democracy, participation primarily means selecting who is authorized to negotiate Agreements on behalf of the represented population. The transformation requires that agreement formation become directly participatory for consequence-scoped actors rather than delegated to authorized intermediaries. This is not direct democracy everywhere. It is that participants retain continuous visibility into, access to, and forkability around the Agreements affecting their Commitments. The participant is no longer limited to periodic authorization windows separated by long intervals of institutional opacity. A watershed governance structure that requires any community within the drainage basin to participate directly in agreement formation, rather than being represented by a state-level official whose stake in local water quality may be minimal, illustrates the transformation: participation is defined by consequence exposure, not by electoral category.
+
+The second transformation is Validation from institutional narration to consequence accounting. Stage 3 systems increasingly validate through narrative coherence: which interpretation wins, which institution is trusted, which explanation dominates the information environment. Stage 4 systems increasingly validate through attributable consequence accounting. The central question becomes not which narrative is most persuasive but what actually happened. The difference between a policy described in institutional reports as having "expanded access" and a attribution-anchored record showing which populations experienced which specific changes in which specific locations under which measurable conditions illustrates the transformation: one is institutional narration, the other is consequence accounting. Participants may still disagree about goals, values, and tradeoffs. But the visibility of outcomes becomes progressively harder to suppress through narrative maintenance alone when the Validation surface itself is broadly inspectable.
+
+The third transformation is Commitment from enforced compliance to validated coordination. Compliance says: I continue because I must. Commitment says: I continue because the Validation record still supports continuation. Under Stage 4 conditions, Commitment is continuously regenerated rather than merely inherited. Agreements must remain supportable under ongoing Validation rather than relying primarily on accumulated institutional momentum. A supplier agreement maintained because the switching cost makes exit prohibitive is compliance. The same agreement maintained because both parties can verify from the Provenance record that commitments have been honored on both sides and outcomes have been as agreed is Commitment. The first is brittle. The second compounds. This produces systems that may appear less symbolically stable while being structurally more adaptive, because correction no longer requires waiting for the entire inherited structure to fail.
+
+---
+
+### Stage 4: Wealth-Based Democratic Coordination
+
+Stage 4 is not a political program. It does not replace states, elections, or representative structures. It is the structural description of what the Trust equation produces when its terms are restored through architecture rather than through institutional goodwill.
+
+Agreements are consequence-scoped rather than authorization-scoped. Participation in agreement formation is defined by what you are affected by, not by what political category you belong to. A watershed agreement includes every community downstream of the relevant water source regardless of jurisdiction. A land use agreement includes every community whose material conditions are affected by the decision. The agreement surface is verifiable rather than declared, and it is continuously active rather than episodically consulted.
+
+Validation is observable, attributable, open, and continuously challengeable. Affected participants contribute observations directly. Shared Validation Standards ensure that what counts as evidence is declared and testable rather than controlled by institutional mediators. The commitment gap is visible in real time rather than accumulating invisibly.
+
+Commitment is adaptive coordination grounded in visible reality. Stage 4 does not eliminate politics, conflict, or human failure. What changes is the visibility and correctability of the coordination. The health metric from Section 4 becomes architecturally enforceable rather than merely aspirational: Trust is not the absence of error. It is the speed at which error becomes visible and correctable.
+
+What civilizational Commitment looks like under Stage 4 is structurally different from the single-authority legitimacy of prior stages. Participants do not need universal agreement about meaning, morality, or preferred futures in order to coordinate. They need sufficiently trustworthy Validation surfaces that disagreement remains attributable, testable, and forkable without collapsing the shared substrate supporting everyone simultaneously. The system becomes capable of sustaining higher disagreement without fragmenting entirely, because the commitment gap is visible and correctable rather than hidden and compounding. The civilization becomes more metabolically responsive to contradiction.
+
+Community becomes increasingly substrate-defined rather than purely border-defined. A participant may simultaneously belong to a watershed governance system, a professional standards network, a regional infrastructure cooperative, a digital knowledge commons, and a local physical municipality. The democratic center of gravity shifts from symbolic representation toward continuously visible coordination. Political identity becomes less tied to singular territorial allegiance and more tied to overlapping participation surfaces defined by consequence coupling. What changes is where Validation occurs and how Commitment is maintained.
+
+---
+
+### Why People Sense the Vector Before They Can Name It
+
+There is a persistent experience in late Stage 3 systems that the political vocabulary available for describing the problem is inadequate to the problem being experienced. People can tell that the equation is running on degraded terms before they have structural language for what they are observing. The commitment gap is visible in its cultural signature before anyone has named it as a structural phenomenon. The narrowing of the agreement surface is felt as alienation before anyone has described it as institutional capture.
+
+What participants sense is accurate. What they lack is not perception but terminology. When Validation geometry is captured but leadership rotates, observable institutional metrics keep moving while the underlying coordination vector remains fixed. Participants who pay attention long enough to notice the disconnect experience this as personal exhaustion or political alienation. What they are reacting to is invisible coordination capture. The framework names what the reaction was about.
+
+This is why the vocabulary pressure in late Stage 3 systems so often feels misdirected: people are using political and moral vocabulary to point at a structural failure that their existing terms do not quite capture. The Trust equation provides the structural vocabulary for what participants are already sensing. The vector points from Stage 3 toward Stage 4. People can feel the direction before they can name the mechanism. The mechanism is the Trust equation restoring its terms.
+
+The democratic arc is therefore not the story of democracy becoming more morally enlightened across time. It is the story of civilizations repeatedly attempting to solve the same coordination equation at progressively larger scales.
+
+---
+
+Section 12 concludes the chapter by summarizing the Trust pillar's structural position within the four-pillar cycle and identifying what the pillar's closure means for the framework's remaining analytical work.
