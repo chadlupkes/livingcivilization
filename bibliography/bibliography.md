@@ -177,6 +177,15 @@
 - Kirchhoff, G., & Bunsen, R. (1860). Chemische Analyse durch Spectralbeobachtungen. Annalen der Physik und Chemie, 186(6), 160–189. https://doi.org/10.1002/andp.18601860602
 - Mendeleev, D. (1869). On the relation of the properties to the atomic weights of the elements. Journal of the Russian Chemical Society, 1, 60–77.
 - Moseley, H. G. J. (1913). The high-frequency spectra of the elements. Philosophical Magazine, Series 6, 26(156), 1024–1034. https://doi.org/10.1080/14786441308635052
+- Englert, F., & Brout, R. (1964). Broken symmetry and the mass of gauge vector mesons. Physical Review Letters, 13, 321–323.
+- Higgs, P.W. (1964). Broken symmetries and the masses of gauge bosons. Physical Review Letters, 13, 508–509.
+- ATLAS Collaboration. (2012). Observation of a new boson at a mass of 125 GeV with the ATLAS detector at the LHC. Physics Letters B, 716, 1–29.
+- CMS Collaboration. (2012). Observation of a new boson at a mass of 125 GeV with the CMS experiment at the LHC. Physics Letters B, 716, 30–61.
+- Zwicky, F. (1933). Die Rotverschiebung von extragalaktischen Nebeln. Helvetica Physica Acta, 6, 110–127. (First proposal of "dark matter" based on galaxy cluster velocities in the Coma Cluster.)
+- Rubin, V.C., & Ford, W.K., Jr. (1970). Rotation of the Andromeda Nebula from a spectroscopic survey of emission regions. The Astrophysical Journal, 159, 379–403.
+- Rubin, V.C., Ford, W.K., Jr., & Thonnard, N. (1980). Rotational properties of 21 SC galaxies with a large range of luminosities and radii. The Astrophysical Journal, 238, 471–487. (The broader galaxy rotation curve survey that established the pattern across many galaxies.)
+- Clowe, D., Bradač, M., Gonzalez, A.H., Markevitch, M., Randall, S.W., Jones, C., & Zaritsky, D. (2006). A direct empirical proof of the existence of dark matter. The Astrophysical Journal Letters, 648, L109–L113. (The Bullet Cluster observation: the most direct gravitational lensing evidence for dark matter as a substance separate from visible matter.)
+- Planck Collaboration. (2020). Planck 2018 results. VI. Cosmological parameters. Astronomy & Astrophysics, 641, A6. (Source for the 5% / 27% / 68% ordinary matter / dark matter / dark energy estimates.)
 
 # Energy
 
