@@ -28,7 +28,7 @@
 ### Chapter Twelve: <a href="capital.md">Capital</a>
 ### Chapter Thirteen: <a href="information.md">Information</a>
 ### Chapter Fourteen: <a href="innovation.md">Innovation</a>
-### Chapter Fifteen: Trust (in progress)
+### Chapter Fifteen: <a href="trust.md">Trust</a>
 
 ## Part Four: The Choice
 
