@@ -1,4 +1,4 @@
-# Chapter 8: The Observer
+# The Observer
 
 _One person standing at the crossroads_
 
