@@ -14,16 +14,16 @@
 ### Chapter Four: <a href="energy.md">Energy</a>
 ### Chapter Five: <a href="physics.md">Physics</a>
 ### Chapter Six: <a href="chemistry.md">Chemistry</a>
+### Chapter Seven: <a href="evolution.md">Evolution</a>
 
 ## Part Two: The Awakening
 
-### Chapter Seven: <a href="evolution.md">Evolution</a>
-### Chapter Eight: <a href="abstraction.md">Abstraction</a>
-### Chapter Nine: <a href="observer.md">The Observer</a>
+### Chapter Eight: <a href="observer.md">The Observer</a>
+### Chapter Nine: <a href="abstraction.md">Abstraction</a>
+### Chapter Ten: <a href="metaverse.md">The Metaverse</a>
 
 ## Part Three: The Patterns
 
-### Chapter Ten: <a href="metaverse.md">The Metaverse</a>
 ### Chapter Eleven: <a href="coordinationgeometry.md">Coordination Geometry</a>
 ### Chapter Twelve: <a href="capital.md">Capital</a>
 ### Chapter Thirteen: <a href="information.md">Information</a>
