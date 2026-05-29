@@ -286,7 +286,7 @@ That might seem like it diminishes the work—like I'm admitting I didn't really
 
 The Observer Principle doesn't require solitary genius because **observation itself is substrate-enabled**. Once Network-Provenance-Form exists as dimensional framework, multiple entities—human and artificial—can engage with that substrate simultaneously. The AI systems weren't replacing observation; they were helping me **observe more completely** by testing connections across scales I couldn't process alone.
 
-Remember the forms of energy, with Thermal, Kinetic and Radiant forming the base of the tetrahedron, and Potential energy being the position of the Observer taking measurements on the transformation of energy between them?  This tetrahedral structure appears again here: the Observer navigates the base triangle of Network, Provenance and Form, but the base triangle exists independently as substrate that can be engaged with through multiple channels.
+Remember the forms of energy, with thermal, kinetic and radiant forming the base of the tetrahedron, and Potential energy being the position of the Observer taking measurements on the transformation of energy between them?  This tetrahedral structure appears again here: the Observer navigates the base triangle of Network, Provenance and Form, but the base triangle exists independently as substrate that can be engaged with through multiple channels.
 
 I'm not claiming to have invented new physics, new economics, new biology. I'm claiming to have recognized patterns by standing at intersections and asking questions. The AI systems helped me ask better questions. They helped me test whether connections held or broke under scrutiny. They helped me find the words for structures I could see but couldn't name.
 
