@@ -35,7 +35,7 @@
 ### Chapter Sixteen: <a href="polis.md">The Political Spectrum</a> (in progress)
 ### Chapter Seventeen: History: Power through Control (in progress)
 ### Chapter Eighteen: <a href="debts.md">Debts</a> (in progress)
-### Chapter Nineteem: Vectors and Choices, Where we stand today (in progress)
+### Chapter Nineteen: Vectors and Choices, Where we stand today (in progress)
 
 ## Part Five: The Invitation
 
