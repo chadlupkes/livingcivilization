@@ -70,7 +70,7 @@ This is worth pausing on: a question asked, a synthesis reached, a visualization
 
 The resulting chart reveals what words alone struggle to convey: the sheer density of overlapping provenance mechanisms operating across thirteen point eight billion years of cosmic and planetary history.
 
-![[DataStorageTimeline1c.png]]
+<img src="DataStorageTimeline1c.png">
 
 At the deepest timescales, uranium-lead dating and stellar spectra reach back billions of years, anchoring the formation of Earth's crust and the universe's large-scale structure. As we move forward in time, other methods begin: potassium-argon dating fills the gap between deep planetary history and recent epochs; geological layers accumulate continuously, preserving environmental context that isotope ratios alone cannot provide. Molecular clocks track biological divergence across the entire span of life, from the Last Universal Common Ancestor to the present, while fossils provide the morphological anchor points that calibrate those inferences.
 
