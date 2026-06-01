@@ -22,6 +22,8 @@
 ### Chapter Nine: <a href="abstraction.md">Abstraction</a>
 ### Chapter Ten: <a href="metaverse.md">The Metaverse</a>
 
+#### Special: <a href="natural_provenance_systems.md">Natural Provenance Systems</a>
+
 ## Part Three: The Patterns
 
 ### Chapter Eleven: <a href="coordinationgeometry.md">Coordination Geometry</a>
