@@ -26,7 +26,7 @@
 
 ## Part Three: The Fields of Influence
 
-### Existing Draft: <a href="coordinationgeometry.md">Coordination Geometry</a> - Being broken into five chapters:
+### Existing Draft: <a href="coordinationgeometry.md">Coordination Geometry</a> - Being broken into six chapters:
 ### Chapter 11: The Spatial and Temporal Fields (in progress)
 ### Chapter 12: The Tribal Field (in progress)
 ### Chapter 13: The Jurisdictional Field (in progress)
