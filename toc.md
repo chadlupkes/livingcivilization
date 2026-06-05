@@ -14,40 +14,49 @@
 ### Chapter Four: <a href="energy.md">Energy</a>
 ### Chapter Five: <a href="physics.md">Physics</a>
 ### Chapter Six: <a href="chemistry.md">Chemistry</a>
-### Chapter Seven: <a href="evolution.md">Evolution</a>
 
 ## Part Two: The Awakening
 
+### Chapter Seven: <a href="evolution.md">Evolution</a>
 ### Chapter Eight: <a href="observer.md">The Observer</a>
 ### Chapter Nine: <a href="abstraction.md">Abstraction</a>
 ### Chapter Ten: <a href="metaverse.md">The Metaverse</a>
 
 #### Special: <a href="natural_provenance_systems.md">Natural Provenance Systems</a>
 
-## Part Three: The Patterns
+## Part Three: The Fields of Influence
 
-### Chapter Eleven: <a href="coordinationgeometry.md">Coordination Geometry</a>
-### Chapter Twelve: <a href="capital.md">Capital</a>
-### Chapter Thirteen: <a href="information.md">Information</a>
-### Chapter Fourteen: <a href="innovation.md">Innovation</a>
-### Chapter Fifteen: <a href="trust.md">Trust</a>
+### Existing Draft: <a href="coordinationgeometry.md">Coordination Geometry</a> - Being broken into five chapters:
+### Chapter 11: The Spatial and Temporal Fields (in progress)
+### Chapter 12: The Tribal Field (in progress)
+### Chapter 13: The Jurisdictional Field (in progress)
+### Chapter 14: The Economic Field (in progress)
+### Chapter 15: The Cultural Field (in progress)
+### Chapter 16: The Cross Field Matrix (in progress)
 
-## Part Four: The Choice
+## Part Four: The Pillars
 
-### Chapter Sixteen: <a href="polis.md">The Political Spectrum</a> (in progress)
-### Chapter Seventeen: History: Power through Control (in progress)
-### Chapter Eighteen: <a href="debts.md">Debts</a> (in progress)
-### Chapter Nineteen: Vectors and Choices, Where we stand today (in progress)
+### Chapter 17: <a href="capital.md">Capital</a>
+### Chapter 18: <a href="information.md">Information</a>
+### Chapter 19: <a href="innovation.md">Innovation</a>
+### Chapter 20: <a href="trust.md">Trust</a>
 
-## Part Five: The Invitation
+## Part Five: The Choice Surface
 
-### Chapter Twenty: Our Future: Peace through Collaboration (in progress)
-### Chapter Twenty One: Wealth (in progress)
-### Chapter Twenty Two: Towards Unity (in progress)
-### Chapter Twenty Three: What I'm still struggling with (in progress)
-### Chapter Twenty Four: The Journey Continues (in progress)
+### Chapter 21: <a href="polis.md">The Political Spectrum</a> (in progress)
+### Chapter 22: History: Power through Control (in progress)
+### Chapter 23: <a href="debts.md">Debts</a> (in progress)
+### Chapter 24: Vectors and Choices, Where we stand today (in progress)
 
-## Appendix
+## Part Six: The Invitation
+
+### Chapter 25: Our Future: Peace through Collaboration (in progress)
+### Chapter 26: Wealth (in progress)
+### Chapter 27: Towards Unity (in progress)
+### Chapter 28: What I'm still struggling with (in progress)
+### Chapter 29: The Journey Continues (in progress)
+
+## Appendix & Reference Guides
 
 ### Bibliography
 
