@@ -7,3 +7,5 @@ The Living Civilization documents a geometric pattern that recurs across cosmolo
 We are not failing to build a better world. We have been failing to read the one we already inhabit. The map exists. The coordinates are recoverable. The choice, for the first time in human history, is visible.
 
 Explore the <a href="toc.md">Table of Contents</a>
+
+Use the <a href="https://github.com/chadlupkes/livingcivilization/issues">Issues tab</a> to ask any question you have about the framework, and I will respond based on what I know and how the framework can be applied to a problem in the world.
