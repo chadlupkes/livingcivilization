@@ -36,10 +36,10 @@
 
 ## Part Four: The Pillars
 
-### Chapter 17: <a href="capital.md">Capital</a>
-### Chapter 18: <a href="information.md">Information</a>
-### Chapter 19: <a href="innovation.md">Innovation</a>
-### Chapter 20: <a href="trust.md">Trust</a>
+### Chapter 17: <a href="capital.md">Capital</a> (Initial Draft)
+### Chapter 18: <a href="information.md">Information</a> (Initial Draft)
+### Chapter 19: <a href="innovation.md">Innovation</a> (Initial Draft)
+### Chapter 20: <a href="trust.md">Trust</a> (Initial Draft)
 
 ## Part Five: The Choice Surface
 
@@ -52,9 +52,10 @@
 
 ### Chapter 25: Our Future: Peace through Collaboration (in progress)
 ### Chapter 26: Wealth (in progress)
-### Chapter 27: Towards Unity (in progress)
-### Chapter 28: What I'm still struggling with (in progress)
-### Chapter 29: The Journey Continues (in progress)
+### Chapter 27: Existence Proofs and the Civilization Dashboard (in progress)
+### Chapter 28: Towards Unity (in progress)
+### Chapter 29: What I'm still struggling with (in progress)
+### Chapter 30: The Journey Continues (in progress)
 
 ## Appendix & Reference Guides
 
