@@ -1,5 +1,7 @@
 # Coordination Geometry
 
+Rewrite in progress, will be breaking this chapter into 6 field focused chapters.
+
 ## I. The Fulcrum
 
 _Where observation becomes action, where foundation becomes construction_
