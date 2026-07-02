@@ -178,6 +178,20 @@ I remain at my desk, working with thought experiments and the papers I can find.
 
 ## References
 
+**On the hippocampus and the Network dimension**
+
+Tolman, E. C. (1948). Cognitive maps in rats and men. *Psychological Review*, 55(4), 189-208.
+
+O'Keefe, J., & Dostrovsky, J. (1971). The hippocampus as a spatial map. Preliminary evidence from unit activity in the freely-moving rat. *Brain Research*, 34(1), 171-175.
+
+O'Keefe, J., & Nadel, L. (1978). *The Hippocampus as a Cognitive Map*. Oxford: Clarendon Press.
+
+Wilson, M. A., & McNaughton, B. L. (1994). Reactivation of hippocampal ensemble memories during sleep. *Science*, 265(5172), 676-679.
+
+Skaggs, W. E., & McNaughton, B. L. (1996). Replay of neuronal firing sequences in rat hippocampus during sleep following spatial experience. *Science*, 271(5257), 1870-1873.
+
+*The thread runs from concept to mechanism to consolidation. Tolman inferred an internal cognitive map from behavior in 1948, positing that rats build a spatial model rather than merely chaining stimulus and response. O'Keefe and Dostrovsky found its physical basis in 1971 with the discovery of place cells, neurons that fire when an animal occupies a specific location, and O'Keefe and Nadel proposed in 1978 that the hippocampus is the seat of Tolman's cognitive map. Wilson and McNaughton, then Skaggs and McNaughton, showed that the brain replays these spatial firing sequences during sleep, identifying the mechanism by which navigational experience is consolidated into durable structure. O'Keefe shared the 2014 Nobel Prize in Physiology or Medicine for this line of work. This is the depth of mechanistic grounding the Network dimension already enjoyed, and the standard against which the Form dimension had been, until this research, comparatively underbuilt.*
+
 **On visual abstraction and the Form dimension**
 
 Fan, J. E., Hawkins, R. X. D., Wu, M., & Goodman, N. D. (2020). Pragmatic inference and visual abstraction enable contextual flexibility during visual communication. *Computational Brain & Behavior*, 3, 86-101. (Preprint: arXiv:1903.04448)
